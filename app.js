@@ -6,6 +6,8 @@
   const KEYWORD_ALL = '__ALL__';
   const DATE_DAYS = { '1d': 1, '7d': 7, '30d': 30, '90d': 90 };
   const DATE_LABELS = { '1d': '1日', '7d': '1週間', '30d': '1ヶ月', '90d': '3ヶ月' };
+  const FAVORITES_KEY = 'dr_favorites_v1';
+  const FAVORITES_VERSION = 1;
 
   const $list = document.getElementById('article-list');
   const $title = document.getElementById('site-title');
@@ -16,14 +18,23 @@
   const $chipsRow = document.getElementById('keyword-chips');
   const $dateFilterRow = document.getElementById('date-filter-row');
   const $sampleBanner = document.getElementById('sample-banner');
+  const $favRow = document.getElementById('favorite-filter-row');
+  const $favToggle = document.getElementById('fav-filter-toggle');
+  const $favExport = document.getElementById('fav-export-btn');
+  const $favCount = document.getElementById('fav-count');
 
   const state = {
     articles: [],
     fuse: null,
     selectedKeyword: KEYWORD_ALL,
     dateRange: '7d',
-    isSample: false
+    isSample: false,
+    favorites: new Set(),
+    favoritesMeta: new Map(),
+    favoritesOnly: false
   };
+
+  loadFavorites();
 
   setRepoLinkFromLocation();
 
@@ -50,10 +61,18 @@
       minMatchCharLength: 1
     });
 
+    if (!state.isSample) {
+      pruneStaleFavorites(state.articles);
+    }
+
     renderSampleBanner(state.isSample);
     renderLastUpdated(lastUpdated);
     renderKeywordChips(buildKeywordList(state.articles));
     setupDateChips();
+    setupFavoriteFilter();
+    setupFavoriteExport();
+    renderFavoriteRow();
+    updateFavCount();
     runSearch();
 
     $search.addEventListener('input', onSearchInput);
@@ -79,6 +98,9 @@
     items = filterByDate(items, state.dateRange);
     if (state.selectedKeyword !== KEYWORD_ALL) {
       items = items.filter((a) => a.matched_keyword === state.selectedKeyword);
+    }
+    if (state.favoritesOnly) {
+      items = items.filter((a) => state.favorites.has(a.id));
     }
     render(items, q);
   }
@@ -167,6 +189,10 @@
     }
     card.appendChild(meta);
 
+    if (isFavoriteable(article)) {
+      meta.appendChild(buildFavoriteButton(article));
+    }
+
     if (Array.isArray(article.tags) && article.tags.length) {
       const tags = document.createElement('div');
       tags.className = 'tags';
@@ -186,6 +212,7 @@
     const reasons = [];
     if (query) reasons.push(`「${query}」`);
     if (state.selectedKeyword !== KEYWORD_ALL) reasons.push(`キーワード「${state.selectedKeyword}」`);
+    if (state.favoritesOnly) reasons.push('お気に入り');
     const periodLabel = DATE_LABELS[state.dateRange];
     if (periodLabel) {
       if (reasons.length) {
@@ -378,6 +405,136 @@
       if (!r.ok) throw new Error(`${r.status} ${url}`);
       return r.text();
     });
+  }
+
+  function isFavoriteable(article) {
+    return !!(article && article.id && !String(article.id).startsWith('sample'));
+  }
+
+  function loadFavorites() {
+    try {
+      const raw = localStorage.getItem(FAVORITES_KEY);
+      if (!raw) return;
+      const parsed = JSON.parse(raw);
+      if (!parsed || !Array.isArray(parsed.ids)) return;
+      state.favorites = new Set(parsed.ids);
+      const meta = parsed.meta && typeof parsed.meta === 'object' ? parsed.meta : {};
+      state.favoritesMeta = new Map(Object.entries(meta));
+    } catch (e) {
+      console.warn('failed to load favorites:', e);
+      state.favorites = new Set();
+      state.favoritesMeta = new Map();
+    }
+  }
+
+  function saveFavorites() {
+    try {
+      const meta = {};
+      for (const [id, v] of state.favoritesMeta.entries()) {
+        if (state.favorites.has(id)) meta[id] = v;
+      }
+      const payload = {
+        version: FAVORITES_VERSION,
+        ids: Array.from(state.favorites),
+        meta
+      };
+      localStorage.setItem(FAVORITES_KEY, JSON.stringify(payload));
+    } catch (e) {
+      console.warn('failed to save favorites:', e);
+    }
+  }
+
+  function pruneStaleFavorites(articles) {
+    if (!state.favorites.size) return;
+    const valid = new Set(articles.map((a) => a.id).filter(Boolean));
+    let changed = false;
+    for (const id of Array.from(state.favorites)) {
+      if (!valid.has(id)) {
+        state.favorites.delete(id);
+        state.favoritesMeta.delete(id);
+        changed = true;
+      }
+    }
+    if (changed) saveFavorites();
+  }
+
+  function toggleFavorite(articleId) {
+    if (!articleId) return;
+    if (state.favorites.has(articleId)) {
+      state.favorites.delete(articleId);
+      state.favoritesMeta.delete(articleId);
+    } else {
+      state.favorites.add(articleId);
+      state.favoritesMeta.set(articleId, { favorited_at: new Date().toISOString() });
+    }
+    saveFavorites();
+    updateFavCount();
+    if (state.favoritesOnly) runSearch();
+  }
+
+  function buildFavoriteButton(article) {
+    const btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = 'fav-btn';
+    const isFav = state.favorites.has(article.id);
+    btn.setAttribute('aria-pressed', isFav ? 'true' : 'false');
+    btn.setAttribute('aria-label', isFav ? 'お気に入りから外す' : 'お気に入りに追加');
+    btn.textContent = isFav ? '★' : '☆';
+    btn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      toggleFavorite(article.id);
+      const nowFav = state.favorites.has(article.id);
+      btn.setAttribute('aria-pressed', nowFav ? 'true' : 'false');
+      btn.setAttribute('aria-label', nowFav ? 'お気に入りから外す' : 'お気に入りに追加');
+      btn.textContent = nowFav ? '★' : '☆';
+    });
+    return btn;
+  }
+
+  function setupFavoriteFilter() {
+    if (!$favToggle) return;
+    $favToggle.addEventListener('click', () => {
+      state.favoritesOnly = !state.favoritesOnly;
+      $favToggle.classList.toggle('chip-active', state.favoritesOnly);
+      $favToggle.setAttribute('aria-pressed', state.favoritesOnly ? 'true' : 'false');
+      runSearch();
+    });
+  }
+
+  function setupFavoriteExport() {
+    if (!$favExport) return;
+    $favExport.addEventListener('click', exportFavoritesJson);
+  }
+
+  function exportFavoritesJson() {
+    const favorites = Array.from(state.favorites).map((id) => {
+      const m = state.favoritesMeta.get(id) || {};
+      return { id, favorited_at: m.favorited_at || null };
+    });
+    const payload = {
+      version: FAVORITES_VERSION,
+      exported_at: new Date().toISOString(),
+      favorites
+    };
+    const blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = 'favorites.json';
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    setTimeout(() => URL.revokeObjectURL(url), 0);
+  }
+
+  function renderFavoriteRow() {
+    if (!$favRow) return;
+    $favRow.hidden = state.isSample;
+  }
+
+  function updateFavCount() {
+    if (!$favCount) return;
+    $favCount.textContent = String(state.favorites.size);
   }
 
   function setRepoLinkFromLocation() {

@@ -41,6 +41,12 @@
         <button type="button" class="chip" data-range="all">すべて</button>
       </div>
       <div id="keyword-chips" class="chips-row" role="toolbar" aria-label="キーワードで絞り込み" hidden></div>
+      <div id="favorite-filter-row" class="filter-row" role="toolbar" aria-label="お気に入りで絞り込み" hidden>
+        <button id="fav-filter-toggle" class="chip" type="button" aria-pressed="false">
+          ★ お気に入りのみ<span id="fav-count" class="fav-count">0</span>
+        </button>
+        <button id="fav-export-btn" class="chip chip-secondary" type="button" aria-label="お気に入りをJSONでエクスポート">エクスポート</button>
+      </div>
     </div>
   </header>
 

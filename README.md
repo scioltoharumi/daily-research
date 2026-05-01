@@ -54,7 +54,8 @@
 ├── config.json                キーワード・関連語・件数の設定（ここだけ変えれば挙動が変わる）
 ├── data/
 │   ├── articles.json          全記事配列（増分追記、初期は空配列）
-│   └── last_updated.txt       最終実行時刻（ISO8601, JST）
+│   ├── last_updated.txt       最終実行時刻（ISO8601, JST）
+│   └── favorites.json         お気に入りのエクスポート（任意・初回コミット時に出現）
 └── prompts/
     └── daily-research.md      Scheduled Agent が読む実行手順
 ```
@@ -183,6 +184,34 @@ python -m http.server 8000
 
 ---
 
+## お気に入り機能
+
+各記事カードのメタ行右端に星ボタン（☆ / ★）があり、クリックでお気に入りを切り替えられる。状態はブラウザの `localStorage`（キー: `dr_favorites_v1`）に保存され、リロードしても残る。
+
+### サイト上での絞り込み
+
+ヘッダー下部の「★ お気に入りのみ」チップで、お気に入り登録した記事だけに絞り込める。検索 / 期間 / キーワードフィルタとは AND 条件で重ねがけ可能。
+
+### Scheduled Agent への嗜好フィードバック
+
+「エクスポート」ボタンで `favorites.json` をダウンロードし、`data/favorites.json` としてリポジトリに commit & push すると、翌朝以降の Scheduled Agent がそれを読み、嗜好プロファイル（頻出 source / matched_keyword / tags / 要約頻出語）を抽出する。
+
+このプロファイルは **ハードフィルタではなく、品質審査時の加点要素**として使われる:
+
+- 同程度の品質で甲乙つけ難い候補のあいだの優先順位付けにのみ使う
+- 嗜好に合わないというだけで良質な記事は捨てない（多様性は意図的に残す）
+- お気に入り件数が5件未満の場合は嗜好抽出をスキップする（ノイズ過多のため）
+
+エクスポート＆コミットは数日に1回でOK。頻繁に行う必要はない。
+
+### 制約
+
+- サンプルデータ表示中は星ボタンが出ない（実データに切り替わってから使える）
+- 過去の `articles.json` から消えた記事のお気に入りは、起動時に自動で `localStorage` から除去される
+- バックエンドを持たない設計のため、ブラウザ間（端末間）でのお気に入り共有は手動エクスポート＆コミットに依存する
+
+---
+
 ## 想定挙動
 
 - **新着0件の日**: `last_updated.txt` だけが更新され、サイトには「最終更新」だけ進む
@@ -204,6 +233,7 @@ python -m http.server 8000
 - **キャッシュ**: `fetch` に `cache: 'no-store'` を付け、Pagesのキャッシュを回避
 - **ダーク対応**: `prefers-color-scheme` でCSS変数を切り替え
 - **XSS対策**: 記事のレンダリングは全て `createElement` + `textContent`。`innerHTML` で外部データを埋めない
+- **お気に入り**: `localStorage` のキー `dr_favorites_v1` に `{ version, ids[], meta }` で保存。エクスポート時は `{ version, exported_at, favorites[{id, favorited_at}] }` 形式で `favorites.json` にダウンロード。サンプル記事（id が `sample` で始まる）は対象外
 
 ---
 
