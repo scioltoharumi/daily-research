@@ -88,8 +88,9 @@
     if (!days) return items;
     const threshold = Date.now() - days * 24 * 60 * 60 * 1000;
     return items.filter((a) => {
-      if (!a.fetched_at) return false;
-      const t = Date.parse(a.fetched_at);
+      const dateStr = a.published_at || a.fetched_at;
+      if (!dateStr) return false;
+      const t = Date.parse(dateStr);
       return !isNaN(t) && t >= threshold;
     });
   }
