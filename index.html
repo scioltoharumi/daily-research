@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily Research</title>
+  <meta name="description" content="日次でWeb調査した記事をまとめて閲覧・検索できるサイト">
+  <link rel="stylesheet" href="./style.css">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%93%B0%3C/text%3E%3C/svg%3E">
+</head>
+<body>
+  <div id="sample-banner" class="sample-banner" role="status" hidden>
+    <span class="sample-banner-text">
+      動作確認用のサンプルデータを表示中です。Scheduled Agent が初めて記事を追加すると、自動的に実データに切り替わります。
+    </span>
+  </div>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="title-row">
+        <h1 id="site-title">Daily Research</h1>
+        <span id="last-updated" class="last-updated" aria-live="polite"></span>
+      </div>
+      <div class="search-row">
+        <input
+          type="search"
+          id="search-input"
+          class="search-input"
+          placeholder="タイトル・要約・タグで絞り込み（例: 規制、空港、AI）"
+          autocomplete="off"
+          aria-label="記事を検索"
+        >
+        <span id="result-count" class="result-count" aria-live="polite"></span>
+      </div>
+      <div id="date-filter-row" class="filter-row" role="toolbar" aria-label="期間で絞り込み">
+        <span class="filter-label">期間:</span>
+        <button type="button" class="chip" data-range="1d">1日</button>
+        <button type="button" class="chip chip-active" data-range="7d" aria-pressed="true">1週間</button>
+        <button type="button" class="chip" data-range="30d">1ヶ月</button>
+        <button type="button" class="chip" data-range="90d">3ヶ月</button>
+        <button type="button" class="chip" data-range="all">すべて</button>
+      </div>
+      <div id="keyword-chips" class="chips-row" role="toolbar" aria-label="キーワードで絞り込み" hidden></div>
+    </div>
+  </header>
+
+  <main id="article-list" class="article-list">
+    <p class="status status-loading">読み込み中…</p>
+  </main>
+
+  <footer class="site-footer">
+    <p>
+      毎日 JST 06:00 に Claude Code Web の Scheduled Agent が更新 /
+      <a id="repo-link" href="#" target="_blank" rel="noopener">GitHub リポジトリ</a>
+    </p>
+  </footer>
+
+  <script type="application/json" id="fallback-sample">
+[
+  {
+    "id": "sample0000001",
+    "title": "空港での顔認証ゲート、国内主要4空港で導入完了 — 入国審査時間を平均50%短縮",
+    "url": "https://example.com/airport-face-auth-2026",
+    "url_normalized": "example.com/airport-face-auth-2026",
+    "summary": "国土交通省は、成田・羽田・関西・中部の主要4空港で顔認証ゲートの全面展開が完了したと発表した。事前登録した渡航者はパスポート提示なく顔データのみで入国審査を通過でき、導入後の平均審査時間は従来比で約50%短縮された。プライバシー団体からは顔データの保存期間と第三者提供の透明性を求める声も上がっている。背景には、訪日客数の急回復による審査ブースの慢性的な混雑、ICAOやIATAが推進する旅客処理時間短縮の国際潮流、そして生体認証技術の精度向上があると考えられる。コロナ後の非接触志向や、各国がe-Gateを標準化していく流れも追い風になっている可能性がある。この動きは、入国審査官の業務を機械的なスタンプ押しから、例外対応やリスク識別といった判断系の仕事に集中させうる点で示唆的だ。旅行者側にとっても入国時の行列という最も無駄な時間が消え、旅という体験を純粋に楽しめる時間に変換されうる。空港のラウンジや交通連携サービスでも事前登録の顔データを軸にしたシームレス化が広がれば、移動全体がより快適で創造的な時間に変わっていく可能性がある。",
+    "source": "サンプル日経テック",
+    "lang": "ja",
+    "tags": ["空港", "導入事例", "プライバシー"],
+    "matched_keyword": "顔認証",
+    "fetched_at": "2026-05-01T06:00:00+09:00",
+    "published_at": "2026-04-30"
+  },
+  {
+    "id": "sample0000002",
+    "title": "EU AI Act: Live facial recognition in public spaces faces stricter rules from June",
+    "url": "https://example.com/eu-ai-act-frt-2026",
+    "url_normalized": "example.com/eu-ai-act-frt-2026",
+    "summary": "EUのAI法（AI Act）における、公共空間でのリアルタイム顔認証に関する追加施行ガイドラインが6月から発効する。法執行機関による利用は重大犯罪の捜査など限定用途に絞られ、事前の司法承認が原則必須となり、違反時には全世界売上高の最大7%の制裁金が科される。各国規制当局は監督体制の整備を急いでいる。背景には、中国・英国の警察による顔認証濫用への懸念、市民団体による継続的な抗議活動、そしてEUが掲げる『人権を中心に据えたAI規制』というスタンスがあると考えられる。技術側の精度向上が皮肉にも『気づかれず誰でも識別できる』段階に達したことで、規制を急ぐ必要性が浮上した文脈もある。この動きは、現場の意思決定にとって意外にも前向きに働きうる。『やってよいこと／いけないこと』が明文化されれば、企業内で起きがちな『これってどこまでAIに任せていいんだっけ』という不毛な議論や、責任の押し付け合いが減ることが期待される。境界線が引かれた領域内であれば、エンジニアもプロダクト担当も安心して創造的な活用に踏み込め、本当に価値の出るユースケースに集中できるようになる可能性がある。",
+    "source": "サンプルEU Tech News",
+    "lang": "en",
+    "tags": ["規制", "EU", "AI Act", "プライバシー"],
+    "matched_keyword": "顔認証",
+    "fetched_at": "2026-05-01T06:00:00+09:00",
+    "published_at": "2026-04-29"
+  },
+  {
+    "id": "sample0000003",
+    "title": "国立科学博物館、AI解説と高精細VRを組み合わせた『触れる科学史』常設展示を6月開幕",
+    "url": "https://example.com/kahaku-vr-ai-2026",
+    "url_normalized": "example.com/kahaku-vr-ai-2026",
+    "summary": "国立科学博物館（東京・上野）が、所蔵標本3万点を高精細スキャン化し、来館者がタブレットをかざすとAIによる対話型解説と関連する科学史エピソードのVR再現が見られる『触れる科学史』常設展示を6月から開幕すると発表した。学芸員監修のもと、児童・一般・専門家の3レベルで解説の深さが自動的に切り替わるという。背景には、博物館入館者数の伸び悩み、専門学芸員の絶対数不足、デジタル世代の能動的体験志向、そして文化庁のDX予算と学術機関向け生成AI活用ガイドラインの整備があると考えられる。生成AIが『監修者の知見をスケールさせる装置』として、ようやく文化機関でも実用ラインに乗ったと言える動きだ。この変化は、学芸員という職業の中身を組み替えうる。同じ解説を一日100回繰り返す消耗的な仕事から解放され、新規研究や特別展の企画、史料との未知の接続づくりといった創造的な仕事に時間を回せる可能性が高い。来館者にとっても、自分の関心と理解度に合わせて好きなだけ深掘りできることで、『学ぶ』という体験そのものが軽やかで楽しいものに戻っていく。",
+    "source": "サンプル文化ニュース",
+    "lang": "ja",
+    "tags": ["博物館", "デジタル化", "AI解説", "学芸員"],
+    "matched_keyword": "歴史・教養",
+    "fetched_at": "2026-04-30T06:00:00+09:00",
+    "published_at": "2026-04-29"
+  },
+  {
+    "id": "sample0000004",
+    "title": "くずし字AI解読、江戸期商家文書の翻刻速度が研究者の30倍に — 全国15大学が共同基盤を運用開始",
+    "url": "https://example.com/kuzushiji-ai-collab-2026",
+    "url_normalized": "example.com/kuzushiji-ai-collab-2026",
+    "summary": "国立歴史民俗博物館を中心とした全国15大学のコンソーシアムが、くずし字解読AIの共同基盤を構築し、江戸期商家文書の翻刻速度を従来の研究者比約30倍まで引き上げたと発表した。研究者が最終チェックを担う『人間との協業』モデルで、これまで一部の専門家しかアクセスできなかった膨大な未翻刻史料が来年度から段階的に公開される予定だ。背景には、長年にわたり研究室の倉庫で眠り続けてきた未翻刻文書の構造問題、若手日本史研究者の減少、画像認識AIの飛躍的進化、そしてHuggingFace等での日本語OCRモデルのオープンソース化と、科研費による人文DX推進があると考えられる。この動きは、文系研究者の仕事の重心を組み替えうる。『翻刻という単純労働の積み上げ』から『翻刻された大量データから新しい問いを立てる』というクリエイティブな方向へ移行する可能性がある。教養層にとっても、これまで研究者にしか開かれていなかった一次史料に解読済みで触れられる時代が近づき、歴史の楽しみ方そのものが広がっていきうる。",
+    "source": "サンプル人文情報学報",
+    "lang": "ja",
+    "tags": ["AI解読", "古文書", "共同研究", "デジタル人文学"],
+    "matched_keyword": "歴史・教養",
+    "fetched_at": "2026-04-30T06:00:00+09:00",
+    "published_at": "2026-04-28"
+  },
+  {
+    "id": "sample0000005",
+    "title": "国内大企業の生成AI本格導入、6割が『日常業務化』フェーズへ — 経産省2026年調査",
+    "url": "https://example.com/genai-enterprise-survey-2026",
+    "url_normalized": "example.com/genai-enterprise-survey-2026",
+    "summary": "経産省が公表した2026年度生成AI業務導入実態調査によると、上場大企業の約6割が『日常業務化フェーズ』、すなわち限定実証ではなく常時利用に移行していることが明らかになった。最も活用が進む領域は議事録要約・メール下書き・コード生成で、導入企業の37%が『対象業務の処理時間が30%以上短縮』と回答した。一方で25%は『品質管理や社内ルール整備が追いついていない』と答えている。背景には、日本企業特有の『PoC止まり』批判への反省、人事部門によるリスキル投資の累積効果、ハルシネーション抑制技術の成熟、社内データを学習させずに使えるエンタープライズ契約の浸透、そして競合が使い始めたことで『使わない不利』が顕在化したことがあると考えられる。この動きは、社員の時間配分そのものを組み替えうる。単純作業のオフロードが進めば、人は『自分にしかできない判断』『顧客との対話』『創造的な企画』に時間を回せる。同時にガイドライン整備という地味で重要な仕事も浮上し、働く人の創造性をどう解放するかが企業競争力の差になっていく可能性が高い。",
+    "source": "サンプル経産ジャーナル",
+    "lang": "ja",
+    "tags": ["大企業", "業務導入", "経産省", "生産性"],
+    "matched_keyword": "生成AI",
+    "fetched_at": "2026-04-30T06:00:00+09:00",
+    "published_at": "2026-04-30"
+  },
+  {
+    "id": "sample0000006",
+    "title": "Coding agents now solve 78% of real-world GitHub issues — new SWE-bench Verified results",
+    "url": "https://example.com/swebench-verified-2026q2",
+    "url_normalized": "example.com/swebench-verified-2026q2",
+    "summary": "2026年4月版 SWE-bench Verified の結果が公開され、最新世代のコーディングエージェントが実リポジトリの未解決issueの78%を、1〜3回のやり取りで解決できると示された。前年同期の31%から大幅な改善で、Anthropic Claude Opus 4.7、OpenAI o4-codex、Google Gemini 3 Codeが上位を占めた。背景には、ツール使用と長期記憶の統合、テスト駆動の自己修正パイプラインの普及、コードグラフ表現の進化があると考えられる。ベンチ基準が『書ける』から『テストを通せる』へ変遷したことも実用化を後押ししたと言える。この動きは、エンジニアという職種の中身を組み替えうる。『手を動かしてコードを書く』作業の多くがエージェント側へ移れば、人間は『何を作るか』『なぜ作るか』『どう壊さないか』を考える時間に重心を寄せられる。退屈なボイラープレートやバグ潰しから解放されることで、設計やレビュー、チームとの対話、そして本来プログラミングが持っていた創造の楽しさを取り戻せる開発者が増える可能性がある。",
+    "source": "サンプルThe Pragmatic Tech",
+    "lang": "en",
+    "tags": ["コーディングエージェント", "ベンチマーク", "SWE-bench", "開発者体験"],
+    "matched_keyword": "生成AI",
+    "fetched_at": "2026-04-29T06:00:00+09:00",
+    "published_at": "2026-04-29"
+  },
+  {
+    "id": "sample0000007",
+    "title": "中核市が住民申請書類の8割を廃止、年7,500時間削減 — 全面BPR実証実験の結果公表",
+    "url": "https://example.com/city-bpr-paperless-2026",
+    "url_normalized": "example.com/city-bpr-paperless-2026",
+    "summary": "関東圏の中核市が、住民申請書類の8割を廃止する全面BPR実証実験の結果を発表した。マイナンバーカード連携と既存データベース照合、生成AIによる文書要約・自動分類を組み合わせた仕組みで、住民・職員双方の窓口時間を年間7,500時間削減できたという。背景には、自治体DXの政府主導の加速、職員の高齢化と慢性的な人手不足、住民満足度の低下、そして長年維持されてきた『書類至上主義』へのなし崩し的な反省と、生成AIが実用ラインに乗ったという技術的な追い風があると考えられる。判子・紙文化に対し、住民・職員双方が『不便』だと声を上げる素地が整っていた可能性もある。この動きは、自治体職員の仕事の中身を組み替えうる。同じ書類を年に何百回さばくという機械的な業務が消えれば、職員は住民との対話、地域課題の深掘り、施策企画といった本質的な仕事に時間を回せる。住民にとっても役所が『書類を出しに行く場所』から『相談しに行く場所』に近づきうる。BPRの本質は『何を辞めるか』を決める勇気にあり、デジタル技術はその後押しに過ぎないという示唆も含んだ事例と言える。",
+    "source": "サンプル自治体DX通信",
+    "lang": "ja",
+    "tags": ["自治体", "BPR", "申請書類削減", "DX"],
+    "matched_keyword": "業務改革",
+    "fetched_at": "2026-04-30T06:00:00+09:00",
+    "published_at": "2026-04-29"
+  },
+  {
+    "id": "sample0000008",
+    "title": "Stripe publishes internal automation playbook: 60% of ops work now self-serve",
+    "url": "https://example.com/stripe-automation-playbook-2026",
+    "url_normalized": "example.com/stripe-automation-playbook-2026",
+    "summary": "決済プラットフォームのStripeが社内業務自動化のプレイブック（運用書）を公開し、社内オペレーション業務の60%がすでにセルフサービス化されていると明らかにした。Slackコマンドや内製アプリ、コード化されたランブックを通じて、休暇申請、経費承認、アクセス権付与などの定型業務が人を介さず完結する仕組みだ。要点は『人がやる仕事を減らす』のではなく『人がやらなくていい仕事を可視化する』というアプローチにある。背景には、テック企業の組織肥大化に伴うオペレーション業務の不可視化、リモート勤務の普及で『誰がいつ何をやっているか』が見えにくくなった反省、コード化された業務手順の文化的浸透、そしてSaaS市場の成熟があると考えられる。この動きは、業務改革のあり方そのものへの示唆を含む。改革は必ずしも外部コンサルが大上段で構えるものではなく、『面倒だな』と感じた一人がツールを書いて共有する積み上げでも成立しうる。社員一人ひとりが小さな自動化を提案・実装する文化は、創造性と効率性を両立させる現代的な働き方として、他業界にも波及していく可能性がある。",
+    "source": "サンプルThe Pragmatic Tech",
+    "lang": "en",
+    "tags": ["Stripe", "自動化", "セルフサービス", "開発文化"],
+    "matched_keyword": "業務改革",
+    "fetched_at": "2026-04-29T06:00:00+09:00",
+    "published_at": "2026-04-28"
+  }
+]
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>

@@ -1,0 +1,49 @@
+{
+  "keywords": [
+    {
+      "name": "顔認証",
+      "related_terms": [
+        "生体認証",
+        "face recognition",
+        "facial recognition",
+        "biometric authentication"
+      ]
+    },
+    {
+      "name": "歴史・教養",
+      "related_terms": [
+        "歴史研究",
+        "博物館",
+        "古文書",
+        "デジタル人文学",
+        "humanities",
+        "cultural heritage"
+      ]
+    },
+    {
+      "name": "生成AI",
+      "related_terms": [
+        "LLM",
+        "large language model",
+        "ChatGPT",
+        "コード生成",
+        "AIエージェント",
+        "プロンプトエンジニアリング"
+      ]
+    },
+    {
+      "name": "業務改革",
+      "related_terms": [
+        "BPR",
+        "業務効率化",
+        "DX",
+        "RPA",
+        "ワークフロー自動化",
+        "business process reengineering"
+      ]
+    }
+  ],
+  "languages": ["ja", "en"],
+  "max_per_run_per_keyword": 10,
+  "lookback_hours": 48
+}
