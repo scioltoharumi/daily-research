@@ -73,6 +73,7 @@
     setupFavoriteExport();
     renderFavoriteRow();
     updateFavCount();
+    setupHeaderCompactOnScroll();
     runSearch();
 
     $search.addEventListener('input', onSearchInput);
@@ -535,6 +536,33 @@
   function updateFavCount() {
     if (!$favCount) return;
     $favCount.textContent = String(state.favorites.size);
+  }
+
+  function setupHeaderCompactOnScroll() {
+    const header = document.querySelector('.site-header');
+    if (!header) return;
+    const COMPACT_AT = 80;
+    const EXPAND_AT = 20;
+    let scheduled = false;
+
+    function update() {
+      scheduled = false;
+      const y = window.scrollY || window.pageYOffset || 0;
+      if (y > COMPACT_AT) {
+        header.classList.add('header-compact');
+      } else if (y < EXPAND_AT) {
+        header.classList.remove('header-compact');
+      }
+    }
+
+    window.addEventListener('scroll', () => {
+      if (!scheduled) {
+        scheduled = true;
+        requestAnimationFrame(update);
+      }
+    }, { passive: true });
+
+    update();
   }
 
   function setRepoLinkFromLocation() {
