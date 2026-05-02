@@ -1,5 +1,43 @@
 [
   {
+    "id": "00562a97c212",
+    "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI's models",
+    "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+    "url_normalized": "technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models",
+    "summary": "Elon MuskとSam AltmanらOpenAI幹部の訴訟「Musk v. Altman」の第1週審理が2026年4月29日〜5月1日にカリフォルニア州オークランドで行われた。Muskは2015年の共同創設時に3,800万ドルを出資したと証言し、「2022年のMicrosoft投資時点でOpenAIへの信頼を失った」と述べ、非営利組織が営利化されたことへの異議を強調した。法廷では、自身のAI企業xAIがOpenAIのモデルを蒸留技術で活用していることも認める場面があり、傍聴者から驚きの声が漏れた。OpenAIの弁護士は「Muskは最初から非営利に全面賛成していたわけではなく、競合排除目的で提訴している」と反論している。担当判事は責任フェーズ（5月21日完了予定）と救済フェーズの2段階構成を設定した。OpenAIのIPO計画や各社の軍事・政府向けAI事業が交錯するなか、本件は「非営利のAI研究機関が大規模商業化する際の統治責任は誰が負うのか」という問いに法的な形で答えを出す試みと考えられる。AI開発の主流が公益目的から産業・軍事目的へ急速に移行した経緯を巡る創業者間の哲学的齟齬が法廷で争われるという構図は、この数年のAI業界の転換点を象徴している。本裁判の結果は、企業がAIツールを選ぶ際に「この会社の倫理方針・統治体制は信頼できるか」を評価する基準を明確にし、業務改善にAIを取り入れる組織が調達判断においてツールの性能と同等以上にベンダーの信頼性を重視する方向を後押しするかもしれない。",
+    "source": "MIT Technology Review",
+    "lang": "en",
+    "tags": [
+      "訴訟",
+      "OpenAI",
+      "ガバナンス",
+      "AI倫理",
+      "IPO"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-05-01",
+    "fetched_at": "2026-05-02T15:00:00+09:00"
+  },
+  {
+    "id": "bc26e69685c0",
+    "title": "Salesforce introduces Agentforce Operations to automate outdated back-office tasks",
+    "url": "https://siliconangle.com/2026/04/29/salesforce-introduces-agentforce-operations-automate-outdated-back-office-tasks/",
+    "url_normalized": "siliconangle.com/2026/04/29/salesforce-introduces-agentforce-operations-automate-outdated-back-office-tasks",
+    "summary": "Salesforceは2026年4月29日、バックオフィス業務を自動化するAIプラットフォーム「Agentforce Operations」の一般提供を開始した。請求書監査・社員オンボーディング・購買注文変更といった業務に特化したAIエージェントが、社内の断片化したシステムを横断しながらドキュメント照合・コンプライアンス確認・承認フローを自律的に処理する。導入速度は「既存ソリューションの80倍」と謳い、30種超のプロセステンプレート（ブループリント）を提供する。サイクル時間を50〜70%短縮、手動データ入力を80%削減したとの事例が報告されており、担当者が自然言語でプロセス変更を指示できる点も特徴だ。Salesforceが買収したRegrelloの技術が基盤で、5月にはSalesforce Flowとの統合ベータも開始予定だ。バックオフィス自動化の壁として長年指摘されてきた「基幹システムが分散しており人間が橋渡しするしかない」という構造的問題を、エージェントが横断的に処理できるように設計した点が従来のRPAや単機能ボットとの差異と考えられる。財務・調達・人事の反復データ処理から担当者が解放されれば、規制変更への対応設計や取引先との戦略交渉といったより判断を要する業務に時間を割り振れる可能性があり、バックオフィスを「コスト部門」から「意思決定を支える部門」として再設計する足がかりになりうる。",
+    "source": "SiliconANGLE",
+    "lang": "en",
+    "tags": [
+      "AIエージェント",
+      "バックオフィス",
+      "製品発表",
+      "Salesforce",
+      "ワークフロー自動化"
+    ],
+    "matched_keyword": "業務改革",
+    "published_at": "2026-04-29",
+    "fetched_at": "2026-05-02T15:00:00+09:00"
+  },
+  {
     "id": "23ef837ed455",
     "title": "German gov't retries pitch to let police use facial recognition on social media",
     "url": "https://www.biometricupdate.com/202604/german-govt-retries-pitch-to-let-police-use-facial-recognition-on-social-media",
