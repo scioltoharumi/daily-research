@@ -1,5 +1,81 @@
 [
   {
+    "id": "cd5a78b521d1",
+    "title": "ServiceNow just unveiled an AI workforce that can run your entire company: 'Enterprises need AI that senses, decides, and securely acts'",
+    "url": "https://fortune.com/2026/05/05/servicenow-knowledge-2026-autonomous-workforce-microsoft-nvidia-ai-announcements/",
+    "url_normalized": "fortune.com/2026/05/05/servicenow-knowledge-2026-autonomous-workforce-microsoft-nvidia-ai-announcements",
+    "summary": "ServiceNowは2026年5月5〜7日にラスベガスで開催した年次カンファレンス「Knowledge 2026」で、企業全体の業務プロセスを自律的に実行するAI群「Autonomous Workforce」をIT・CRM・HR・財務・法務・調達・セキュリティの全主要機能へ拡張したと発表した。同社CPOは「助言型AIの時代は終わった。企業には感知し、決定し、安全に行動するAIが必要だ」と語った。新機能「Context Engine」は人員・役割・資産・ポリシーをリアルタイムでマッピングし、AIに組織レベルの文脈を与える。「Workflow Data Fabric」は異なるシステム間を横断してデータを即時取得しアクションを可能にする。AI管理機能「AI Control Tower」は全パッケージへの標準搭載化が決まり、NVIDIAとの加速コンピュートインフラ統合も発表された。顧客事例では、IT対応時間の99%短縮・ケース自動解決率91%・脅威対応時間97%削減が報告された。2024年後半に買収したMoveworksの対話型AI技術を活用した「EmployeeWorks」が約2億人の従業員向けに自然言語指示をガバナンス付き実行ワークフローへ変換する。IT問い合わせ処理・HR手続き受付・調達申請審査といった反復的な社内サービス業務がAIに委任されれば、専門家が例外処理・ポリシー設計・従業員支援という本質的な仕事に集中できる体制が生まれうる。ServiceNowが「全機能にAI標準搭載」を打ち出した方向性は、ソフトウェア導入時の「AIオプション追加課金」モデルの終焉を示唆し、AIを後付けではなく前提とした業務設計への転換を企業に迫るものと考えられる。",
+    "source": "Fortune",
+    "lang": "en",
+    "tags": [
+      "AIエージェント",
+      "エンタープライズ",
+      "ServiceNow",
+      "ワークフロー自動化",
+      "Knowledge2026"
+    ],
+    "matched_keyword": "業務改革",
+    "published_at": "2026-05-05",
+    "fetched_at": "2026-05-06T21:15:00+09:00"
+  },
+  {
+    "id": "2235e7cc1631",
+    "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+    "url": "https://www.anthropic.com/news/higher-limits-spacex",
+    "url_normalized": "anthropic.com/news/higher-limits-spacex",
+    "summary": "Anthropicは2026年5月6日、SpaceXのColossus-1データセンターが保有する22万台超のNVIDIA GPUと300メガワット超の電力容量を全量確保する契約を締結したと発表した。同時にClaude ProおよびClaude Maxサブスクライバーの利用制限を大幅に引き上げることを明らかにした。AnthropicはすでにAmazon・Google・Microsoft・NVIDIAとも複数の大型コンピュート契約を締結しており、今回のSpaceX契約は合計で数十ギガワット規模の計算資源を確保する戦略の一環だ。2026年4月にGoogleから最大400億ドルの投資を受け急速な事業拡大期に入ったなか、OpenAIやGoogleとのフロンティアモデル開発競争が激化するなかで計算資源の先行確保が最優先課題となっている。Colossus-1はSpaceXが構築し当初xAIに供給していた施設とされており、Anthropicが確保したことはAI各社の計算資源争奪戦が新局面に入りつつあることを示唆している。Claude ProおよびClaude Maxの利用制限引き上げは、長文文書の一括処理・複雑なコード生成・エージェント型の多ステップタスクといったヘビーユースが業務に組み込みやすくなることを意味し、これまで試験的にしか扱えなかった業務自動化シナリオが本番環境での運用に近づく可能性がある。",
+    "source": "Anthropic",
+    "lang": "en",
+    "tags": [
+      "インフラ",
+      "GPU",
+      "SpaceX",
+      "Anthropic",
+      "Claude"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-05-06",
+    "fetched_at": "2026-05-06T21:15:00+09:00"
+  },
+  {
+    "id": "9d1993eae6e0",
+    "title": "Google Chrome Is Silently Downloading a 4GB Gemini Nano AI Model to User Devices Without Consent",
+    "url": "https://www.ghacks.net/2026/05/06/google-chrome-is-silently-downloading-a-4gb-gemini-nano-ai-model-to-user-devices-without-consent/",
+    "url_normalized": "ghacks.net/2026/05/06/google-chrome-is-silently-downloading-a-4gb-gemini-nano-ai-model-to-user-devices-without-consent",
+    "summary": "Googleが約4GBのGemini Nano AIモデルをChromeブラウザのデスクトップ版経由で、ユーザーの同意なしに少なくとも1年間にわたって自動ダウンロードしていたことが2026年5月6日に報じられた。ファイルを削除しても自動で再ダウンロードされる仕組みになっており、主に執筆支援などのChrome内機能で使用されるが、当該機能を利用していないユーザーにも広く展開されている。プライバシー研究者Alexander Hanff氏はGDPRなど欧州プライバシー法への違反として正式に非難し、全世界の推定インストール数を基に6,000〜60,000トン相当のCO2排出と試算した。Googleは公式声明を出していない。一方でChromeの「AIモード」のクエリは実際にはクラウドのモデルが処理しており、ローカルモデルとの役割分担が不明確なまま大規模展開されてきた事実も指摘されている。ブラウザを介した無通知のAIデプロイが規制上の先例となりうるほか、企業のIT部門にとっては管理端末に未申告のソフトウェアが展開されるリスクを把握・制御する必要性が改めて浮き彫りになった。エンドポイント管理ポリシーの観点から、自社フリートへの適用範囲を定期的に棚卸しする体制を整えておくことの重要性が増していると考えられる。",
+    "source": "gHacks Tech News",
+    "lang": "en",
+    "tags": [
+      "プライバシー",
+      "オンデバイスAI",
+      "Google",
+      "Chrome",
+      "GDPR"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-05-06",
+    "fetched_at": "2026-05-06T21:15:00+09:00"
+  },
+  {
+    "id": "089834b841b6",
+    "title": "Biometrics in warfare, surveillance raise new oversight challenges",
+    "url": "https://www.biometricupdate.com/202605/biometrics-in-warfare-surveillance-raise-new-oversight-challenges",
+    "url_normalized": "biometricupdate.com/202605/biometrics-in-warfare-surveillance-raise-new-oversight-challenges",
+    "summary": "米国議会調査局（CRS）は2026年5月5日、「生体認証技術とグローバルセキュリティ」と題する報告書を議会に提出した。国防総省が運用する生体認証システムの複数にデータ暗号化機能の欠如や廃棄時のデータ削除記録の不備が確認されたことが明らかにされた。また、低照度環境や約200メートル離れた距離からのレーザーによる人物識別など、軍事向け高度生体認証技術の開発状況が報告されており、事前定義された目標を人間の介入なしに識別・攻撃できる致命的自律兵器システムへの生体認証データ統合について、現行の法的枠組みに禁止規定が存在しないことも指摘した。中国がDNA・顔認証・音声認証を組み合わせた大規模監視インフラを構築していることも記述されており、議会は安全保障とプライバシーのバランス・精度検証・敵対国への対策の3点を中心に今後の政策立案を求められている。生体認証技術の応用範囲が身元確認から軍事・監視領域へ急拡大する背景には、AIとの統合による精度向上がある。顔認証システムを業務プロセスに組み込む企業にとっても、本報告書が示す暗号化・廃棄記録の水準が今後の業界標準や調達要件に波及する可能性があり、先行してセキュリティ文書整備と目的外利用防止策を設計しておくことが望ましいと考えられる。",
+    "source": "Biometric Update",
+    "lang": "en",
+    "tags": [
+      "生体認証",
+      "軍事",
+      "監視",
+      "議会報告",
+      "プライバシー"
+    ],
+    "matched_keyword": "顔認証",
+    "published_at": "2026-05-05",
+    "fetched_at": "2026-05-06T21:15:00+09:00"
+  },
+  {
     "id": "484e2248a326",
     "title": "UK regulators pan patchwork policy for law enforcement facial recognition",
     "url": "https://www.biometricupdate.com/202605/uk-regulators-pan-patchwork-policy-for-law-enforcement-facial-recognition",
