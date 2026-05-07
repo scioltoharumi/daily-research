@@ -1,5 +1,100 @@
 [
   {
+    "id": "b8d21a2efb0f",
+    "title": "UK lawmakers prepare for contentious national digital ID, police biometrics bills",
+    "url": "https://www.biometricupdate.com/202605/uk-lawmakers-prepare-for-contentious-national-digital-id-police-biometrics-bills",
+    "url_normalized": "biometricupdate.com/202605/uk-lawmakers-prepare-for-contentious-national-digital-id-police-biometrics-bills",
+    "summary": "英国政府は2026年5月13日の国王演説（King's Speech）に向け、任意参加の国家デジタルIDシステムを創設する法案と、警察の顔認証などバイオメトリクス利用を規制する新たな法的枠組みの準備を進めていることをBiometric Updateが5月7日に報じた。デジタルID法案は当初、就労確認への強制参加を想定していたが世論の反発を受けて任意制に変更され、財務大臣ダレン・ジョーンズが「任意参加を法文に明記する」と明言した。バイオメトリクス規制については2025年12〜2026年2月の意見公募を経て法案化を準備中だが詳細は未公表のまま。英国はEU離脱後に独自の規制路線を歩んでおり、EUのAI法と異なる枠組みが形成されつつある。国家デジタルIDが任意制であっても普及すれば行政手続きや民間サービスの本人確認コストが大幅に下がり得る。警察向け生体認証の規制整備が進めば、企業が業務システムへの顔認証組み込みを設計する際の参照基準が定まり、利便性追求と説明責任の確保を両立するガバナンス設計が事前に議論しやすくなると考えられる。",
+    "source": "Biometric Update",
+    "lang": "en",
+    "tags": [
+      "規制",
+      "デジタルID",
+      "イギリス",
+      "生体認証",
+      "立法"
+    ],
+    "matched_keyword": "顔認証",
+    "published_at": "2026-05-07",
+    "fetched_at": "2026-05-08T06:15:00+09:00"
+  },
+  {
+    "id": "ad5c080b81ec",
+    "title": "UK project uses supercomputers, synthetic data to improve emotion recognition",
+    "url": "https://www.biometricupdate.com/202605/uk-project-uses-supercomputers-synthetic-data-to-improve-emotion-recognition",
+    "url_normalized": "biometricupdate.com/202605/uk-project-uses-supercomputers-synthetic-data-to-improve-emotion-recognition",
+    "summary": "英国ゴールドスミス大学のゲオルギオス・マストラカキス講師が、英国政府のAI研究資源プログラム（AIRR）の採択を受け、顔の感情認識システムのバイアス問題に取り組む3カ月プロジェクトをBiometric Updateが2026年5月7日に報じた。ケンブリッジ大学のDawnとブリストル大学のIsambard-AIという英国の大型スーパーコンピュータが活用され、初回利用者向けに最大1万GPUホールが割り当てられる。従来の感情認識システムは、ラベルが不正確で多様性に乏しいデータセットで訓練されてきたため、人種・体型・性別などの属性によって精度に大きな差が生じてきた。今回はMayaグラフィクスで生成した合成画像を使い、顔の向き・照明・遮蔽・体型・人口統計的属性を体系的に制御することでラベル精度と多様性を同時に確保し、実際の感情表現データで精度を検証する手順が計画されている。感情認識は採用支援・顧客満足度測定・学習効果把握への応用が期待されてきたが、バイアスが普及の壁になっていた。合成データによるバイアス削減の知見が公開されれば、業務への導入判断に際して精度保証の議論がより具体的な数値で行えるようになり、現場での検証コストが下がる可能性がある。",
+    "source": "Biometric Update",
+    "lang": "en",
+    "tags": [
+      "感情認識",
+      "合成データ",
+      "バイアス",
+      "学術研究",
+      "生体認証"
+    ],
+    "matched_keyword": "顔認証",
+    "published_at": "2026-05-07",
+    "fetched_at": "2026-05-08T06:15:00+09:00"
+  },
+  {
+    "id": "a4990f15be33",
+    "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+    "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+    "url_normalized": "techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt",
+    "summary": "OpenAIは2026年5月5日、ChatGPTのデフォルトモデルを「GPT-5.5 Instant」へ更新し、全ユーザーへの段階的ロールアウトを開始したとTechCrunchが報じた。前モデルGPT-5.3 Instantに対し、医療・法律・金融などの高リスク分野でのハルシネーション（誤情報生成）を52.5%削減し、ユーザーが誤りを指摘した難易度の高い会話での不正確な発言も37.3%減少した。数学ベンチマークAIME 2025では81.2点（旧65.4点）、多モーダル推論のMMUU-Proでは76点（旧69.2点）を達成した。応答は平均30.2%短縮され、不要な絵文字やフォローアップ質問が削減された。有料ユーザー向けには過去会話・ファイル・連携Gmailを参照して個人化する「メモリソース」機能が導入され、AIがなぜその提案をしたかを確認・修正できる透明性機能も追加された。旧モデルは3カ月間は並行提供される。高リスク分野でのハルシネーション削減が具体的な数値で示されたことは、医療記録の下書き補助・契約書レビュー・財務分析など誤りのコストが大きい業務でのChatGPT活用を検討する組織にとって判断材料として機能し、現場での実験的利用から本番業務への移行ハードルが下がると考えられる。",
+    "source": "TechCrunch",
+    "lang": "en",
+    "tags": [
+      "生成AI",
+      "ChatGPT",
+      "OpenAI",
+      "製品発表",
+      "ハルシネーション削減"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-05-05",
+    "fetched_at": "2026-05-08T06:15:00+09:00"
+  },
+  {
+    "id": "3d02b1f2a24f",
+    "title": "Subquadratic launches with $29M to bring 12M-token context windows to AI",
+    "url": "https://siliconangle.com/2026/05/05/subquadratic-launches-29m-bring-12m-token-context-windows-ai/",
+    "url_normalized": "siliconangle.com/2026/05/05/subquadratic-launches-29m-bring-12m-token-context-windows-ai",
+    "summary": "AIスタートアップSubquadraticが2026年5月5日、シード資金2,900万ドル（評価額5億ドル）を調達するとともに、12メガトークン（約9百万語・書籍120冊相当）のコンテキストウィンドウを持つLLM「SubQ」の提供を開始したとSiliconANGLEが報じた。創業者はMetaで生成AIヘッドを務めたアレクサンダー・ウェドンをCTOに迎えている。従来のTransformerは注意機構（Attention）の計算量が入力の2乗で増加するため長文処理コストが急騰するが、SubQはSparse Structured Attention（SSA）により線形スケーリングを実現し、12Mトークン時の計算コストをほぼ1,000分の1に削減すると主張する。ベンチマークRULER 128Kでの精度は95.0%（Claude Opusの94.8%より高く）、処理コストはClaude Opusの約2,600ドルに対し約8ドルと報告されている。製品はAPIとCLIコーディングエージェント「SubQ Code」（リポジトリ全体を単一コンテキストに読み込める）の2本立てで、50Mトークン対応はQ4を目標とする。プロジェクト全体のドキュメント・コード・会議録・過去メールを一括解析する「全文脈把握」が現実的なコストで実現すれば、担当者が断片情報をつなぎ合わせる調査作業から解放され、判断と設計に専念できる余地が広がると考えられる。",
+    "source": "SiliconANGLE",
+    "lang": "en",
+    "tags": [
+      "LLM",
+      "長文コンテキスト",
+      "スタートアップ",
+      "資金調達",
+      "アーキテクチャ"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-05-05",
+    "fetched_at": "2026-05-08T06:15:00+09:00"
+  },
+  {
+    "id": "2527e34d6d5d",
+    "title": "Think 2026: IBM Delivers the Blueprint for the AI Operating Model as the AI Divide Widens",
+    "url": "https://newsroom.ibm.com/2026-05-05-think-2026-ibm-delivers-the-blueprint-for-the-ai-operating-model-as-the-ai-divide-widens",
+    "url_normalized": "newsroom.ibm.com/2026-05-05-think-2026-ibm-delivers-the-blueprint-for-the-ai-operating-model-as-the-ai-divide-widens",
+    "summary": "IBMは2026年5月5日の年次カンファレンス「Think 2026」で、「AIの断絶（AI divide）」が拡大するなかで企業が必要とするAI運用モデルの設計図を提示するとして、次世代版「watsonx Orchestrate」を含む一連の製品強化をIBM Newsroomが発表した。watsonx Orchestrateは複数AIエージェント間の調整・連携（オーケストレーション）機能を拡張し、セキュリティ制御を組み込んだエージェント開発ツール「IBM Bob」も追加された。規制準拠をサポートする「IBM Sovereign Core」、リアルタイムデータストリーミング基盤「IBM Confluent」、インテリジェント運用管理「IBM Concert」も同時発表された。CEOのアービンド・クリシュナは「企業がAIを展開するには新しい運用モデルが必要」と述べ、エージェント・データ・自動化・ハイブリッドの4つのシステムを統合することが変革の要だと強調した。前日発表のIBM CEO調査（CAIOの急増等）が「どの役職を作るか」の問いなら、Think 2026の製品発表は「どのシステムで変革を実行するか」という実装レイヤーの答えに相当すると考えられる。複数エージェントが業務全体をカバーするオーケストレーション基盤が整備されれば、部門横断の調整・調達・報告という反復業務を機械が担い、担当者が本質的な判断と設計に集中できる環境に近づく。",
+    "source": "IBM Newsroom",
+    "lang": "en",
+    "tags": [
+      "AIエージェント",
+      "エンタープライズ",
+      "IBM",
+      "製品発表",
+      "オーケストレーション"
+    ],
+    "matched_keyword": "業務改革",
+    "published_at": "2026-05-05",
+    "fetched_at": "2026-05-08T06:15:00+09:00"
+  },
+  {
     "id": "cd5a78b521d1",
     "title": "ServiceNow just unveiled an AI workforce that can run your entire company: 'Enterprises need AI that senses, decides, and securely acts'",
     "url": "https://fortune.com/2026/05/05/servicenow-knowledge-2026-autonomous-workforce-microsoft-nvidia-ai-announcements/",
