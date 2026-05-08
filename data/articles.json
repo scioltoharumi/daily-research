@@ -1,5 +1,81 @@
 [
   {
+    "id": "ec3a174385a7",
+    "title": "EU pushes AI Act deadlines for high-risk systems, including biometrics",
+    "url": "https://www.biometricupdate.com/202605/eu-pushes-ai-act-deadlines-for-high-risk-systems-including-biometrics",
+    "url_normalized": "biometricupdate.com/202605/eu-pushes-ai-act-deadlines-for-high-risk-systems-including-biometrics",
+    "summary": "欧州議会と欧州理事会は2026年5月7日、AI法修正パッケージ「デジタルオムニバス」について暫定合意に達した。顔認証・音声認識を含む生体認証や、法執行・重要インフラ・教育・雇用向けAIを対象とした高リスク義務の適用期限が、2026年8月2日から2027年12月2日へと約1年4ヶ月延期される。同時に、AI生成のCSAM（児童性的虐待映像）や非合意の性的映像合成を禁じる条項も追加された。規制対応コストを理由に域内スタートアップが延期を要請していた経緯があり、合意は「技術標準の整備期間の確保」と説明されるが、CDTヨーロッパを含む40以上の市民社会団体は権利保護の実質的後退として反対声明を出している。EUのAI法は生体認証を高リスク用途として明示的に規律する世界でも数少ない法的枠組みであり、適用先送りは欧州域内での顔認証展開を加速させる一方、義務内容が変わらなければ対応コストは先送りされているだけとも言える。顔認証を業務に組み込む組織にとっては、この猶予期間を目的の明示・プライバシー影響評価・廃棄ルール整備を先行して進める機会として活用できる。先行対応した組織は義務化時に差別化され、顧客や規制当局との信頼構築でも有利になりうると考えられる。",
+    "source": "Biometric Update",
+    "lang": "en",
+    "tags": [
+      "EU AI法",
+      "規制",
+      "生体認証",
+      "猶予期間",
+      "ガバナンス"
+    ],
+    "matched_keyword": "顔認証",
+    "published_at": "2026-05-08",
+    "fetched_at": "2026-05-08T10:00:00+09:00"
+  },
+  {
+    "id": "a9bbb800b650",
+    "title": "DeepSeek could hit $45B valuation from its first investment round",
+    "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+    "url_normalized": "techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round",
+    "summary": "TechCrunchは2026年5月6日、中国のAI研究所DeepSeekが創業以来初めて外部投資家から資金を調達する意向で、評価額が直近の20億ドル規模から450億ドル規模に達しうると報じた。ラウンドは中国国家系投資機関が主導し、テンセントとアリババも参加予定とされる。資金調達の目的は外部リターンの獲得ではなく、研究員引き留めのための持ち株付与とされており、創業者の梁文峰氏は引き続き株式の約90%を保有したまま経営を握る意向だ。DeepSeekは2025年初頭に西側最前線モデルに迫る性能を低コストで実現したLLMを公開し、2026年4月発表のV4シリーズではGPT-5.5の約7分の1程度のAPIコストを実現している。中国国家系資本が主導する形で組織を強化しつつオープンソースモデルを維持するという構造が続けば、LLMの推論コスト低下圧力はさらに強まると考えられる。企業がAI活用への投資計画を立てる際には、使用するモデルのコスト前提が1〜2年で大幅に変わりうることを織り込んだ設計が求められており、過去にコスト高を理由に見送ってきた業務自動化シナリオも定期的に再評価する価値があると考えられる。",
+    "source": "TechCrunch",
+    "lang": "en",
+    "tags": [
+      "DeepSeek",
+      "資金調達",
+      "中国AI",
+      "オープンソース",
+      "企業評価額"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-05-06",
+    "fetched_at": "2026-05-08T10:00:00+09:00"
+  },
+  {
+    "id": "dc9f0564862e",
+    "title": "IBM Consulting Expands AI Capabilities to Accelerate Enterprise Transformation",
+    "url": "https://newsroom.ibm.com/2026-05-06-ibm-consulting-expands-ai-capabilities-to-accelerate-enterprise-transformation",
+    "url_normalized": "newsroom.ibm.com/2026-05-06-ibm-consulting-expands-ai-capabilities-to-accelerate-enterprise-transformation",
+    "summary": "IBMは2026年5月6日、ボストンで開催したThink 2026カンファレンスで、エンタープライズAI変革支援サービス「IBM Enterprise Advantage」に「Context Studio」と「Process Studio」を追加した。Process Studioは、企業内に蓄積された標準業務手順書（SOP）などからAIエージェントが業務ロジックを自動抽出し、エージェント対応のワークフローへ変換する機能で、あるクライアントでは1,400件のSOPを分析して1,000超の改善機会を特定し、18ヶ月以内に運用コストを25%以上削減できると見込んでいる。医療法人Providenceの事例では、採用プロセスの所要時間が90%短縮し、職務異動に要する期間が12日間短縮された。これまで多くの企業が「業務をエージェント化したいが、手順書を読み込んで設計し直すコストが高すぎる」という壁に直面してきた。IBMが手順書からの自動変換に踏み込んだことは、業務改善の最初の関門を下げる試みと言える。採用・人事・調達フローの反復的な処理が自動化されれば、担当者が戦略立案・人材育成・規制対応設計という本来の仕事に時間を割けるモデルが、大企業のみならず中規模組織にも広がっていく可能性がある。",
+    "source": "IBM Newsroom",
+    "lang": "en",
+    "tags": [
+      "AIエージェント",
+      "BPR",
+      "IBM Think",
+      "ワークフロー自動化",
+      "コンサルティング"
+    ],
+    "matched_keyword": "業務改革",
+    "published_at": "2026-05-06",
+    "fetched_at": "2026-05-08T10:00:00+09:00"
+  },
+  {
+    "id": "c2375feab16d",
+    "title": "How can Equitable Access to Heritage Help Solve Global Challenges? An Exploratory Dialogue",
+    "url": "https://creativecommons.org/2026/05/06/how-can-equitable-access-to-heritage-help-solve-global-challenges-an-exploratory-dialogue/",
+    "url_normalized": "creativecommons.org/2026/05/06/how-can-equitable-access-to-heritage-help-solve-global-challenges-an-exploratory-dialogue",
+    "summary": "クリエイティブ・コモンズは2026年5月6日、前週4月29日にパリのユネスコ本部で開催した対話集会の報告を公開した。テーマは「文化遺産への公正なアクセスが世界的課題解決にどう貢献できるか」で、ユネスコスタッフ・文化遺産実務家・研究者など100名超が参加した。議論の中心は、デジタル環境においてパブリックドメイン遺産へのアクセスを阻む不当な障壁の撤廃で、気候変動・保健・平和・ジェンダー平等といったユネスコの政策優先課題と文化遺産のオープンアクセスがどう交差するかが探られた。その結果、ユネスコが「オープン・ヘリテージ勧告」という新たな規範文書の策定を検討するよう呼びかけることが合意された。文化遺産のデジタル公開は機関ごとの著作権処理の複雑さ・利用条件の不統一・デジタル化コストという三重の壁に阻まれてきた背景があり、国際的な規範整備が進めば各機関が独自ルールを緩和していく動機が生まれると考えられる。歴史・文化資料への一次アクセスが誰にでも開かれるようになれば、研究者・教育者・実務者が資料探索という消耗的な前工程に費やす時間が削減され、読解・分析・表現という本来の知的作業に集中できる環境が近づく可能性がある。",
+    "source": "Creative Commons",
+    "lang": "en",
+    "tags": [
+      "文化遺産",
+      "オープンアクセス",
+      "UNESCO",
+      "国際政策",
+      "公共領域"
+    ],
+    "matched_keyword": "歴史・教養",
+    "published_at": "2026-05-06",
+    "fetched_at": "2026-05-08T10:00:00+09:00"
+  },
+  {
     "id": "cd5a78b521d1",
     "title": "ServiceNow just unveiled an AI workforce that can run your entire company: 'Enterprises need AI that senses, decides, and securely acts'",
     "url": "https://fortune.com/2026/05/05/servicenow-knowledge-2026-autonomous-workforce-microsoft-nvidia-ai-announcements/",
