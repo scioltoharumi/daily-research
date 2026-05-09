@@ -1,5 +1,100 @@
 [
   {
+    "id": "ec3a174385a7",
+    "title": "EU pushes AI Act deadlines for high-risk systems, including biometrics",
+    "url": "https://www.biometricupdate.com/202605/eu-pushes-ai-act-deadlines-for-high-risk-systems-including-biometrics",
+    "url_normalized": "biometricupdate.com/202605/eu-pushes-ai-act-deadlines-for-high-risk-systems-including-biometrics",
+    "summary": "欧州議会と欧州連合理事会は2026年5月8日、EU AI法「デジタル・オムニバス」簡略化パッケージの暫定合意に達した。顔認証を含む生体認証や法執行・教育・国境管理に用いる高リスクAIシステムの遵守期限が当初の2027年8月から2027年12月2日へ延長される。非合意の性的ディープフェイク禁止は2026年12月2日が期限。中小企業への支援措置と規制サンドボックスのアクセス拡大も盛り込まれた。EU AI法は2024年8月に発効し段階的に適用を広げてきたが、高リスク用途向け技術標準が未整備で企業の対応が追いつかないとの懸念に応えた形だ。域外企業との競争力格差を意識した「革新にやさしいルール」への政策転換とも読める。顔認証を入退室管理や本人確認に組み込む組織にとっては準拠設計を固める猶予が広がった。この期間にプライバシー・バイ・デザインを先行実装しておくことが、規制リスクを抑えながら展開を加速する現実的な戦略になりうる。",
+    "source": "Biometric Update",
+    "lang": "en",
+    "tags": [
+      "EU AI法",
+      "生体認証",
+      "規制",
+      "期限延期",
+      "ガバナンス"
+    ],
+    "matched_keyword": "顔認証",
+    "published_at": "2026-05-08",
+    "fetched_at": "2026-05-10T06:12:38+09:00"
+  },
+  {
+    "id": "ab7c91335a81",
+    "title": "Anthropic is letting Claude agents 'dream' so they don't sleep on the job",
+    "url": "https://siliconangle.com/2026/05/06/anthropic-letting-claude-agents-dream-dont-sleep-job/",
+    "url_normalized": "siliconangle.com/2026/05/06/anthropic-letting-claude-agents-dream-dont-sleep-job",
+    "summary": "Anthropicは2026年5月6日の開発者向けカンファレンス「Code with Claude」で、Claude Managed Agentsに「Dreaming」「Outcomes」「Multi-agent Orchestration」の3機能を追加した。研究プレビューのDreamingは過去セッションと記憶ストアをエージェントが自律レビューしてパターンを抽出・蓄積する仕組みで、モデルの重みは変えない。法律AIのHarveyはDreaming実装後にタスク完了率が約6倍になったと報告している。OutcomesとMulti-agent OrchestrationはNetflixなどが本番導入済みのパブリックベータに昇格。ProとMaxの利用時間上限も5時間から10時間に倍増した。これまでのエージェントはセッションごとにコンテキストをリセットする必要があり、繰り返し業務への本番適用に限界があった。セッションをまたいで経験が積み上がれば、担当者が毎回指示を与え直さなくても定型の分析や判断を自律的に担うエージェントが実現する方向に近づくと考えられる。",
+    "source": "SiliconANGLE",
+    "lang": "en",
+    "tags": [
+      "AIエージェント",
+      "記憶管理",
+      "Anthropic",
+      "製品発表",
+      "自己改善"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-05-06",
+    "fetched_at": "2026-05-10T06:12:38+09:00"
+  },
+  {
+    "id": "03038e877a60",
+    "title": "Gemini 3.1 Flash-Lite is now generally available",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-1-flash-lite-is-now-generally-available",
+    "url_normalized": "cloud.google.com/blog/products/ai-machine-learning/gemini-3-1-flash-lite-is-now-generally-available",
+    "summary": "Googleは2026年5月8日、Gemini 3.1 Flash-LiteをGemini Enterprise Agent Platformで一般提供開始したとGoogle Cloud Blogで発表した。p95応答遅延約1.8秒・高負荷時成功率約99.6%・同等モデル比約60%低コストを特徴とし、テキストと画像のマルチモーダル処理に対応する。JetBrains（開発補助）、Gladly（カスタマーサービス）、Ramp・OffDeal（財務分析）などが採用事例として公開された。2026年3月のプレビューから本番グレードへの移行となる。LLMのコストと遅延は業務埋め込みの主要ボトルネックだった。コスト6割削減かつサブ2秒応答が保証されることで、問い合わせ応答・受発注確認・ドキュメント分類のような大量反復業務への組み込みが経済的に成立しやすくなる。担当者が照合・転記作業から解放され、判断や顧客交渉といった本来集中すべき業務に時間を振り向けられる環境が整いやすくなると考えられる。",
+    "source": "Google Cloud Blog",
+    "lang": "en",
+    "tags": [
+      "LLM",
+      "Google",
+      "製品発表",
+      "エンタープライズ",
+      "低遅延"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-05-08",
+    "fetched_at": "2026-05-10T06:12:38+09:00"
+  },
+  {
+    "id": "8f2260728527",
+    "title": "Administration Mulls AI Regulation Executive Orders, but Substance in Flux",
+    "url": "https://www.dailysignal.com/2026/05/07/trump-mulls-ai-regulation-orders/",
+    "url_normalized": "dailysignal.com/2026/05/07/trump-mulls-ai-regulation-orders",
+    "summary": "トランプ政権は2026年5月7日、フロンティアAIモデルを一般公開前に政府が審査する大統領令の草案を検討中だとデイリー・シグナル紙が報じた。国家経済会議のハセット委員長はFDAの医薬品承認に例え「安全性を証明してから公開」する方式を検討すると発言。政府契約受注に審査通過を条件づける案も浮上しており、Center for AI Standards and Innovationが審査機関の候補とされる。数週間以内に1本以上の大統領令が署名される見通し。背景にはAnthropicの「Claude Mythos」が大量のゼロデイ脆弱性を発見できると報じられたことへの安全保障上の懸念がある。「規制最小化」を掲げてきた政権がAI安全を理由に方向転換しつつある点は、業界の予測を超えた速度感の変化と言える。企業がAI調達計画を立てる際に、利用するモデルの政府承認状況が新たなリスク要因になる可能性があり、ベンダー評価時にコンプライアンス対応状況を確認する工程の追加を念頭に置くことが望ましくなるかもしれない。",
+    "source": "The Daily Signal",
+    "lang": "en",
+    "tags": [
+      "規制",
+      "米国政府",
+      "AI安全保障",
+      "大統領令",
+      "政策"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-05-07",
+    "fetched_at": "2026-05-10T06:12:38+09:00"
+  },
+  {
+    "id": "1d5f11aecf05",
+    "title": "Modernize your workflows: Amazon WorkSpaces now gives AI agents their own desktop (preview)",
+    "url": "https://aws.amazon.com/blogs/aws/modernize-your-workflows-amazon-workspaces-now-gives-ai-agents-their-own-desktop-preview/",
+    "url_normalized": "aws.amazon.com/blogs/aws/modernize-your-workflows-amazon-workspaces-now-gives-ai-agents-their-own-desktop-preview",
+    "summary": "AWSは2026年5月、AIエージェントが専用の仮想デスクトップ環境でレガシーアプリを直接操作できる「Amazon WorkSpaces for AI Agents」プレビューを発表した。エージェントはクリック・入力・スクリーンショット取得でデスクトップを操作し、IAM認証・CloudTrail監査・MCP対応により企業セキュリティを維持したままAPIなしで既存システムに接続できる。全企業の75%がモダンAPIのないレガシーアプリを稼働させており、これがエージェント導入の最大障壁だった。基幹システムのモダナイゼーションに数年・数億円を要する従来の手順を省き「人間と同じ画面」でエージェントが操作できる今回のアプローチは、自動化対象を一気に広げる可能性がある。帳票入力・システム間データ転記・照合確認といった「自動化したくてもAPIがなく手が付けられなかった業務」がエージェントの射程に入ることで、担当者が消耗作業から解放されて本来の判断・設計・対人業務に集中できる体制が現実的になると考えられる。",
+    "source": "Amazon Web Services Blog",
+    "lang": "en",
+    "tags": [
+      "AIエージェント",
+      "業務自動化",
+      "AWS",
+      "レガシーシステム",
+      "VDI"
+    ],
+    "matched_keyword": "業務改革",
+    "published_at": "2026-05-05",
+    "fetched_at": "2026-05-10T06:12:38+09:00"
+  },
+  {
     "id": "cd5a78b521d1",
     "title": "ServiceNow just unveiled an AI workforce that can run your entire company: 'Enterprises need AI that senses, decides, and securely acts'",
     "url": "https://fortune.com/2026/05/05/servicenow-knowledge-2026-autonomous-workforce-microsoft-nvidia-ai-announcements/",
