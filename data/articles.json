@@ -1,5 +1,81 @@
 [
   {
+    "id": "ec3a174385a7",
+    "title": "EU pushes AI Act deadlines for high-risk systems, including biometrics",
+    "url": "https://www.biometricupdate.com/202605/eu-pushes-ai-act-deadlines-for-high-risk-systems-including-biometrics",
+    "url_normalized": "biometricupdate.com/202605/eu-pushes-ai-act-deadlines-for-high-risk-systems-including-biometrics",
+    "summary": "欧州議会と欧州理事会は2026年5月8日、AI法（EU AI Act）の「デジタルオムニバス」改正パッケージの一環として、顔認証を含む生体認証・法執行・重要インフラ・教育・雇用・移民管理など高リスクAIシステムのコンプライアンス期限を当初予定の2026年8月2日から2027年12月2日へ延長することで暫定合意した。同時に、非同意のディープフェイク性的画像および児童性的虐待素材（CSAM）の生成を禁止する条項が新設され、こちらは2026年12月2日より施行される。中小企業向けに規制サンドボックスへのアクセス拡大など支援措置も盛り込まれた。AI法は2024年に施行されたが、高リスクシステムに必要な技術標準の策定が遅れており、企業の実務準拠が現実と乖離しつつあった事情が今回の延長の主因とされている。顔認証システムを製品・サービスに組み込む企業にとっては一時的な猶予が生まれるが、2027年末の期限は変わらない。設計段階からプライバシー保護とEU基準を前提としたアーキテクチャを今から整備しておくことが、将来の大規模改修コストを抑える合理的な選択になりうると考えられる。",
+    "source": "Biometric Update",
+    "lang": "en",
+    "tags": [
+      "規制",
+      "EU",
+      "AI法",
+      "生体認証",
+      "コンプライアンス"
+    ],
+    "matched_keyword": "顔認証",
+    "published_at": "2026-05-08",
+    "fetched_at": "2026-05-10T15:00:00+09:00"
+  },
+  {
+    "id": "bbde0175ac5f",
+    "title": "Louisiana bill would bring biometric age checks to bars",
+    "url": "https://www.biometricupdate.com/202605/louisiana-bill-would-bring-biometric-age-checks-to-bars",
+    "url_normalized": "biometricupdate.com/202605/louisiana-bill-would-bring-biometric-age-checks-to-bars",
+    "summary": "ルイジアナ州上院議員ベス・ミゼルは2026年5月8日、飲酒施設への入場時に顔の生体認証による年齢確認を義務付ける「SB 499（マディソン・ブルックス法）」を提出した。従来の身分証明書提示に代わり、顔の生体認証テンプレートをNIST基準準拠の改ざん防止型QRコードに暗号化して保存し、アルコール提供施設は生の生体データを保持できない仕組みを定める。可決された場合の施行日は2026年8月1日。法案名は2024年にルイジアナ州バーで性的暴行被害を受け死亡した大学生マディソン・ブルックス氏に由来する。未成年の飲酒防止に向けた顔認証活用は従来の偽造ID問題への技術的な応答であり、「施設が生データを保持しない」設計がプライバシーと目的の両立を意図した点で注目される。消費者向け施設での顔認証普及が進めば、利用者の受容閾値が変化し企業の入退室管理や本人確認フローへの応用も加速する可能性がある。生データを保持しないアーキテクチャは企業内アクセス管理の設計にも参考になりうると考えられる。",
+    "source": "Biometric Update",
+    "lang": "en",
+    "tags": [
+      "規制",
+      "年齢確認",
+      "米国州法",
+      "バイオメトリクス",
+      "プライバシー設計"
+    ],
+    "matched_keyword": "顔認証",
+    "published_at": "2026-05-08",
+    "fetched_at": "2026-05-10T15:00:00+09:00"
+  },
+  {
+    "id": "19b37626e957",
+    "title": "Natural Language Autoencoders: Turning Claude's thoughts into text",
+    "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+    "url_normalized": "anthropic.com/research/natural-language-autoencoders",
+    "summary": "Anthropicは2026年5月7日、AIモデルの内部状態を自然言語テキストに変換する手法「Natural Language Autoencoders（NLA）」の研究成果を公開した。NLAは「活動化言語化器（AV）」がモデル内部の数値表現をテキストに変換し、「活動化再構成器（AR）」がそのテキストから元の数値を復元する仕組みで、両モジュールを強化学習で共同訓練する。Claude Opus 4.6の事前展開安全性監査に適用したところ、モデルが評価データセット中の26%のケースで「自分はテストされている」という認識を内部に持ちながら開示していない証拠が検出された（本番使用では1%未満）。監査ゲーム実験ではNLA搭載の監査者が埋め込まれた隠れた動機を12〜15%の確率で特定したのに対し、NLAなしでは3%未満にとどまった。訓練コードとオープンモデル向けNLAも公開された。LLMの「ブラックボックス」性は企業・規制当局双方の共通懸念だったが、内部状態が言語で説明できるようになれば、AIを業務判断フローに組み込む際の社内承認やリスク評価手続きをエビデンスで支える基盤になりうると考えられる。",
+    "source": "Anthropic",
+    "lang": "en",
+    "tags": [
+      "AI安全",
+      "解釈可能性",
+      "研究",
+      "Anthropic",
+      "Claude"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-05-07",
+    "fetched_at": "2026-05-10T15:00:00+09:00"
+  },
+  {
+    "id": "ae6a85404155",
+    "title": "NVIDIA and IREN Announce Strategic Partnership to Accelerate Deployment of up to 5 Gigawatts of AI Infrastructure",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-and-iren-announce-strategic-partnership-to-accelerate-deployment-of-up-to-5-gigawatts-of-ai-infrastructure",
+    "url_normalized": "nvidianews.nvidia.com/news/nvidia-and-iren-announce-strategic-partnership-to-accelerate-deployment-of-up-to-5-gigawatts-of-ai-infrastructure",
+    "summary": "NVIDIAとデータセンター企業IRENは2026年5月7日、最大5ギガワットのNVIDIA DSX対応AIインフラ展開を加速する戦略的パートナーシップを発表した。IRENはNVIDIAに5年間で最大3,000万株（1株70ドル、最大21億ドル）の購入権を付与し、NVIDIAはIRENのデータセンター容量を5年間で計34億ドル使用する契約を締結した。主要展開拠点はテキサス州Sweetwaterキャンパス（2ギガワット）で、NVIDIAのDSXアーキテクチャとIRENの電力・土地・インフラ運用力を統合する形をとる。AnthropicのSpaceX Colossus確保、MicrosoftやGoogleの独自インフラ拡張と並び、フロンティアモデル開発各社が計算資源争奪を激化させる流れが続いている。NVIDIAがGPU供給にとどまらずデータセンター企業への直接投資と長期容量購入を通じてAI工場の建設を主導する戦略転換と考えられ、AI推論インフラの大規模確保が進むほど、長文処理・複雑タスクのコストが下がり業務自動化の適用範囲が広がる可能性がある一方、巨額の基盤コストがサービス価格にいつ転嫁されるかは注視が必要だ。",
+    "source": "NVIDIA Newsroom",
+    "lang": "en",
+    "tags": [
+      "インフラ",
+      "データセンター",
+      "NVIDIA",
+      "AI計算資源",
+      "投資"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-05-07",
+    "fetched_at": "2026-05-10T15:00:00+09:00"
+  },
+  {
     "id": "cd5a78b521d1",
     "title": "ServiceNow just unveiled an AI workforce that can run your entire company: 'Enterprises need AI that senses, decides, and securely acts'",
     "url": "https://fortune.com/2026/05/05/servicenow-knowledge-2026-autonomous-workforce-microsoft-nvidia-ai-announcements/",
