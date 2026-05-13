@@ -1,5 +1,81 @@
 [
   {
+    "id": "8eac17ddb019",
+    "title": "Alcatraz AI adds automation, alerts to facial biometric access platform",
+    "url": "https://www.biometricupdate.com/202605/alcatraz-ai-adds-automation-alerts-to-facial-biometric-access-platform",
+    "url_normalized": "biometricupdate.com/202605/alcatraz-ai-adds-automation-alerts-to-facial-biometric-access-platform",
+    "summary": "Alcatraz AIは2026年5月13日、企業向け顔認証アクセス制御プラットフォーム「Rock X」に4つの機能拡張を追加したと発表した。具体的には、認証成功・尾行検出（テールゲーティング）・不正侵入試行をリアルタイムで通知する音声アラート、ファームウェアの自動更新、手動登録時へのアクセス制御ルール適用、および視覚的ガイダンスによる登録プロセスの改善である。同社は2025年に新規エンタープライズ顧客200%増・データセンター導入300%増という急成長を遂げており、2026年4月には5,000万ドルのシリーズBも完了させた。物理アクセス制御の市場では、クラウド型アイデンティティ管理とAI型侵入検知が融合する局面が進んでおり、旧来の社員証・PIN方式から生体認証への移行がデータセンターや大規模オフィスで加速している。Alcatraz AIが強調する「3D画像を暗号化デジタルプロファイルに変換して生データを保持しない」設計は、プライバシー規制が厳格化する潮流への技術的な回答といえる。入退室管理に顔認証を組み込む組織にとっては、ファームウェア自動更新や登録プロセスの標準化といった運用自動化機能が、IT部門の管理工数を削減しながらセキュリティポリシーを一貫して適用する余地をつくりうると考えられる。",
+    "source": "Biometric Update",
+    "lang": "en",
+    "tags": [
+      "物理アクセス制御",
+      "顔認証",
+      "自動化",
+      "データセンター",
+      "製品発表"
+    ],
+    "matched_keyword": "顔認証",
+    "published_at": "2026-05-13",
+    "fetched_at": "2026-05-13T21:09:42+09:00"
+  },
+  {
+    "id": "394159716768",
+    "title": "Report: Google and SpaceX in talks to put data centers into orbit",
+    "url": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
+    "url_normalized": "techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit",
+    "summary": "GoogleとSpaceXが軌道上データセンターの共同開発について協議しているとWSJが2026年5月12日に報じた。Googleは「Project Suncatcher」の名で宇宙空間への計算基盤展開の実現可能性を昨年11月から調査しており、2027年初頭までにプロトタイプ衛星を打ち上げてテストする計画を持つ。SpaceXはAI企業xAIの買収を踏まえ、宇宙データセンターがAI計算コストで将来的に地上施設より経済的になると投資家に訴えており、年内予定のIPOに向けた布石とも見られている。AlphabetはSpaceXの株式6.1%を保有し、Google幹部がSpaceXボードに参加するという既存の資本関係も両社の協議を後押しする背景がある。現時点では衛星製造・打ち上げコストを加味すると地上施設の方が安価であり、放射線対策・熱管理・地上との伝送レイテンシといった固有の技術的課題も大きい。しかし大手AI各社が数ギガワット規模の電力と土地の確保に奔走するなか、地球上のリソース制約に縛られない宇宙空間への関心が生まれているのは、LLM等の大規模推論需要が既存のインフラ容量の天井に近づきつつあることの表れと考えられる。長期的にAIインフラコストが低下すれば、大規模モデルの活用が大企業以外にも広がり、業務自動化の適用範囲が拡大する可能性がある。",
+    "source": "TechCrunch",
+    "lang": "en",
+    "tags": [
+      "インフラ",
+      "データセンター",
+      "SpaceX",
+      "Google",
+      "宇宙"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-05-12",
+    "fetched_at": "2026-05-13T21:09:42+09:00"
+  },
+  {
+    "id": "5fed9b30f143",
+    "title": "Announcing SAP's strategic investment in n8n",
+    "url": "https://blog.n8n.io/n8n-sap/",
+    "url_normalized": "blog.n8n.io/n8n-sap",
+    "summary": "ワークフロー自動化プラットフォームのn8nは2026年5月12日、エンタープライズソフトウェア大手SAPから戦略的投資を受け、企業評価額が25億ドルから52億ドルへと倍増したと発表した。SAPはn8nを自社AIプラットフォーム「Joule Studio」に組み込む複数年の商業契約も同時に締結した。2019年にベルリンで設立されたオープンソースのワークフロー自動化ツールであるn8nは、現在1,400以上のエンタープライズ顧客と月間170万の開発者・ビルダーを抱える。この統合により、SAPシステムと1,000以上の外部ツールを単一インターフェースで接続し、AIエージェントが実行するワークフローを視覚的に設計・管理できるようになる。SAPは世界中の基幹業務システムを担う一方、AIエージェントへの業務委任という領域では後発であり、n8nのマルチエージェントオーケストレーション機能をJoule Studioに取り込むことで差を埋める狙いがある。データ主権・コンプライアンス・完全な監査証跡を担保しながら、決定論的プロセス（ルール実行）と非決定論的プロセス（判断が必要な作業）を混在させてAIに委任できる仕組みが整うことは、データ入力・承認フロー・コンプライアンス確認といった繰り返し作業を担当者から解放し、本質的な判断業務に集中させる環境を整える可能性があると考えられる。",
+    "source": "n8n Blog",
+    "lang": "en",
+    "tags": [
+      "ワークフロー自動化",
+      "SAP",
+      "投資",
+      "AIエージェント",
+      "エンタープライズ"
+    ],
+    "matched_keyword": "業務改革",
+    "published_at": "2026-05-12",
+    "fetched_at": "2026-05-13T21:09:42+09:00"
+  },
+  {
+    "id": "6bba229947fe",
+    "title": "Enterprise AI infrastructure modernization is now urgent",
+    "url": "https://siliconangle.com/2026/05/13/enterprise-ai-infrastructure-modernization-now-urgent-rhsummit/",
+    "url_normalized": "siliconangle.com/2026/05/13/enterprise-ai-infrastructure-modernization-now-urgent-rhsummit",
+    "summary": "Red Hat CEOのマット・ヒックス氏は2026年5月13日、ボストンで開催された「Red Hat Summit 2026」でtheCUBEのインタビューに応じ、エンタープライズAI導入の最大の障壁は過去10年間の技術的負債であると指摘した。経営層がAI活用を強く求める一方で、IT部門はクラウド移行や複数技術スタックへの対応に追われてシステムパッチや保守を後回しにしてきた蓄積があり、その矛盾がAI展開の速度を制限しているという。Red HatはAnsible自動化プラットフォームとRed Hat Enterprise Linuxを通じた「基盤から整備し直す」アプローチを推奨し、セキュリティパッチを即座に適用できる俊敏なインフラをAI活用の前提条件として位置づけた。「AI導入意欲が高まるほど、放置されたインフラ問題が表面化する」という構図は、多くの組織に共通する課題を端的に示している。技術的負債が蓄積した状態でAIエージェントを業務に投入しても、古いシステムとの接続障害や監査証跡の欠落によって期待された効率化が得られないリスクが高く、AIを業務改革の起点とするには、プロセスの整理・標準化とそれを支えるインフラの信頼性確保を同時に進めることが長期的な効果と安全性の両立に繋がると考えられる。",
+    "source": "SiliconANGLE",
+    "lang": "en",
+    "tags": [
+      "技術的負債",
+      "AIインフラ",
+      "エンタープライズ",
+      "Red Hat",
+      "自動化"
+    ],
+    "matched_keyword": "業務改革",
+    "published_at": "2026-05-13",
+    "fetched_at": "2026-05-13T21:09:42+09:00"
+  },
+  {
     "id": "791084f07b3d",
     "title": "DHS wants $7.5 million to build facial recognition wearables for ICE agents. Some are already using ones off the shelf",
     "url": "https://fortune.com/2026/05/12/dhs-ice-meta-glasses-ai-facial-recognition/",
