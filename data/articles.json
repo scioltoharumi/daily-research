@@ -1,5 +1,62 @@
 [
   {
+    "id": "a3c5f7b28e4d",
+    "title": "Met Police tout arrests, crime drop from permanent LFR camera pilot",
+    "url": "https://www.biometricupdate.com/202605/met-police-tout-arrests-crime-drop-from-permanent-lfr-camera-pilot",
+    "url_normalized": "biometricupdate.com/202605/met-police-tout-arrests-crime-drop-from-permanent-lfr-camera-pilot",
+    "summary": "ロンドン警視庁は2026年5月13日、クロイドンで2025年10月〜2026年3月の6か月間実施したUK初の常設静止型ライブ顔認証（LFR）パイロットの成果を公表した。24回の作戦で173件の逮捕を達成し（35分に1件ペース）、誤検知は1件・誤逮捕は0件。470,000人超の顔をNECのNeoFaceアルゴリズムで犯罪者データベースと照合し、対象地区の犯罪件数は前年同期比10.5%減少した。これまでのモバイル型（ワゴン車設置）と異なり、街灯・建物に固定した恒久的なカメラが使われており、英国政府は全国40台のLFRワゴン追加整備も計画する。欧米の顔認証論争では従来「精度より公民権」が議論の中心だったが、今回は誤検知率ほぼゼロと治安改善効果が同時に示されたことで、常設型LFRの正当性を支持する論拠が強化されつつあると考えられる。企業の入退室管理や施設セキュリティに顔認証を恒久設置する際も、「マッチしない映像の即時削除」設計と第三者による精度監査の組み込みが、将来の規制対応コストを抑えながら社会的信頼を維持する現実的な手段になりうる。",
+    "source": "Biometric Update",
+    "lang": "en",
+    "tags": [
+      "規制",
+      "法執行",
+      "英国",
+      "NEC",
+      "プライバシー"
+    ],
+    "matched_keyword": "顔認証",
+    "published_at": "2026-05-13",
+    "fetched_at": "2026-05-14T09:00:00+09:00"
+  },
+  {
+    "id": "d6e2a1943b7c",
+    "title": "Japan's PM orders cybersecurity review to stop Mythos going full CyberZilla",
+    "url": "https://www.theregister.com/security/2026/05/12/japans-pm-orders-cybersecurity-review-to-defend-against-anthropic-mythos/",
+    "url_normalized": "theregister.com/security/2026/05/12/japans-pm-orders-cybersecurity-review-to-defend-against-anthropic-mythos",
+    "summary": "日本の高市早苗首相は2026年5月12日の閣議で、サイバーセキュリティ担当大臣の松本仁志氏に対し、政府システムおよび重要インフラ事業者の脆弱性検出・修正能力を総点検するよう指示した。契機はAnthropicが2026年4月に公開したAIモデル「Mythos」で、ゼロデイ脆弱性を自律的に発見・悪用するコードを生成できるとされ、高市首相は「攻撃が指数関数的に速く大規模になりかねない」と懸念を表明した。Mythosへのアクセスは認可ユーザーに限定されているが、インドの証券規制当局も同様のセキュリティレビューを命令するなど、各国政府が相次いで対応に乗り出している。一方、研究者の間では「人間が既に発見できる脆弱性を処理するに過ぎない」「オープンソースモデルでも同等」という懐疑論もあり、能力評価は定まっていない。フロンティアAIの能力が国家の政策対応を直接引き起こした初期事例として、規制が技術の広域展開に追いつかない構図が再び浮き彫りになったと考えられる。企業にとっては、AI加速型攻撃を想定したパッチ管理の前倒しとSBOM整備が実践的な備えになりうる一方、AIを使ったセキュリティ強化という攻守両面の視点が求められる時代に入ったという示唆を含む。",
+    "source": "The Register",
+    "lang": "en",
+    "tags": [
+      "AI安全",
+      "サイバーセキュリティ",
+      "日本政府",
+      "Anthropic",
+      "脆弱性"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-05-12",
+    "fetched_at": "2026-05-14T09:00:00+09:00"
+  },
+  {
+    "id": "f1b8c5e39a20",
+    "title": "Notion courts developers with a platform for AI agents and workflow automation",
+    "url": "https://www.infoworld.com/article/4171166/notion-courts-developers-with-platform-for-ai-agents-and-workflow-automation.html",
+    "url_normalized": "infoworld.com/article/4171166/notion-courts-developers-with-platform-for-ai-agents-and-workflow-automation.html",
+    "summary": "Notionは2026年5月14日、AIエージェントと業務ワークフローを統合する「Developer Platform」を発表した。中核は3機能で、サーバー管理不要でカスタムコードを実行する「Workers」（「LLM推論より確実性の高い確定的ロジック」と位置づける）、Salesforce・Zendesk・社内DBのデータをNotionに取り込む「Database Sync（ベータ）」、そしてClaude・Codex・Decagonなど外部AIエージェントをワークスペースに統合する「External Agents API（アルファ）」だ。Atlassian・GitHub・JetBrainsと競合するエンタープライズAI管理プラットフォーム市場への参入を意味する。業務上の文脈情報が複数のSaaSアプリに散在する課題を、「Notionを共通実行基盤にする」アプローチで解消しようとする設計と考えられる。情報収集・照合・定例レポートといった確定的な反復作業をWorkerに委ねることで、担当者が判断・対話・創造という本来の業務に集中できる環境が整いやすくなる可能性がある。アナリストは「機能の新規性より実行品質とガバナンスが成否を分ける」と指摘しており、採用にあたっては動作の信頼性と監査性の確認が先決になりそうだ。",
+    "source": "InfoWorld",
+    "lang": "en",
+    "tags": [
+      "AIエージェント",
+      "製品発表",
+      "開発者向け",
+      "ワークフロー自動化",
+      "プラットフォーム"
+    ],
+    "matched_keyword": "業務改革",
+    "published_at": "2026-05-14",
+    "fetched_at": "2026-05-14T09:00:00+09:00"
+  },
+  {
     "id": "791084f07b3d",
     "title": "DHS wants $7.5 million to build facial recognition wearables for ICE agents. Some are already using ones off the shelf",
     "url": "https://fortune.com/2026/05/12/dhs-ice-meta-glasses-ai-facial-recognition/",
