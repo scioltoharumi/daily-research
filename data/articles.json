@@ -1,5 +1,119 @@
 [
   {
+    "id": "b4807000793e",
+    "title": "Senators press DHS to abandon biometric smart glasses plan for immigration officers",
+    "url": "https://www.biometricupdate.com/202605/senators-press-dhs-to-abandon-biometric-smart-glasses-plan-for-immigration-officers",
+    "url_normalized": "biometricupdate.com/202605/senators-press-dhs-to-abandon-biometric-smart-glasses-plan-for-immigration-officers",
+    "summary": "民主党のマーキー・マークリー両上院議員ら複数の議員は2026年5月15日、国土安全保障省（DHS）に対し、ICEおよびCBPの捜査官が公共空間でリアルタイムに顔認証を行えるスマートグラスを開発する計画（予算750万ドル）の廃止を求める書簡を送った。議員らは「当人の知らないまま米国市民を含む人物を特定できる」危険性を指摘し、ジャーナリスト・抗議者・活動家への萎縮効果のほか、誤認識による差別的アウトカムのリスクも訴えた。DHSにはICE捜査官が少なくとも6州でMetaのRay-Banスマートグラスを非公式に既使用しているとされる経緯があり、今回の書簡はその実態の開示も要求している。顔認証の可搬型・装着型化は固定カメラよりも「見えにくい常時識別」が可能になるため、技術展開が法整備を先行する構図が深刻化していると考えられる。企業が公共空間で顔認証を活用する際、現時点で規制が明確でない領域であっても、運用前に権利告知・データ削除方針・使用制限を明示するガバナンス設計を先行して組み込む投資価値が高まっている。",
+    "source": "Biometric Update",
+    "lang": "en",
+    "tags": [
+      "ウェアラブル",
+      "ICE",
+      "規制",
+      "プライバシー",
+      "上院"
+    ],
+    "matched_keyword": "顔認証",
+    "published_at": "2026-05-15",
+    "fetched_at": "2026-05-16T06:14:24+09:00"
+  },
+  {
+    "id": "1a1394b3b3cc",
+    "title": "AI fraud crackdown risks locking blind users out of biometric identity systems",
+    "url": "https://www.biometricupdate.com/202605/ai-fraud-crackdown-risks-locking-blind-users-out-of-biometric-identity-systems",
+    "url_normalized": "biometricupdate.com/202605/ai-fraud-crackdown-risks-locking-blind-users-out-of-biometric-identity-systems",
+    "summary": "2026年5月15日に公表された研究報告は、AI詐欺対策として米国政府機関が強化した生体認証による本人確認システムが、視覚障害者・弱視者（BLV）を社会保障・メディケア・障害給付などの行政サービスから排除するリスクを招いていると指摘した。Reddit投稿の分析とBLV当事者16名へのインタビューから、セルフィー撮影・ライブネスチェック・書類アップロードを前提とする自動システムが「視覚的操作のみ」を要求し、失敗した場合に利用者が晴眼者へ個人情報を委ねるなど脆弱な代替手段に追い込まれる実態が浮かび上がった。研究者らは複数の認証経路・有人フォールバック・再利用可能なデジタル証明書の整備を勧告し「アクセシビリティはセキュリティの後付けでなく核心要件として扱うべき」と主張する。詐欺対策の精度向上とアクセシビリティの両立は生体認証設計上の本質的な課題であり、行政に限らず企業の本人確認フローにも直接問われると考えられる。アクセシビリティを初期設計段階で組み込むことが、規制リスクの低減と利用者層の拡大、さらには確認フロー全体の信頼性向上にも繋がりうる。",
+    "source": "Biometric Update",
+    "lang": "en",
+    "tags": [
+      "アクセシビリティ",
+      "視覚障害",
+      "本人確認",
+      "政府システム",
+      "プライバシー"
+    ],
+    "matched_keyword": "顔認証",
+    "published_at": "2026-05-15",
+    "fetched_at": "2026-05-16T06:14:24+09:00"
+  },
+  {
+    "id": "ee84e60f0d01",
+    "title": "Introducing Claude for Small Business",
+    "url": "https://www.anthropic.com/news/claude-for-small-business",
+    "url_normalized": "anthropic.com/news/claude-for-small-business",
+    "summary": "Anthropicは2026年5月13日、米国の中小企業（SMB）向けに既存の業務ツールへClaudeを直接組み込む「Claude for Small Business」を発表した。QuickBooks・PayPal・HubSpot・Canva・DocuSign・Google Workspace・Microsoft 365と連携し、財務・営業・マーケティング・HR・カスタマーサービスの反復業務に対応する15の自動化ワークフローをパッケージ化する。中小企業は米GDPの44%・民間雇用の約半数を担うが、大企業比でAI導入が遅れているというギャップを標的にした戦略的展開だ。同日から10都市での無料ハーフデイワークショップ「Claude SMBツアー」も開始し、従来の「法人・デベロッパー向けAPI提供」から現場オーナーへ直接届けるモデルへ移行しつつある。生成AIプラットフォームが既存業務ソフトに溶け込むプリインテグレーション型で提供されることで、ITリソースに乏しい小規模事業者でも反復的な事務処理をAIに委ねられる可能性が広がり、専門的判断・顧客対応・事業戦略に使える時間が増えることが期待される。ただし業務データとワークフローをAIベンダーへ強く依存する構造が進む点は、中長期の交渉力やデータ主権の観点から注視が必要だ。",
+    "source": "Anthropic",
+    "lang": "en",
+    "tags": [
+      "製品発表",
+      "SMB",
+      "ワークフロー自動化",
+      "AIエージェント",
+      "Anthropic"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-05-13",
+    "fetched_at": "2026-05-16T06:14:24+09:00"
+  },
+  {
+    "id": "52b37a634f38",
+    "title": "Anthropic urges Uncle Sam to kneecap China's AI ambitions before 2028",
+    "url": "https://www.theregister.com/ai-ml/2026/05/15/anthropic-urges-uncle-sam-to-kneecap-chinas-ai-ambitions-before-2028/",
+    "url_normalized": "theregister.com/ai-ml/2026/05/15/anthropic-urges-uncle-sam-to-kneecap-chinas-ai-ambitions-before-2028",
+    "summary": "Anthropicは2026年5月14日、2028年に「変革的なAIシステム」が出現するとし、それまでに民主主義国がリードを確保すべきとする政策提言書を公開した。米中差を12〜24か月維持するシナリオと、政策不備により中国が拮抗するシナリオを対比させ、①先進チップの密輸監視強化、②大規模モデルのコピー（蒸留攻撃）を違法と明確化、③友好国へのUSハードウェア・AIモデルの輸出促進——の3施策を提言している。The Registerは、AnthropicがDeepSeek R1などの独自革新を過小評価しつつ自社も訓練データ問題を抱えながら蒸留攻撃を批判する矛盾を指摘するほか、欧州各国が米中双方の支配を脅威として「デジタル主権」を追求していると言及する。フロンティアモデルの能力が国家安全保障政策を直接引き起こした近年の事例の中で、提言主体がAI企業自身であるという構図は特異であり、技術と政策の境界線が急速に溶けつつある状況を示す。企業にとっては、AIチップ・インフラ・モデルの調達先がどの地政学ブロックに属するかがコンプライアンスリスクに直結する局面が近づきつつあり、調達戦略に地政学リスク評価を組み込む必要性が高まっていると考えられる。",
+    "source": "The Register",
+    "lang": "en",
+    "tags": [
+      "AI政策",
+      "米中競争",
+      "輸出規制",
+      "Anthropic",
+      "安全保障"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-05-15",
+    "fetched_at": "2026-05-16T06:14:24+09:00"
+  },
+  {
+    "id": "48d97f9d2ba9",
+    "title": "Empromptu Launches Alchemy Models: The Next Wave of AI After Vibe Coding",
+    "url": "https://www.globenewswire.com/news-release/2026/05/14/3295002/0/en/empromptu-launches-alchemy-models-the-next-wave-of-ai-after-vibe-coding.html",
+    "url_normalized": "globenewswire.com/news-release/2026/05/14/3295002/0/en/empromptu-launches-alchemy-models-the-next-wave-of-ai-after-vibe-coding.html",
+    "summary": "Empromptu AIは2026年5月14日、企業が自社の業務ワークフローから自動的にトレーニングデータを生成し、MLチーム不要でカスタムAIモデルを構築・所有できるプラットフォーム「Alchemy Models」の提供を発表した。自然言語インターフェースで業務アプリを構築するとシステムが本番ワークフローのやり取りをキャプチャし、担当者がエッジケースを検証・ラベリングすることで時間の経過とともにモデルが継続改善される仕組みだ。早期導入企業では推論コスト40〜80%削減・精度25〜30%向上を実現しており、行動医療分野ではセッション記録作成時間を1〜2時間から10〜15分に短縮したという事例もある。CEOは「ほとんどの企業は現在、他社モデルに知的財産を渡す形で知能をレンタルしている」と述べ、自社モデル所有によるベンダー依存解消を強調した。業務データを外部APIに送らずに専用モデルを育てるというアプローチは、データセキュリティと業務固有の精度を両立させながら自動化の適用範囲を拡大できる可能性があり、規制産業（医療・法務・金融）での反復業務の自動化コストを下げる現実的な選択肢になりうると考えられる。",
+    "source": "GlobeNewswire",
+    "lang": "en",
+    "tags": [
+      "製品発表",
+      "業務効率化",
+      "AIモデル",
+      "エンタープライズ",
+      "推論コスト削減"
+    ],
+    "matched_keyword": "業務改革",
+    "published_at": "2026-05-14",
+    "fetched_at": "2026-05-16T06:14:24+09:00"
+  },
+  {
+    "id": "308668d14226",
+    "title": "古文書解読にAI活用　波田歴史愛好会が効率10倍超　松本",
+    "url": "https://www.shimintimes.co.jp/news/2026/05/post-11335/",
+    "url_normalized": "shimintimes.co.jp/news/2026/05/post-11335",
+    "summary": "長野県松本市の波田歴史愛好会は2026年5月14日、江戸時代に地域の商家4軒が負担した夫役（ぶやく）関連の大型史料約200点について、くずし字OCRサービスをAI補助ツールとして活用し解読を進めていることを明らかにした。電気技術者の経歴を持つ副会長（75）が主導し、専門家でも1日1ページ程度だった解読速度が「1日10ページ以上（検証含む）」へ10倍超に向上したという。解読済み資料からは宝暦年間の「戸馬田崩れ」洪水災害と年貢減免の請願記録など地域防災・社会史研究に有用な知見が浮かび上がりつつある。会員の高齢化と後継不足という切実な状況のもとで、AIを「記録が消えゆく前に読み切る」手段として位置づける点が特徴的だ。専門家の養成に数十年を要する解読知識をAIが補完することで草の根レベルの市民歴史研究を可能にするこの事例は、地方行政・図書館・博物館が眠る地域史料を一気にデジタル化・テキスト化できる可能性を具体的に示しており、人手不足の中でも地域の記憶を継承し研究者への扉を開く実践例として注目できる。",
+    "source": "市民タイムス",
+    "lang": "ja",
+    "tags": [
+      "古文書",
+      "くずし字",
+      "AI活用",
+      "地域歴史研究",
+      "江戸時代"
+    ],
+    "matched_keyword": "歴史・教養",
+    "published_at": "2026-05-14",
+    "fetched_at": "2026-05-16T06:14:24+09:00"
+  },
+  {
     "id": "a3c5f7b28e4d",
     "title": "Met Police tout arrests, crime drop from permanent LFR camera pilot",
     "url": "https://www.biometricupdate.com/202605/met-police-tout-arrests-crime-drop-from-permanent-lfr-camera-pilot",
