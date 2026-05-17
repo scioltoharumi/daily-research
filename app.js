@@ -541,17 +541,34 @@
   function setupHeaderCompactOnScroll() {
     const header = document.querySelector('.site-header');
     if (!header) return;
-    const COMPACT_AT = 80;
     const EXPAND_AT = 20;
+    const COLLAPSE_BUFFER = 40;
     let scheduled = false;
+    let compact = false;
 
     function update() {
       scheduled = false;
       const y = window.scrollY || window.pageYOffset || 0;
-      if (y > COMPACT_AT) {
-        header.classList.add('header-compact');
+      if (!compact) {
+        // Collapse only after scrolling past the full header height, so the
+        // layout height it gives up can be absorbed by adjusting scrollY
+        // instead of the browser clamping scrollY back into the expand zone
+        // (that clamp is what made the header flicker on short pages).
+        if (y > header.offsetHeight + COLLAPSE_BUFFER) setCompact(true);
       } else if (y < EXPAND_AT) {
-        header.classList.remove('header-compact');
+        setCompact(false);
+      }
+    }
+
+    function setCompact(next) {
+      const before = header.offsetHeight;
+      header.classList.toggle('header-compact', next);
+      compact = next;
+      if (next) {
+        // The page just got shorter by `delta`; pull scrollY up by the same
+        // amount so the content under the header stays visually anchored.
+        const delta = before - header.offsetHeight;
+        if (delta > 0) window.scrollBy(0, -delta);
       }
     }
 
