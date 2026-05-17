@@ -1,5 +1,81 @@
 [
   {
+    "id": "b30a3ac5a413",
+    "title": "DHS funding law quietly advances biometric, surveillance infrastructure",
+    "url": "https://www.biometricupdate.com/202605/dhs-funding-law-quietly-advances-biometric-surveillance-infrastructure",
+    "url_normalized": "biometricupdate.com/202605/dhs-funding-law-quietly-advances-biometric-surveillance-infrastructure",
+    "summary": "米国が2026年4月30日に成立させた国土安全保障追加継続歳出法に、生体認証・監視インフラを拡大する条項が静かに盛り込まれていたことが明らかになった。USCIS職員が遠隔で申請支援センターの生体認証収集を「仮想的に監視」できる条項、「自律型でない」監視システムへの国境セキュリティ資金支出を禁じ自律型を優遇する規定、CBPへのドローン2.2億ドル・移民取締職員ボディカメラ2000万ドルの配分が含まれ、融合センターを通じた多機関間の生体データ共有も強化される。移民政策をめぐる政治的対立が続くなか、公開論争を迂回しつつ支出法案の細部に技術インフラ整備を組み込む立法手法は、顔認証・監視体制が議会の正面審議なしに拡大するリスクを示す事例といえる。米国政府の調達仕様と精度要件は業界のデファクト標準を形成しやすく、生体認証ソリューションをグローバル展開する企業や導入を検討する組織にとっても、将来の輸出規制や認証基準の変化を早期に把握しロードマップに反映しておく意義が高まっていると考えられる。",
+    "source": "Biometric Update",
+    "lang": "en",
+    "tags": [
+      "規制",
+      "米国",
+      "移民政策",
+      "自律型監視",
+      "プライバシー"
+    ],
+    "matched_keyword": "顔認証",
+    "published_at": "2026-05-14",
+    "fetched_at": "2026-05-17T15:00:00+09:00"
+  },
+  {
+    "id": "4e715a69e33b",
+    "title": "OCR Studio expands KYC fraud detection for AI-generated identity documents",
+    "url": "https://www.biometricupdate.com/202605/ocr-studio-expands-kyc-fraud-detection-for-ai-generated-identity-documents",
+    "url_normalized": "biometricupdate.com/202605/ocr-studio-expands-kyc-fraud-detection-for-ai-generated-identity-documents",
+    "summary": "OCR Studioは2026年5月17日、ChatGPT・Midjourney・Grokなど複数の生成AIツールで作成された偽造身分証明書を検出するKYC向け不正防止システムを発表した。従来の手法が文書内容の論理矛盾を探すのに対し、同システムは画像の低レベル構造を解析し生成・編集アルゴリズムが残す目に見えないアーティファクトを検出する設計で、人間の目では識別困難なAI生成IDに対応できる。eKYCの普及とAI画像生成技術の高精度化が同時進行するなか、コンテンツ検証だけでは限界が生じるという認識が広まっており、構造解析による多層防御に対する製品需要が拡大しているとみられる。金融・行政・医療のオンボーディングを自動化するほど合成IDによる詐欺リスクも比例して高まるというトレードオフがあり、画像構造レベルでの異常検知を本人確認フローに組み込む投資を正当化できるタイミングが来ていると考えられる。AIが悪用ツールにも防御ツールにもなる二面性は、自動化推進と信頼確保を両立させる業務設計において今後も核心的な論点となりうる。",
+    "source": "Biometric Update",
+    "lang": "en",
+    "tags": [
+      "KYC",
+      "本人確認",
+      "ディープフェイク",
+      "詐欺対策",
+      "生成AI"
+    ],
+    "matched_keyword": "顔認証",
+    "published_at": "2026-05-17",
+    "fetched_at": "2026-05-17T15:00:00+09:00"
+  },
+  {
+    "id": "286708a3076e",
+    "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+    "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+    "url_normalized": "techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts",
+    "summary": "OpenAIは2026年5月15日、ChatGPT Proユーザー（米国）向けに個人財務ツールのプレビュー版を公開した。金融口座接続サービスPlaidを通じてシュワブ・フィデリティ・Chaseなど1万2,000超の金融機関に口座を接続すると、ポートフォリオ成績・支出・定期購読・予定支払いのダッシュボードが表示され、「なぜ先月の支出が増えたか」「5年で住宅購入計画を立てたい」など自然言語で財務相談ができる仕組みだ。データは30日以内に削除可能とし、今後はIntuitとの連携により税務アドバイスへの対応も視野に入れる。2026年4月にOpenAIがパーソナルファイナンススタートアップHiroのチームを買収しており、本機能はその成果の第一弾に当たる。対話ツールにとどまらず実口座に接続した財務エージェントへの進化は、AI活用が「調べる」から「実際の金融データを把握・分析する」段階へ移行したことを示す象徴的な転換点といえる。資産管理や資金計画に費やす時間が減り本業や創造的活動に集中できる余地が広がりうる一方、生活の根幹である金融データをAIに開放する設計においてプライバシーとセキュリティの精査が不可欠になっていると考えられる。",
+    "source": "TechCrunch",
+    "lang": "en",
+    "tags": [
+      "製品発表",
+      "パーソナルファイナンス",
+      "OpenAI",
+      "ChatGPT",
+      "フィンテック"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-05-15",
+    "fetched_at": "2026-05-17T15:00:00+09:00"
+  },
+  {
+    "id": "b252c5cdb450",
+    "title": "Airia Launches Form Review Step, Giving Enterprises Human-Verified AI Document Extraction",
+    "url": "https://www.globenewswire.com/news-release/2026/05/15/3295963/0/en/airia-launches-form-review-step-giving-enterprises-human-verified-ai-document-extraction.html",
+    "url_normalized": "globenewswire.com/news-release/2026/05/15/3295963/0/en/airia-launches-form-review-step-giving-enterprises-human-verified-ai-document-extraction.html",
+    "summary": "Airiaは2026年5月15日、AIによる文書データ抽出を本番システムへ送る前に人間が検証するワークフロー機能「Form Review Step」を発表した。左画面に原本、右画面にAI事前入力フォームを並べた分割画面インターフェースで担当者が数秒で検証・修正・承認でき、監査証跡も自動生成される。抵当権書・保険請求・ベンダー契約など複雑な書類を扱う金融・保険・医療などの規制産業を対象とし、「モデルがそう言った」では規制ワークフローの根拠として不十分という実務的な課題に直接応える設計だ。AIの帳票読み取り精度が向上しても、規制産業では誤りが契約・コンプライアンス・患者安全に直結するため完全自動化の採用を躊躇する組織が多く、人間の判断をループに残した「ヒューマン・イン・ザ・ループ」設計が自動化の橋渡し役として注目を集めている。手作業による入力を大幅に削減しながらも責任の所在を明確に保つ仕組みは、文書処理を大量に抱える現場担当者の作業負担を軽減しつつ、ミスの削減と説明責任の両立を現実の業務フローで実現する具体的な選択肢になりうる。",
+    "source": "GlobeNewswire",
+    "lang": "en",
+    "tags": [
+      "ヒューマン・イン・ザ・ループ",
+      "文書処理",
+      "規制産業",
+      "ワークフロー自動化",
+      "製品発表"
+    ],
+    "matched_keyword": "業務改革",
+    "published_at": "2026-05-15",
+    "fetched_at": "2026-05-17T15:00:00+09:00"
+  },
+  {
     "id": "11eec69bef70",
     "title": "UK watchdog warns of legal risks as London police deploy LFR at protest",
     "url": "https://www.biometricupdate.com/202605/uk-watchdog-warns-of-legal-risks-as-london-police-deploy-lfr-at-protest",
