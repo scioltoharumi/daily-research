@@ -1,5 +1,100 @@
 [
   {
+    "id": "f8365f749e77",
+    "title": "Biometric travel infrastructure scales from London to Dubai",
+    "url": "https://www.biometricupdate.com/202605/biometric-travel-infrastructure-scales-from-london-to-dubai",
+    "url_normalized": "biometricupdate.com/202605/biometric-travel-infrastructure-scales-from-london-to-dubai",
+    "summary": "英国・台湾・日本・ドバイで顔認証を活用した空港旅客処理インフラが相次いで拡張されていることが2026年5月18日に報告された。英国では8〜9歳の子ども（身長120cm超）が7月8日から顔認証e-ゲートを利用可能となり最大150万人が入国審査の手作業を回避できる見通し。台湾・台北松山空港は18台のワンID顔認証キオスクで搭乗手続きと入国審査を一体化し、日本は2028年までに免税渡航者向けデジタル渡航許可制度（JESTA）を整備し2030年に年間6,000万人の訪日客誘致を目指す。ドバイの「レッドカーペット」生体認証通路は1人4〜14秒・10人同時処理を実現し公共部門イノベーション賞を受賞した。航空旅客増加と空港スタッフ不足が同時進行するなか、書類提示・手動照合という従来の入国審査の摩擦をゼロにする設計が標準的なインフラとして定着しつつあると考えられる。空港での実績が生体認証技術への社会的信頼を高めることで、企業の受付・入退室管理・大型イベント入場管理など反復的な本人確認業務への転用が加速しやすくなる可能性があり、担当者が接客や例外対応という本質業務に集中できる余地が広がると考えられる。",
+    "source": "Biometric Update",
+    "lang": "en",
+    "tags": [
+      "空港",
+      "生体認証",
+      "旅客処理",
+      "英国",
+      "デジタルアイデンティティ"
+    ],
+    "matched_keyword": "顔認証",
+    "published_at": "2026-05-18",
+    "fetched_at": "2026-05-19T06:17:47+09:00"
+  },
+  {
+    "id": "38d59b81d118",
+    "title": "EXCLUSIVE: Peterborough police detain suspects in first-ever facial recognition operation in Cambridgeshire",
+    "url": "https://www.cambsnews.co.uk/news/peterborough-facial-recognition-police-trial-city-centre-may-2026/42877/",
+    "url_normalized": "cambsnews.co.uk/news/peterborough-facial-recognition-police-trial-city-centre-may-2026/42877",
+    "summary": "ケンブリッジシャー警察は2026年5月16日、ピーターバラ市中心部で郡初となるライブ顔認証（LFR）を運用し少なくとも1件の容疑者特定・停車確認を実施したと翌17日に報じられた。警察車両2台が生体認証カメラを搭載して巡回し、指名手配犯・性犯罪者登録者・高リスク人物を対象としたウォッチリストとリアルタイムで照合する仕組みで、アラートを出さない顔画像は即時削除される。警察はQRコードとサイネージで市民に処理内容を説明し透明性を確保した。ロンドン警視庁がクロイドンの常設LFRパイロットで173件逮捕・誤逮捕ゼロの成果を示して以来、英国各地で法執行機関のLFR採用が加速している背景がある。顔認証が「人員増派なしに捜索範囲を広げる」手段として機能し始めた段階に来ており、産業セキュリティの文脈では施設常設カメラや入退室ゲートへの同様設計の応用が進みやすくなると考えられる。一方プライバシーと冤罪リスクへの社会的懸念も根強く、運用目的・ウォッチリスト管理・データ削除ポリシーの透明性がシステム受容の鍵を握り続けると考えられる。",
+    "source": "Cambs News",
+    "lang": "en",
+    "tags": [
+      "法執行",
+      "英国",
+      "初導入",
+      "プライバシー",
+      "ライブ顔認証"
+    ],
+    "matched_keyword": "顔認証",
+    "published_at": "2026-05-17",
+    "fetched_at": "2026-05-19T06:17:47+09:00"
+  },
+  {
+    "id": "f6fbb1401e6a",
+    "title": "OpenAI Unifies ChatGPT, Codex, and Developer API Under Co-Founder Brockman Four Days Before Google I/O",
+    "url": "https://www.techtimes.com/articles/316730/20260516/openai-unifies-chatgpt-codex-developer-api-under-co-founder-brockman-four-days-before-google-i-o.htm",
+    "url_normalized": "techtimes.com/articles/316730/20260516/openai-unifies-chatgpt-codex-developer-api-under-co-founder-brockman-four-days-before-google-i-o.htm",
+    "summary": "OpenAIは2026年5月16日、共同創業者グレッグ・ブロックマンを全製品戦略の恒久的な責任者に据え、ChatGPT・Codex・開発者APIを単一組織に統合すると発表した。コア製品はCodexを主導してきたティボー・ソティオーが率い、内蔵ブラウザ・コード実行層・会話インターフェースを一体化した「エージェント型スーパーアプリ」の実現を目指す。ChatGPTの週間アクティブユーザーは9億人を超えるが、12か月で市場シェアが86.7%から64.5%へ低下しGeminiが5.7%から21.5%へ急伸しており、翌週のGoogle I/O（5月19日）を前にした競争圧力が背景にある。AIが「調べる・書く」補助ツールから「スケジュール調整・調査・コードデプロイ・文書作成を一気通貫で実行するプラットフォーム」へ転換しようとする動きは、ツール切り替えを省き複数業務を連続実行できる環境の実現を示唆するものと考えられる。こうした統合エージェント環境が成熟するほど担当者は反復的な情報収集・処理を任せ創造的判断・顧客対応・戦略立案に集中できる可能性がある一方、特定ベンダーへの依存深化というリスクも同時に高まりうる。",
+    "source": "TechTimes",
+    "lang": "en",
+    "tags": [
+      "OpenAI",
+      "製品戦略",
+      "AIエージェント",
+      "スーパーアプリ",
+      "IPO"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-05-16",
+    "fetched_at": "2026-05-19T06:17:47+09:00"
+  },
+  {
+    "id": "c8b4b764772d",
+    "title": "Microsoft AI chief gives it 18 months—for all white-collar work to be automated by AI",
+    "url": "https://fortune.com/article/why-microsoft-ai-chief-mustafa-suleyman-predicts-ai-automation-18-months/",
+    "url_normalized": "fortune.com/article/why-microsoft-ai-chief-mustafa-suleyman-predicts-ai-automation-18-months",
+    "summary": "マイクロソフトのAI最高責任者ムスタファ・スレイマン氏は2026年5月16日のフォーチュン誌インタビューで、「18か月以内にAIがほぼすべての専門職タスクで人間レベルに達する」と予測し、会計・法務・マーケティング・プロジェクト管理などデスクワーク全般が自動化されうると述べた。OpenAIのアルトマン氏やAnthropicのアモデイCEOも同様の見解を示す。一方、記事が提示する反証データは慎重さを促す内容だ。2025年のトムソン・ロイター調査では弁護士・会計士のAI活用による生産性改善は軽微にとどまり、別の研究ではAIがソフトウェア開発者の生産性を逆に20%低下させた事例が報告されている。2026年のAI関連人員削減は約4万9,000件に達するが経済恩恵の大半はテクノロジーセクターに集中している。楽観的な予測と実測値の乖離は、ツール導入だけでなく「どの業務にAIを当てはめるか」の設計精度が成果を左右することを示唆している。業務自動化プロジェクトの優先順位付けと人間とAIの役割分担の丁寧な見極めが、恩恵を確実に引き出す前提条件になると考えられる。",
+    "source": "Fortune",
+    "lang": "en",
+    "tags": [
+      "自動化予測",
+      "ホワイトカラー",
+      "AI生産性",
+      "経営予測",
+      "Microsoft"
+    ],
+    "matched_keyword": "業務改革",
+    "published_at": "2026-05-16",
+    "fetched_at": "2026-05-19T06:17:47+09:00"
+  },
+  {
+    "id": "b0857421f268",
+    "title": "UNESCO celebrates 2026 International Museum Day honouring Museums Uniting a Divided World",
+    "url": "https://www.unesco.org/en/articles/unesco-celebrates-2026-international-museum-day-honouring-museums-uniting-divided-world",
+    "url_normalized": "unesco.org/en/articles/unesco-celebrates-2026-international-museum-day-honouring-museums-uniting-divided-world",
+    "summary": "ユネスコと国際博物館会議（ICOM）は2026年5月18日の「国際博物館の日」（テーマ：「分断された世界をつなぐ博物館」）に合わせ、盗難文化財の情報を集約した「バーチャル文化財博物館」のスペイン語版を公開した。2025年9月の開設以来同プラットフォームは20万5,000人超の訪問者と160万超のページビューを記録し、ラテンアメリカ・カリブ海地域の59点の盗難品情報が新たに追加された。ユネスコとICOMは5月21日より博物館のAI活用実態と研修需要を把握するグローバル調査を開始することも発表した。スーダン国立博物館の緊急文物回収やウクライナ・ハネンコ博物館の修復支援も紹介されている。デジタルアーカイブ技術の成熟により国境を越えた文化財情報の共有が実用段階に達しており、各国博物館の収蔵品管理・展示解説・研究支援においてAIをどう活用するかを体系的に把握する国際調査の始動は博物館業務のデータ主導型再設計を加速させると考えられる。その知見は研究者や市民が膨大な文化遺産へアクセスしやすくなる基盤整備にも繋がりうる。",
+    "source": "UNESCO",
+    "lang": "en",
+    "tags": [
+      "博物館",
+      "文化遺産",
+      "AI調査",
+      "デジタルアーカイブ",
+      "国際博物館の日"
+    ],
+    "matched_keyword": "歴史・教養",
+    "published_at": "2026-05-18",
+    "fetched_at": "2026-05-19T06:17:47+09:00"
+  },
+  {
     "id": "b30a3ac5a413",
     "title": "DHS funding law quietly advances biometric, surveillance infrastructure",
     "url": "https://www.biometricupdate.com/202605/dhs-funding-law-quietly-advances-biometric-surveillance-infrastructure",
