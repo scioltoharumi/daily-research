@@ -1,5 +1,81 @@
 [
   {
+    "id": "625ad2a8b910",
+    "title": "Disney hit with class action over facial recognition at California parks",
+    "url": "https://www.biometricupdate.com/202605/disney-hit-with-class-action-over-facial-recognition-at-california-parks",
+    "url_normalized": "biometricupdate.com/202605/disney-hit-with-class-action-over-facial-recognition-at-california-parks",
+    "summary": "カリフォルニア州のディズニーランドとディズニー・カリフォルニア・アドベンチャーが2026年4月28日から顔認証による入場確認を導入したことを受け、Summer Christine Duffieldが2026年5月19日、最低500万ドルの損害賠償を求める集団訴訟を提起した。訴状は「ディズニーは顔認証の使用と生体データ収集を適切に開示しておらず、ほぼ常に子どもを含む来場者は自分のデータが収集されていることを知らない」と主張する。入口標識の「顔に斜線」アイコンへの変更は同意として不十分で、事前の明示的な書面同意を義務付けるべきとの立場だ。ディズニー側は「請求は根拠がない」と反論している。テーマパークでの顔認証は不正チケット防止・入場効率化を目的とするが、カリフォルニア州CCPAは消費者の生体情報に関し明示的な開示を求め、子どもの生体データには別途追加保護が必要という議論が全米で高まっている。本訴訟が認められれば「アイコン表示だけでは同意として不十分」という法的基準が確立し、顔認証導入を検討する企業はイベント会場・商業施設を問わず、導入前の明示的な同意プロセスと子ども向け特例を設計段階から組み込む必要が現実的に生じる。開示設計の精度が社会的信頼と法的リスクの分水嶺になると考えられる。",
+    "source": "Biometric Update",
+    "lang": "en",
+    "tags": [
+      "集団訴訟",
+      "プライバシー",
+      "テーマパーク",
+      "米国",
+      "子どもの権利"
+    ],
+    "matched_keyword": "顔認証",
+    "published_at": "2026-05-19",
+    "fetched_at": "2026-05-20T06:17:27+09:00"
+  },
+  {
+    "id": "e0f159e02608",
+    "title": "EU defends biometric EES rules as border delays and exemptions fuel confusion",
+    "url": "https://www.biometricupdate.com/202605/eu-defends-biometric-ees-rules-as-border-delays-and-exemptions-fuel-confusion",
+    "url_normalized": "biometricupdate.com/202605/eu-defends-biometric-ees-rules-as-border-delays-and-exemptions-fuel-confusion",
+    "summary": "EUの出入国システム（EES）が本格稼働して以来、非EU市民に指紋と顔画像の登録を義務付ける生体認証要件をめぐり混乱が続いている。ギリシャが2026年5月にイギリス人旅行者の指紋・顔画像取得を独自に一時停止すると発表したところ、欧州委員会は「委員会は新たな一時停止を承認していない」と即座に否定し、規則の統一適用を強調した。アムステルダム・スキポール空港では平均待機時間が5分から7.7分、最長では90分から120分に延び、パリCDGやスペインの港湾でも渋滞が報告されている。ギリシャ当局の対応は観光委員会と外務省で説明が食い違うなど一貫性を欠いた。大規模な生体認証国境管理システムの本格展開は、ハードウェア整備・スタッフ訓練・旅行者への周知が同時に必要であり、技術の導入と現場オペレーションの能力が必ずしも同期しないことを示す実例となっている。企業が国際渡航を前提とした出張・イベント参加・業務スケジュールを計画する際は、EES対応の待機時間を織り込む実務的な対応が必要になっている。また大規模インフラ導入時に「システムが稼働する」と「スムーズに機能する」の間の実装ギャップを埋めるプロセス設計の重要性は、顔認証を社内・施設に導入する組織にも共通する示唆を含むと考えられる。",
+    "source": "Biometric Update",
+    "lang": "en",
+    "tags": [
+      "規制",
+      "EU",
+      "国境管理",
+      "旅行",
+      "EES"
+    ],
+    "matched_keyword": "顔認証",
+    "published_at": "2026-05-19",
+    "fetched_at": "2026-05-20T06:17:27+09:00"
+  },
+  {
+    "id": "948f670a35ef",
+    "title": "Researchers develop biometric system that identifies people beyond the face",
+    "url": "https://www.biometricupdate.com/202605/researchers-develop-biometric-system-that-identifies-people-beyond-the-face",
+    "url_normalized": "biometricupdate.com/202605/researchers-develop-biometric-system-that-identifies-people-beyond-the-face",
+    "summary": "複数大学の共同研究チームは2026年5月18日、顔だけでなく歩行パターンと体形を組み合わせた多重バイオメトリクスで遠距離から個人を識別するシステム「FarSight」を発表した。1,000メートル超・上空20度以上から撮影したドローン映像でも機能し、IARPA（情報高等研究計画活動）のBRIARデータセット（1,055人・35万枚超の画像・1,300時間超の映像）で精度を評価済みだ。大気乱流や光学歪みを補正する物理ベースの画像復元技術を備え、顔が部分的に隠れている状況でも識別できる。顔認証への規制が各国で強化されつつある一方、歩行認識・体形分析は多くの法域でまだ規制の空白域にある。高所カメラやドローンによる遠距離識別が実用化されると、固定カメラ網の限界を超えた非接触型常時識別が可能になるが、既存の顔認証規制の想定外となりうるため、新たな立法・ガイドライン整備の必要性を提示する技術的事例といえる。施設セキュリティや公共安全の目的で生体認証を活用する組織は、顔以外の生体特徴を取り扱う場合の法的位置づけと倫理的ガイドラインを早期に整備しておく価値があると考えられる。",
+    "source": "Biometric Update",
+    "lang": "en",
+    "tags": [
+      "生体認証",
+      "歩行認証",
+      "監視技術",
+      "研究",
+      "ドローン"
+    ],
+    "matched_keyword": "顔認証",
+    "published_at": "2026-05-18",
+    "fetched_at": "2026-05-20T06:17:27+09:00"
+  },
+  {
+    "id": "e920218ef81b",
+    "title": "Everything Google announced at I/O 2026: Gemini, Search, Android XR, & more",
+    "url": "https://9to5google.com/2026/05/19/google-io-2026-news/",
+    "url_normalized": "9to5google.com/2026/05/19/google-io-2026-news",
+    "summary": "Googleは2026年5月19日のGoogle I/O 2026基調講演で、新AIモデル群と統合エージェント体験を一斉発表した。「Gemini 3.5 Flash」は競合フロンティアモデル比4倍高速でコーディング・エージェントタスク・マルチモーダル処理が向上し、当日からGeminiアプリ・Search・APIで展開開始。「Gemini Omni」は画像・音声・映像・テキストをすべて入力とし編集可能な映像を出力する新シリーズ。「Gemini Spark」はGmail・Docs・Workspace全体でユーザーに代わりタスクを自律実行する個人エージェントとして機能し、AI Ultra（月200ドル）向けに翌週から提供される。Searchには24時間稼働する「情報エージェント」が加わり、指定トピックをウェブ全域で継続監視し更新を通知する。利用料は「1日ごとのプロンプト上限」から「計算量ベース（5時間ごと更新）」に移行した。OpenAIが直前にChatGPT・Codex・APIを統合し一枚岩化を急いだ翌週に、GeminiがOSレベルの常駐エージェント基盤として全Googleサービスに深く浸透する設計を示したことで、「AIアシスタントをいかにユーザーの日常に埋め込むか」をめぐる主要プレイヤーの戦略的競争が新段階に入ったと考えられる。SparkのようなWorkspace常駐エージェントが成熟するほど、調査・文書作成・スケジュール調整といった反復的な知識作業を代替できる範囲が広がる可能性がある一方、単一エコシステムへの依存深化という選択コストも同時に高まることを意識しておく必要がある。",
+    "source": "9to5Google",
+    "lang": "en",
+    "tags": [
+      "Gemini",
+      "AI発表",
+      "エージェント",
+      "Google",
+      "生産性"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-05-19",
+    "fetched_at": "2026-05-20T06:17:27+09:00"
+  },
+  {
     "id": "f8365f749e77",
     "title": "Biometric travel infrastructure scales from London to Dubai",
     "url": "https://www.biometricupdate.com/202605/biometric-travel-infrastructure-scales-from-london-to-dubai",
