@@ -1,5 +1,43 @@
 [
   {
+    "id": "f0d26ee5ac30",
+    "title": "Biometric stadium entry plans in Europe trigger privacy and GDPR concerns",
+    "url": "https://www.biometricupdate.com/202605/biometric-stadium-entry-plans-in-europe-trigger-privacy-and-gdpr-concerns",
+    "url_normalized": "biometricupdate.com/202605/biometric-stadium-entry-plans-in-europe-trigger-privacy-and-gdpr-concerns",
+    "summary": "ドイツ・ブンデスリーガのボルシア・メンヒェングラートバッハと米エクストリーム・ネットワークスが提携し、収容人数5万4,000人のスタジアムに顔認証入場システムを導入する計画を進めており、オランダサッカー協会（KNVB）も生体情報と身分証を紐付けた個人デジタルアクセスシステムの展開を計画している。欧州では生体認証データはGDPRの「特別カテゴリー個人データ」に分類されるため、法律専門家らはクラブが「システムの必要性・有効性・代替手段比の比例性」を証明する法的義務を負うと警告する。バルセロナは14万3,000人会員の生体情報管理の不備で50万ユーロ、ラ・リーガは2025年に100万ユーロの罰金を受けた先例が既にある。スタジアム安全管理と入場効率化という具体的なニーズが生体認証普及を後押しする一方、規制当局がGDPR適合の証明を厳格に求めている点は、欧州で施設・イベントに顔認証を導入しようとする組織が参照できる実践的な基準事例を提供している。「入場管理という反復業務の自動化」と「規制リスクの先行設計」を両立させる設計思想が、社会的信頼を維持しながらスタッフを本質業務に集中させるうえで不可欠になると考えられる。",
+    "source": "Biometric Update",
+    "lang": "en",
+    "tags": [
+      "スタジアム",
+      "GDPR",
+      "欧州",
+      "プライバシー",
+      "規制"
+    ],
+    "matched_keyword": "顔認証",
+    "published_at": "2026-05-20",
+    "fetched_at": "2026-05-20T21:15:52+09:00"
+  },
+  {
+    "id": "dfe7ecc4f775",
+    "title": "US demand for biometric access complicates EU visa waiver talks",
+    "url": "https://www.biometricupdate.com/202605/us-demand-for-biometric-access-complicates-eu-visa-waiver-talks",
+    "url_normalized": "biometricupdate.com/202605/us-demand-for-biometric-access-complicates-eu-visa-waiver-talks",
+    "summary": "米国とEUが進める国境安全保障パートナーシップ強化（EBSP）交渉において、米国がビザ免除プログラムの継続条件として加盟国の生体認証データベース——指紋・顔画像・遺伝子情報を含む身元記録——へのアクセスを要求していることが2026年5月19日に報じられた。人権監視団体スウォッチは「EBSPは生体情報の一括収集を禁じる欧州司法裁判所の判例法を迂回する可能性がある」と批判し、EU側もデータ保護法との整合性・市民の不服申立権・救済手段の欠如を懸念している。EESの国境生体認証実装で混乱が続くなか（別報道）、今度は外交交渉の場で生体データが取引材料化している状況は、生体認証が単なる技術インフラの枠を超えて国家間の権力資源になった段階を示していると考えられる。企業が国際業務や越境サービスで生体情報を扱う際は、収集の法的根拠・越境移転の正当性・市民への開示を説明できる状態を維持しておくことが、将来の規制強化への実践的な備えになりうる。",
+    "source": "Biometric Update",
+    "lang": "en",
+    "tags": [
+      "ビザ外交",
+      "EU",
+      "米国",
+      "データ主権",
+      "国境管理"
+    ],
+    "matched_keyword": "顔認証",
+    "published_at": "2026-05-19",
+    "fetched_at": "2026-05-20T21:15:52+09:00"
+  },
+  {
     "id": "625ad2a8b910",
     "title": "Disney hit with class action over facial recognition at California parks",
     "url": "https://www.biometricupdate.com/202605/disney-hit-with-class-action-over-facial-recognition-at-california-parks",
