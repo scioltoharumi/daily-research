@@ -1,5 +1,138 @@
 [
   {
+    "id": "4c4bdfbf44ab",
+    "title": "Texas AG opens investigation into Meta glasses over privacy, biometric concerns",
+    "url": "https://www.biometricupdate.com/202605/texas-ag-opens-investigation-into-meta-glasses-over-privacy-biometric-concerns",
+    "url_normalized": "biometricupdate.com/202605/texas-ag-opens-investigation-into-meta-glasses-over-privacy-biometric-concerns",
+    "summary": "テキサス州司法長官ケン・パクストンは2026年5月21日、MetaのAI眼鏡（Ray-Ban Meta・Oakleyモデル）を対象に民事調査要求をMetaへ発出した。同眼鏡は「常時有効」モードで録画中のLEDインジケーターが無効のままでも映像データを処理し続けられる設計で、社内呼称「Name Tag」とされる機能がカメラ視野内の第三者の顔形状を同意なく取得する可能性があるとパクストンは指摘する。パクストン事務所はMetaとの顔認証データ無断収集問題で2024年7月に14億ドルの和解を達成した先例があり、今回は同一企業への2件目の生体情報関連調査となる。固定カメラと異なり装着型デバイスは「記録していない状態でも常時処理」できるため、既存の開示ガイドラインでは想定されてこなかったプライバシーリスクの類型が生まれていると考えられる。「LEDランプ点灯」のような間接的な開示では不十分という法的基準が確立しつつある現状は、顔認証機能をウェアラブルや施設カメラに組み込む組織が処理機能の明示的な告知設計と第三者への影響評価を製品化段階から組み込む必要性を改めて示している。",
+    "source": "Biometric Update",
+    "lang": "en",
+    "tags": [
+      "ウェアラブル",
+      "Meta",
+      "テキサス州",
+      "プライバシー",
+      "規制"
+    ],
+    "matched_keyword": "顔認証",
+    "published_at": "2026-05-21",
+    "fetched_at": "2026-05-21T09:00:00+09:00"
+  },
+  {
+    "id": "d88b75180ad9",
+    "title": "US DoT launches biometric trucker registry with Idemia, Clear tech",
+    "url": "https://www.biometricupdate.com/202605/us-dot-launches-biometric-trucker-registry-with-idemia-clear-tech",
+    "url_normalized": "biometricupdate.com/202605/us-dot-launches-biometric-trucker-registry-with-idemia-clear-tech",
+    "summary": "米運輸省は2026年5月21日、全トラック運転手・観光バス事業者・輸送キャリアを対象に顔認証を中心とした本人確認登録システム「Motus」の運用を開始したと発表した。Idemia社とClear社が共同開発した同システムはLogin.gov・政府発行ID・顔生体認証・第三者事業者確認を組み合わせ、薬物・アルコールクリアリングハウスとも照合する。従来の登録システムは氏名・メールアドレス・住所のみで申請でき悪質業者が複数の架空IDを使って規制を逃れる問題があったが、Motusはデータ分析による詐欺パターン検知も組み込んだ設計を採用した。稼働直後に5万事業者が登録したという。物流・交通など公共安全に直結する職域でのID詐欺対策として大規模に実用化された本事例は、政府がデジタルIDの基盤として顔認証を標準インフラとして位置付け始めた段階を具体的に示している。業務オンボーディングで資格詐称リスクが高い分野では同様の多層本人確認の設計が現実的な選択肢として参照されやすくなり、確認作業の手間を削減しながら信頼性を高める可能性があると考えられる。",
+    "source": "Biometric Update",
+    "lang": "en",
+    "tags": [
+      "政府ID",
+      "物流",
+      "詐欺対策",
+      "本人確認",
+      "米国"
+    ],
+    "matched_keyword": "顔認証",
+    "published_at": "2026-05-21",
+    "fetched_at": "2026-05-21T09:00:00+09:00"
+  },
+  {
+    "id": "68277278f887",
+    "title": "Anthropic says it's about to have its first profitable quarter",
+    "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+    "url_normalized": "techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter",
+    "summary": "Anthropicは2026年5月20日、投資家向けに2026年第2四半期に初の営業黒字化を達成する見通しを示したことがウォール・ストリート・ジャーナルの報道で明らかになった。同四半期の売上高見込みは約109億ドルで前四半期から2倍超の急成長が続いており、Claudeの個人・中小企業・法律事務所向け展開が奏功している。ただし同社は「大規模な計算コストにより年間を通じた黒字持続は保証されない」とも伝えている。OpenAIが9月のIPOへ向かうタイミングとの重なりもある。市場シェアを数四半期で約22ポイント失ったOpenAIを追いかけるAnthropicが財務的証拠を伴う初の黒字化を示したことは、生成AI市場が実験フェーズから収益フェーズへ移行し複数の持続可能なプレイヤーが並存する構造に向かっていることを示唆していると考えられる。AIプラットフォームの経営持続性が証明されると、企業は長期契約・ガバナンス設計・深いシステム統合を前提にAIを業務基盤として組み込みやすくなる可能性があり、反復業務の自動化投資に際してベンダーリスクを現実的に評価できる環境が整いつつある。",
+    "source": "TechCrunch",
+    "lang": "en",
+    "tags": [
+      "Anthropic",
+      "財務",
+      "黒字化",
+      "競争",
+      "IPO"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-05-20",
+    "fetched_at": "2026-05-21T09:00:00+09:00"
+  },
+  {
+    "id": "0739cd99e2fc",
+    "title": "Trump delays AI security executive order: 'I don't want to get in the way of that leading'",
+    "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+    "url_normalized": "techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading",
+    "summary": "トランプ大統領は2026年5月21日、AIモデル公開前14〜90日以内に政府と共有し国家サイバー長官室等が安全審査を実施することを義務付ける大統領令の署名を直前で延期した。大統領自身は「AIリードを妨げたくない」と発言し文言に不満を示した。非公式には主要テクノロジーCEOが短期通知で揃わなかったことも理由とされる。同令はAnthropicの「Mythos」やOpenAIの「GPT-5.5 Cyber」など攻撃的能力を有するとされるモデルの相次ぐリリースを受けて立案されたものだった。米中AI競争での優位維持とAI安全保障規制整備という矛盾が最高意思決定層で明示的に衝突した今回の延期は、連邦レベルでのAI安全審査義務化が当面先送りされることを意味する。規制空白が続くことで開発の自由度は保たれるが、政府審査プロセスが将来遡及的に義務化される可能性を想定し、能力記録・影響評価・インシデント対応フローを今から整備しておくことが規制対応コストを抑える備えになりうると考えられる。",
+    "source": "TechCrunch",
+    "lang": "en",
+    "tags": [
+      "AI政策",
+      "米国政府",
+      "規制",
+      "安全保障",
+      "大統領令"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-05-21",
+    "fetched_at": "2026-05-21T09:00:00+09:00"
+  },
+  {
+    "id": "aeb657d4c05d",
+    "title": "Figma adds an AI assistant to its collaborative canvas",
+    "url": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
+    "url_normalized": "techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas",
+    "summary": "Figmaは2026年5月20日、コラボレーティブデザインキャンバスにAIエージェント機能を統合した新機能を発表した。自然言語のプロンプトで新規デザインの生成・既存デザインの編集・デザインイテレーションの自動化が可能で、複数エージェントの並列実行によりエッジケースの視覚化やコンセプト検証を大幅に高速化できる。AnthropicとOpenAIと共同でデザイン文脈に特化したファインチューニングが行われており、Figmaの2026年第1四半期売上高は前年同期比46%増の3億3,340万ドルだ。デザインツールに自律型エージェントが統合されることで、「反復修正・量産・検証」という作業集約的なプロセスがAIに委ねられ、デザイナーや企画担当者が戦略的方向性やユーザー体験の本質的な判断に集中しやすくなる環境が整いつつあると考えられる。リソースが限られる小規模チームにとっては試作・検証サイクルの速度を大幅に引き上げられる可能性があり、デザイン領域における「少ない人数でも質の高いアウトプット」を目指す方向性の一つの具体例といえる。",
+    "source": "TechCrunch",
+    "lang": "en",
+    "tags": [
+      "製品発表",
+      "デザイン",
+      "AIエージェント",
+      "Figma",
+      "ワークフロー自動化"
+    ],
+    "matched_keyword": "業務改革",
+    "published_at": "2026-05-20",
+    "fetched_at": "2026-05-21T09:00:00+09:00"
+  },
+  {
+    "id": "808b46165db4",
+    "title": "1Password, Keycard present tools for secure AI agent credential delegation",
+    "url": "https://www.biometricupdate.com/202605/1password-keycard-present-tools-for-secure-ai-agent-credential-delegation",
+    "url_normalized": "biometricupdate.com/202605/1password-keycard-present-tools-for-secure-ai-agent-credential-delegation",
+    "summary": "1PasswordとKeycard社は2026年5月21日、自律型AIエージェントが企業の本番システムを操作する際の認証情報を安全に管理するツールをそれぞれ発表した。1PasswordはOpenAI Codexとの提携でMCPサーバー経由のクレデンシャル動的注入を実装し、シークレットはディスクに書き込まれず実行セッション中のみ参照できる設計とした。KeycardはOAuth 2.0のトークン交換規格でエージェントに検証可能なIDを付与し永続的なAPIキーを廃止する。現行のセキュリティモデルは人間の操作者向けの静的な認証情報を前提としており、自律エージェントが本番システムへ能動的にアクセスし始めた段階で新たな脆弱性が顕在化していた。企業がAIエージェントを業務フローに組み込む速度が上がるなか、権限スコープの精密な定義・タスクごとの最小権限付与・完全な監査証跡の三点を初期設計に組み込むアーキテクチャが、セキュリティと自動化効率の両立を実現する基盤として業界標準に向かいつつあると考えられる。規制産業（金融・医療・法務）でのエージェント本番導入においては特に重要な安全設計の参照点となりうる。",
+    "source": "Biometric Update",
+    "lang": "en",
+    "tags": [
+      "セキュリティ",
+      "AIエージェント",
+      "クレデンシャル管理",
+      "エンタープライズ",
+      "ゼロトラスト"
+    ],
+    "matched_keyword": "業務改革",
+    "published_at": "2026-05-21",
+    "fetched_at": "2026-05-21T09:00:00+09:00"
+  },
+  {
+    "id": "4d50f3c0c24a",
+    "title": "Lost for 150,000 years: Rainforest discovery upends human history",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260519003311.htm",
+    "url_normalized": "sciencedaily.com/releases/2026/05/260519003311.htm",
+    "summary": "マックス・プランク地理人類学研究所が主導する国際研究チームは2026年5月19〜20日、現在のコートジボワールにあるベテI遺跡で約15万年前の人類による熱帯雨林居住の証拠を確認したと発表し、Nature誌に掲載された。光学刺激ルミネッセンス・電子スピン共鳴法による年代測定と、花粉・プラントオパール・堆積物化学分析による環境復元を組み合わせた手法を用いた。アフリカで従来最古とされた約1万8,000年前の記録を10倍近く遡り、世界全体でも約7万年前の記録をほぼ2倍上回る年代だ。この発見は初期ホモ・サピエンスが熱帯雨林を含む多様な生態系に適応できた生態的ジェネラリストであったことを示し、人類の起源・拡散ルート・地域集団形成の理解を根本から改訂しうる成果とされる。1980年代に掘削された試料を現代の分析技術で再評価して新知見を得たプロセスは、博物館や大学に眠る未解析コレクションを現代技術で再検討することが新発見を生む土壌になりうることを示しており、文化財・史料のデジタル化と再分析の推進が歴史理解を更新し続ける実践として注目できると考えられる。",
+    "source": "ScienceDaily",
+    "lang": "en",
+    "tags": [
+      "考古学",
+      "人類進化",
+      "アフリカ",
+      "熱帯雨林",
+      "Nature"
+    ],
+    "matched_keyword": "歴史・教養",
+    "published_at": "2026-05-19",
+    "fetched_at": "2026-05-21T09:00:00+09:00"
+  },
+  {
     "id": "f0d26ee5ac30",
     "title": "Biometric stadium entry plans in Europe trigger privacy and GDPR concerns",
     "url": "https://www.biometricupdate.com/202605/biometric-stadium-entry-plans-in-europe-trigger-privacy-and-gdpr-concerns",
