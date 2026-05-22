@@ -1,5 +1,100 @@
 [
   {
+    "id": "0daa07dab967",
+    "title": "SOCOM begins fielding new battlefield biometrics system",
+    "url": "https://www.militarytimes.com/industry/techwatch/2026/05/22/socom-begins-fielding-new-battlefield-biometrics-system/",
+    "url_normalized": "militarytimes.com/industry/techwatch/2026/05/22/socom-begins-fielding-new-battlefield-biometrics-system",
+    "summary": "米特殊作戦軍（USSOCOM）は2026年5月22日、モンタナ州スタートアップReveal Technology社の生体認証ツール「Identifi」を正式プログラム・オブ・レコードとして採用し、陸軍特殊作戦軍・海兵隊特殊作戦軍・海軍特殊部隊への展開を開始したと発表した。Identifiはモバイル端末上で動作し、指紋・顔認証・声紋・虹彩という4種の生体情報を収集して国防総省の自動生体認証識別システム（ABIS）とオフラインで照合できる設計だ。2023年のSOCOM戦術生体認証コンペで優勝した設計を持ち、同社は国防総省・GSA・SBAから累計1,300万ドル超の契約を受け、2025年に3,000万ドルの資金調達を完了している。戦場では通信が遮断された過酷な環境で敵戦闘員・民間人を即時識別する要件が高まっており、複数の生体情報をデバイス上で完結処理できる設計がその課題を満たしたと考えられる。軍用基準で検証された生体認証技術は空港・重要施設・大型イベントの入退室管理に民間転用されやすく、照合業務の自動化により担当者が判断・対応という本質業務に集中できる運用モデルの実例として参照されやすくなると考えられる。",
+    "source": "Military Times",
+    "lang": "en",
+    "tags": [
+      "生体認証",
+      "軍事",
+      "米国",
+      "特殊部隊",
+      "製品発表"
+    ],
+    "matched_keyword": "顔認証",
+    "published_at": "2026-05-22",
+    "fetched_at": "2026-05-22T09:00:00+09:00"
+  },
+  {
+    "id": "96c9dca9586e",
+    "title": "EES records 66M border crossings in first six months despite rollout friction",
+    "url": "https://www.biometricupdate.com/202605/ees-records-66m-border-crossings-in-first-six-months-despite-rollout-friction",
+    "url_normalized": "biometricupdate.com/202605/ees-records-66m-border-crossings-in-first-six-months-despite-rollout-friction",
+    "summary": "欧州の出入国システム（EES）は2026年5月22日、稼働開始から初の6か月間で6,600万件の入域記録を達成したと報じられた。1日あたりの指紋照合件数は約17,000件から87,000件へ急増し、6か月で32,000人以上の入域拒否（うち約7,000人がビザ超過滞在、800人近くが内部脅威関連）を記録した。EUはセキュリティ上の成果が明白だと評価する一方、航空業界や旅行専門家は長時間の待機列と運用上の負担を指摘しており、一部の国は英国観光客向けに指紋取得を一時的に免除する措置を講じている。EESは技術・法制度が準備されても現場スタッフ訓練・機器整備・旅行者周知が同期しなければスムーズな運用が難しいことを実データで示した事例となっている。生体認証を大規模インフラとして導入する際は「技術が動く」と「スムーズに機能する」の間に必ず実装ギャップが生じるという教訓は、施設や空港で顔認証を導入しようとする組織が現場オペレーション設計・スタッフ研修・利用者周知を先行させる重要性を改めて示していると考えられる。",
+    "source": "Biometric Update",
+    "lang": "en",
+    "tags": [
+      "EU",
+      "国境管理",
+      "EES",
+      "運用成果",
+      "生体認証"
+    ],
+    "matched_keyword": "顔認証",
+    "published_at": "2026-05-22",
+    "fetched_at": "2026-05-22T09:00:00+09:00"
+  },
+  {
+    "id": "fffc8bb9a7b0",
+    "title": "Korea's Generative AI Use Splits by Age: ChatGPT for 40s, Claude and Gemini for 20s",
+    "url": "https://en.sedaily.com/society/2026/05/21/koreas-generative-ai-use-splits-by-age-chatgpt-for-40s",
+    "url_normalized": "en.sedaily.com/society/2026/05/21/koreas-generative-ai-use-splits-by-age-chatgpt-for-40s",
+    "summary": "韓国ソウル経済新聞が2026年5月21日に報じたデータによると、韓国国内の生成AIプラットフォーム利用は年代で明確に分化しており、20代はClaudeとGeminiを選ぶ傾向がある一方、40代はChatGPTを主に使用している。市場規模は291.8億ウォンに達し、ChatGPTが月間利用者2,345万人で首位を維持する一方、Claudeは前年比1,168%増と最速の成長を記録。支払額シェアはChatGPT（48.5%）・Claude（31.7%）・Gemini（14.2%）となっている。OpenAIが市場を独占した時期を経て、各プロバイダーが異なる世代・用途層を獲得し始めた段階に入ったことを示しており、Claudeの急成長は長文処理や指示遵守性など特定のユースケースで差別化が進んでいることを示唆していると考えられる。企業が従業員にAIツールを選定・展開する際は、世代別の使用傾向と実業務の文脈に即したツール評価が浸透率の向上につながる可能性があり、一律の標準化よりも部門・用途別の最適化が実効性を高めると考えられる。",
+    "source": "Seoul Economic Daily",
+    "lang": "en",
+    "tags": [
+      "市場調査",
+      "韓国",
+      "ユーザー行動",
+      "世代差",
+      "競合比較"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-05-21",
+    "fetched_at": "2026-05-22T09:00:00+09:00"
+  },
+  {
+    "id": "c3cf99e88670",
+    "title": "SailPoint Announces New Integration with the Claude Compliance API to Provide Enterprise-Grade Identity Security for AI Platforms",
+    "url": "https://www.globenewswire.com/news-release/2026/05/21/3299619/0/en/SailPoint-Announces-New-Integration-with-the-Claude-Compliance-API-to-Provide-Enterprise-Grade-Identity-Security-for-AI-Platforms.html",
+    "url_normalized": "globenewswire.com/news-release/2026/05/21/3299619/0/en/sailpoint-announces-new-integration-with-the-claude-compliance-api-to-provide-enterprise-grade-identity-security-for-ai-platforms.html",
+    "summary": "Anthropicが提供するClaude Compliance APIとの統合を2026年5月21日に複数の大手セキュリティベンダーが一斉に発表した。SailPointはID管理とアクセスガバナンス、Netskopeはデータセキュリティとポリシー執行、CrowdStrikeはFalconプラットフォームへのClaude活動ログ取り込みをそれぞれ実装した。Compliance APIはClaudeの利用ログ・会話内容へのプログラム的アクセスを企業IT・セキュリティチームに提供するREST APIで、AIの活動をリアルタイムで監視・審査・データ保持ポリシーの自動適用に活用できる。AIアシスタントが業務フローに深く組み込まれるにつれ「誰が何のプロンプトを送ったか」「どんなデータに触れたか」を監査できない状態が金融・医療・法務などの規制産業でコンプライアンスリスクになるという認識が高まっていた背景がある。既存のセキュリティ基盤とClaudeを統合できる技術的整合性が確立されたことで、規制産業の企業がClaude Enterpriseを現行のガバナンス体制のなかで業務自動化に安心して活用できる環境が整いつつあると考えられる。",
+    "source": "GlobeNewswire",
+    "lang": "en",
+    "tags": [
+      "AIガバナンス",
+      "エンタープライズ",
+      "コンプライアンス",
+      "セキュリティ",
+      "Claude"
+    ],
+    "matched_keyword": "業務改革",
+    "published_at": "2026-05-21",
+    "fetched_at": "2026-05-22T09:00:00+09:00"
+  },
+  {
+    "id": "a7c06ee043f7",
+    "title": "AI reads cuneiform: A milestone for Ancient Near Eastern Studies",
+    "url": "https://www.eurekalert.org/news-releases/1128630",
+    "url_normalized": "eurekalert.org/news-releases/1128630",
+    "summary": "ドイツ・ヴュルツブルク大学とマインツ科学文学アカデミーの研究チームは2026年5月18日、古代ヒッタイト帝国の楔形文字粘土板を対象にAIで個々の筆記者の筆跡を識別する「Palaeographicum（パレオグラフィカム）」を開発したと発表した。EurekAlertを通じて公開された同研究は、7万枚の写真から抽出した500万超の楔形文字を学習しており、研究者が手作業で3日かかっていた類似文字の検索・照合をわずか5分で完了できる。断片化した粘土板の接合候補を自動で提示したり、複数文書にまたがる同一筆記者の作品を特定したりすることが可能で、ヒッタイト文明の書記官ネットワークや社会構造の解明に新たな道を開くとされている。考古学・古文書学では過去10年でデジタル化が進んだものの横断的な分析手法の整備が遅れており、大量データを比較照合する研究労働がボトルネックとなっていた。AIによる筆跡照合が実用化されることで博物館・文書館に眠る未解析コレクションの再検討が加速し、断片史料の整合・帰属特定・翻訳という知識集約的な作業が大幅に効率化されると考えられる。",
+    "source": "EurekAlert",
+    "lang": "en",
+    "tags": [
+      "考古学",
+      "楔形文字",
+      "デジタル人文学",
+      "ヒッタイト",
+      "AI"
+    ],
+    "matched_keyword": "歴史・教養",
+    "published_at": "2026-05-18",
+    "fetched_at": "2026-05-22T09:00:00+09:00"
+  },
+  {
     "id": "4c4bdfbf44ab",
     "title": "Texas AG opens investigation into Meta glasses over privacy, biometric concerns",
     "url": "https://www.biometricupdate.com/202605/texas-ag-opens-investigation-into-meta-glasses-over-privacy-biometric-concerns",
