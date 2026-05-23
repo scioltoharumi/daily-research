@@ -1,5 +1,157 @@
 [
   {
+    "title": "Bodycam footage reveals ICE officers used facial recognition and violent tactics in Oregon farm worker arrests",
+    "url": "https://truthout.org/articles/newly-released-footage-highlights-ices-use-of-facial-recognition-technology/",
+    "summary": "米移民・関税執行局（ICE）が2025年10月にオレゴン州で農業労働者7名のバンを停車・拘束した際に「Mobile Fortify」と呼ばれる顔認証アプリで身元照合を試みた体内カメラ映像が、集団訴訟の法廷手続きを通じて2026年5月21日に開示された。連邦判事はこの逮捕が違法と認定しオレゴン州での令状なし逮捕を禁じる判決を下しており、顔認証の誤認識率は女性や有色人種で特に高く法的オブザーバーや米国市民にも誤用されたとACLUが指摘している。トランプ政権のOne Big Beautiful Bill ActによりICEへの監視能力が大幅に拡充された背景があり、技術の急速な普及と法的ガバナンス整備の乖離が実データとして記録された事例となった。顔認証導入組織にとっては、精度の限界・適用対象の定義・監査証跡の文書化を設計段階から組み込んでおくことが、将来の法的リスクを回避しつつ社会的信頼を確保する前提条件になりうることを示している。",
+    "source": "Truthout",
+    "lang": "en",
+    "tags": [
+      "法執行",
+      "プライバシー",
+      "米国",
+      "ICE",
+      "人権"
+    ],
+    "matched_keyword": "顔認証",
+    "published_at": "2026-05-21",
+    "fetched_at": "2026-05-23T09:00:00+09:00",
+    "url_normalized": "truthout.org/articles/newly-released-footage-highlights-ices-use-of-facial-recognition-technology",
+    "id": "209571d8b1c2"
+  },
+  {
+    "title": "Innovatrics' algorithm tops UIDAI facial recognition challenge",
+    "url": "https://www.biometricupdate.com/202605/innovatrics-algorithm-tops-uidai-facial-recognition-challenge",
+    "summary": "スロバキアの生体認証企業Innovatricsは2026年5月22日、インドの国家デジタルID機関UIDAIが主催する顔認証精度チャレンジで首位を獲得したと発表した。チャレンジは5〜10歳時に登録された生体情報を5年以上経過後に照合するという実用上の難課題を設定しており、Innovatricsは誤一致率（FMR）0.02を達成し2,106件の世界規模提出の中で最高スコアを記録した。同社は同チャレンジで指紋照合2位・虹彩認証3位も獲得している。UIDAIのAadhaarは14億人規模の生体認証インフラを運営しており、このベンチマークは業界で最も過酷な実証の場の一つとされている。子どもの顔という年齢変化の大きなケースで高精度照合が実証されたことは、長期的な本人確認が必要な医療・入退室管理・従業員認証などの領域における精度保証基準の引き上げを意味しており、例外対応に費やす運用コストを下げる技術的根拠となりうると考えられる。",
+    "source": "Biometric Update",
+    "lang": "en",
+    "tags": [
+      "インド",
+      "Aadhaar",
+      "精度ベンチマーク",
+      "生体認証",
+      "アルゴリズム"
+    ],
+    "matched_keyword": "顔認証",
+    "published_at": "2026-05-22",
+    "fetched_at": "2026-05-23T09:00:00+09:00",
+    "url_normalized": "biometricupdate.com/202605/innovatrics-algorithm-tops-uidai-facial-recognition-challenge",
+    "id": "4508582bfee3"
+  },
+  {
+    "title": "Facewatch appoints leading privacy barrister as UK retail facial recognition expands",
+    "url": "https://www.biometricupdate.com/202605/facewatch-appoints-leading-privacy-barrister-as-uk-retail-facial-recognition-expands",
+    "summary": "英国の小売向け顔認証企業Facewatchは2026年5月22日、データ保護・AI法専門のバリスターDean Armstrong KCをデータ保護責任者（DPO）に任命したと発表した。Armstrongは英国で最多引用のGDPRおよびAI法専門家の一人であり、商業顔認証プロバイダーへのガバナンス・法的説明責任・独立監視の強化圧力が高まる中での任命だ。英国は欧州最先端の商業ライブ顔認証市場として台頭しつつある一方、公開空間での生体認証の比例性・透明性・監視基準をめぐる規制当局とプライバシー擁護者の議論が続いている。商業顔認証企業が著名な法律専門家を公式DPOとして迎えた事実は「技術を普及させながら法的信頼性を先行構築する」戦略を示しており、顔認証を導入する組織側も第三者監査・説明責任の設計を準備段階から組み込むことが社会的許容性を確保する前提になりつつあると考えられる。",
+    "source": "Biometric Update",
+    "lang": "en",
+    "tags": [
+      "英国",
+      "GDPR",
+      "ガバナンス",
+      "小売",
+      "規制"
+    ],
+    "matched_keyword": "顔認証",
+    "published_at": "2026-05-22",
+    "fetched_at": "2026-05-23T09:00:00+09:00",
+    "url_normalized": "biometricupdate.com/202605/facewatch-appoints-leading-privacy-barrister-as-uk-retail-facial-recognition-expands",
+    "id": "50dda43da212"
+  },
+  {
+    "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
+    "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+    "summary": "OpenAIは2026年5月20日、同社の内部推論モデルが1946年にポール・エルデシュが提起した「平面上n点における単位距離対の最大数」という離散幾何学の未解決予想を125ページの証明で自律的に反証したと発表した。証明は深代数的数論（Golod-Shafarevich理論・無限類体塔）を幾何学問題に適用するという意表を突くアプローチで、正方格子が最適でないことを示した。外部数学者Noga Alon・Melanie Wood・Thomas Bloomによる独立検証を経ており、AIが著名なオープン問題を自律的に解決した初の事例として記録されている。AIが長い推論連鎖を維持しながら異分野の知識を横断的に結合できることが実証された点は重要で、数十年解けなかった難題に独自の切り口を提供できる段階にAIが達しつつあることを示している。研究調査・仮説検証・多分野横断的な知識統合という知識集約型業務に対してAIが実用的な貢献をできる範囲が広がりつつあると考えられる。",
+    "source": "TechCrunch",
+    "lang": "en",
+    "tags": [
+      "数学",
+      "推論",
+      "研究",
+      "OpenAI",
+      "科学的発見"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-05-20",
+    "fetched_at": "2026-05-23T09:00:00+09:00",
+    "url_normalized": "techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time",
+    "id": "076cf651155b"
+  },
+  {
+    "title": "Jack Clark: AI will help win a Nobel within 12 months",
+    "url": "https://www.resultsense.com/news/2026-05-21-jack-clark-anthropic-ai-nobel-prize-prediction/",
+    "summary": "Anthropic共同創業者のJack Clarkは2026年5月21日のオックスフォード大学講演で、AIが12か月以内に人間と協働してノーベル賞級の発見を実現し、2028年末までに60%以上の確率でAIが自身の後継モデルを自律訓練する段階に達するという予測を示した。Anthropicは再帰的自己改善の実際の兆候を観測していると述べており、Clark氏は「現在のアライメント技術はAIシステムが監督者よりも賢くなると破綻しうる」という安全上の懸念も同時に提示している。同週にOpenAIのモデルが80年来未解決の数学予想を自律的に反証した事実がこの予測に具体性を与えている。企業がAI活用戦略を立てる際には、線形的な能力向上ではなく自律AIへの移行という非線形な変化を前提として組み込み、人間とAIの役割分担の設計を継続的に見直す動的な戦略が求められる段階に近づいていると考えられる。",
+    "source": "ResultSense",
+    "lang": "en",
+    "tags": [
+      "AI安全性",
+      "Anthropic",
+      "AI予測",
+      "自律AI",
+      "再帰的改善"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-05-21",
+    "fetched_at": "2026-05-23T09:00:00+09:00",
+    "url_normalized": "resultsense.com/news/2026-05-21-jack-clark-anthropic-ai-nobel-prize-prediction",
+    "id": "6c30539d4d7b"
+  },
+  {
+    "title": "How a 4,000-Year-Old City Defied History's 'Rules' by Becoming More Equal",
+    "url": "https://www.ancient-origins.net/news-history-archaeology/mohenjo-daro-society-00102804",
+    "summary": "ヨーク大学の考古学者Adam Greenらは2026年5月22日、Antiquity誌に掲載された研究で、インダス文明最大都市モヘンジョ・ダロが成長とともに経済的不平等を縮小させた証拠を住宅規模のジニ係数分析で示した。DK-G南地区では後期（紀元前2100年頃）にジニ係数が0.23まで低下し、宮殿・王墓・神殿が存在しないまま排水設備・標準化された度量衡・インダス印章が市民に広く共有されていた。現代では経済成長と不平等拡大は連動するとされることが多いが、この都市は約4,000年前にその定説を覆す実例を残していたことが実証された。ジニ係数という量的指標を比較考古学に適用してデータ主導で社会構造を分析する手法は、博物館や研究機関が収蔵資料をデジタル化・横断分析することで従来は見えなかった歴史的知見を引き出せることを示しており、文化遺産のデータ活用が人文学的洞察を定量的に強化する新しい研究手法の具体例として注目できると考えられる。",
+    "source": "Ancient Origins",
+    "lang": "en",
+    "tags": [
+      "考古学",
+      "インダス文明",
+      "不平等",
+      "Antiquity",
+      "データ考古学"
+    ],
+    "matched_keyword": "歴史・教養",
+    "published_at": "2026-05-22",
+    "fetched_at": "2026-05-23T09:00:00+09:00",
+    "url_normalized": "ancient-origins.net/news-history-archaeology/mohenjo-daro-society-00102804",
+    "id": "f98d935b18de"
+  },
+  {
+    "title": "Walmart credits Sparky AI agent with lifting AOV, unit sales growth",
+    "url": "https://www.digitalcommerce360.com/2026/05/22/walmart-sparky-agent-ai-sales-supply-chain/",
+    "summary": "WalmartのCEO John FurnerはQ1 2026決算説明会（2026年5月21日）でAIショッピングエージェント「Sparky」の具体的な成果を報告した。同四半期に週間アクティブユーザーが100%超増加し、Sparky経由の購入ユニット数は前四半期比4倍超となり、Sparkyユーザーの平均注文金額は非ユーザー比35%高い水準を記録した。パーソナライズされた自動補充・食事計画・スペイン語対応などの機能拡張が続き、オンライン売上は5四半期連続で20%超成長している。小売業界でAIエージェントが「機能として付加する」段階から「顧客体験の主要経路として財務データで実証する」段階へと移行した先行事例となっており、「注文単価35%向上」という業績連動の数値は消耗品補充・食材提案という反復的な購買業務にAIが入ることで顧客接点の質が向上する可能性を示している。企業がAI投資対効果を社内で正当化する際の具体的な参照事例として使われやすくなると考えられる。",
+    "source": "Digital Commerce 360",
+    "lang": "en",
+    "tags": [
+      "小売",
+      "AIエージェント",
+      "e-commerce",
+      "Walmart",
+      "業績"
+    ],
+    "matched_keyword": "業務改革",
+    "published_at": "2026-05-22",
+    "fetched_at": "2026-05-23T09:00:00+09:00",
+    "url_normalized": "digitalcommerce360.com/2026/05/22/walmart-sparky-agent-ai-sales-supply-chain",
+    "id": "72a66493dbde"
+  },
+  {
+    "title": "Camunda announces ProcessOS, an agentic operating system for AI-first enterprise transformation",
+    "url": "https://www.businesswire.com/news/home/20260520352437/en/Camunda-announces-ProcessOS-an-agentic-operating-system-for-AI-first-enterprise-transformation",
+    "summary": "ワークフローオーケストレーション企業Camundaは2026年5月20日のCamundaConで「ProcessOS」を発表しクローズドベータを同日開始した。4つのAIエージェントがビジネスプロセスの発見・AI時代向けの再設計・自動構築・KPI連動の継続改善を一気通貫で担う設計で、自然言語で「望む成果」を記述するだけでプロセス定義・統合・UIフォームを自動生成できる。従来2〜3か月かかっていた現状把握フェーズが1〜2週間に短縮できるとされ、BarclaysなどがProcess Zeroパイロットに参加している。RPAや既存BPMツールがルール記述による自動化の限界を露呈する中、AIエージェントがプロセス設計そのものを引き受けることでBPRの所要コストを大幅に下げる可能性がある。業務設計担当者が手作業での現状把握・文書化・最適化分析から解放され、意思決定や例外対応という本質業務に集中できる環境が生まれつつあり、AIを起点とした業務再設計の基盤として参照されやすい事例といえる。",
+    "source": "BusinessWire",
+    "lang": "en",
+    "tags": [
+      "BPR",
+      "ワークフロー自動化",
+      "AIエージェント",
+      "DX",
+      "エンタープライズ"
+    ],
+    "matched_keyword": "業務改革",
+    "published_at": "2026-05-20",
+    "fetched_at": "2026-05-23T09:00:00+09:00",
+    "url_normalized": "businesswire.com/news/home/20260520352437/en/camunda-announces-processos-an-agentic-operating-system-for-ai-first-enterprise-transformation",
+    "id": "8b40bf00daa2"
+  },
+  {
     "id": "0daa07dab967",
     "title": "SOCOM begins fielding new battlefield biometrics system",
     "url": "https://www.militarytimes.com/industry/techwatch/2026/05/22/socom-begins-fielding-new-battlefield-biometrics-system/",
