@@ -541,35 +541,41 @@
   function setupHeaderCompactOnScroll() {
     const header = document.querySelector('.site-header');
     if (!header) return;
-    const EXPAND_AT = 20;
-    const COLLAPSE_BUFFER = 40;
+    const COLLAPSE_AT = 4;
+    const EXPAND_AT = 2;
     let scheduled = false;
     let compact = false;
+    let skipNextScroll = false;
+
+    function canCollapse() {
+      // Only collapse if the page is tall enough that, after the header
+      // shrinks, scrollY can stay above EXPAND_AT. Otherwise the browser
+      // would clamp scrollY back to ~0 and we'd flicker.
+      const maxScroll = document.documentElement.scrollHeight - window.innerHeight;
+      return maxScroll > header.offsetHeight + COLLAPSE_AT;
+    }
 
     function update() {
       scheduled = false;
+      if (skipNextScroll) {
+        skipNextScroll = false;
+        return;
+      }
       const y = window.scrollY || window.pageYOffset || 0;
-      if (!compact) {
-        // Collapse only after scrolling past the full header height, so the
-        // layout height it gives up can be absorbed by adjusting scrollY
-        // instead of the browser clamping scrollY back into the expand zone
-        // (that clamp is what made the header flicker on short pages).
-        if (y > header.offsetHeight + COLLAPSE_BUFFER) setCompact(true);
-      } else if (y < EXPAND_AT) {
+      if (!compact && y > COLLAPSE_AT && canCollapse()) {
+        setCompact(true);
+      } else if (compact && y < EXPAND_AT) {
         setCompact(false);
       }
     }
 
     function setCompact(next) {
-      const before = header.offsetHeight;
       header.classList.toggle('header-compact', next);
       compact = next;
-      if (next) {
-        // The page just got shorter by `delta`; pull scrollY up by the same
-        // amount so the content under the header stays visually anchored.
-        const delta = before - header.offsetHeight;
-        if (delta > 0) window.scrollBy(0, -delta);
-      }
+      // Swallow the scroll event the browser may fire when document height
+      // changes clamp scrollY; without this the synthetic scroll would flip
+      // the state back and cause a flicker loop.
+      skipNextScroll = true;
     }
 
     window.addEventListener('scroll', () => {
