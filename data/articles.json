@@ -1,5 +1,100 @@
 [
   {
+    "id": "c44693156007",
+    "title": "Google、パーソナルAIエージェント「Gemini Spark」発表――デバイスを閉じても自律で働く",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news068.html",
+    "url_normalized": "itmedia.co.jp/news/articles/2605/20/news068.html",
+    "summary": "Googleは2026年5月19〜20日に開催した年次開発者会議「Google I/O 2026」で、デバイスを閉じていても24時間クラウド上で自律動作する個人向けAIエージェント「Gemini Spark」を発表した。Gmail・Google Docs・スライドなどWorkspaceツールと統合し、「会議情報を確認してスプレッドシートに記録し出席者にメールを送る」といった複合タスクを人が画面を触らずに実行する設計で、重要操作はユーザー確認を求める。基盤モデルとして同時発表した「Gemini 3.5 Flash」は前世代「Gemini 3.1 Pro」をコーディング・エージェントの主要ベンチマーク全般で上回りながら他社最先端モデル比4倍の処理速度を実現しており、MCP経由でCanvaやInstacartなど外部サービスとも連携する。現時点では英語対応のGoogle AI Ultraプランに限定されているが、OpenAI・Anthropicとの競争が激化する中でGoogleが「常時稼働型エージェント」を市場に本格投入したことは、AIが「質問に答えるツール」から「仕事を代行する常駐エージェント」へと移行する段階を象徴している。メール整理・スケジュール調整・定型情報収集という毎日大量に発生する反復作業をAIに委ねることができれば、知識労働者が創造的・判断的な業務に集中しやすくなる環境が既存デバイスを通じて広がる可能性があると考えられる。",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "tags": [
+      "Google",
+      "Gemini Spark",
+      "AIエージェント",
+      "製品発表",
+      "Google I/O"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-05-20",
+    "fetched_at": "2026-05-26T21:18:13+09:00"
+  },
+  {
+    "id": "1dd355564367",
+    "title": "OpenAI、22日にも上場申請と米報道　スペースXに続く巨大IPOへ",
+    "url": "https://www.nikkei.com/article/DGXZQOGN20CV50Q6A520C2000000/",
+    "url_normalized": "nikkei.com/article/DGXZQOGN20CV50Q6A520C2000000",
+    "summary": "米OpenAIは2026年5月22日、ゴールドマン・サックスとモルガン・スタンレーを主幹事として米証券取引委員会（SEC）に非公開での上場申請書類（S-1）を提出したと報じられた。日本経済新聞は「早ければ22日にも申請」と5月21日付で速報しており、今秋の上場を目指す評価額は最大1兆ドル（約160兆円）との観測がある。同社の年率換算収益は2026年3月時点で約250億ドルに達する一方、Q1 2026は収益1ドルあたり1.22ドルの損失を計上しており、2030年までに2,070億ドル超の追加資金調達が必要とも試算される。5月18日にイーロン・マスク氏のOpenAIへの提訴が却下されたことで法的リスクが除かれ、スペースXに続く大型テック系IPOとして申請が加速した形だ。生成AI市場の主役が「研究主体の非営利組織」から「資本市場にコミットした事業体」に変わりつつあることを示す転換点といえる。公開企業化によって財務とロードマップの透明性が高まると、企業がOpenAIのAPIや製品を中長期的な業務基盤として採用する際の「ベンダー持続可能性」を現実的に評価しやすくなり、反復業務の自動化投資における長期計画策定を後押しする可能性があると考えられる。",
+    "source": "日本経済新聞",
+    "lang": "ja",
+    "tags": [
+      "OpenAI",
+      "IPO",
+      "上場",
+      "AI企業",
+      "FinTech"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-05-21",
+    "fetched_at": "2026-05-26T21:18:13+09:00"
+  },
+  {
+    "id": "7fa2511f1bd2",
+    "title": "Remains of lost arctic explorers identified with DNA, nearly two centuries later",
+    "url": "https://www.npr.org/2026/05/24/nx-s1-5821266/remains-of-lost-arctic-explorers-identified-with-dna-nearly-two-centuries-later",
+    "url_normalized": "npr.org/2026/05/24/nx-s1-5821266/remains-of-lost-arctic-explorers-identified-with-dna-nearly-two-centuries-later",
+    "summary": "カナダ・ウォータールー大学のダグ・ステントン考古学者が率いる研究チームは2026年5月24日、1845年に英国を出発した「フランクリン探検隊」（北西航路探索のため出航、全128名が死亡）の遺骨をDNA照合で4名特定したとNPRが報じた。HMSエレバス号・テラー号の2船で出発した探検隊はカナダ北極の流氷に閉じ込められ全員が行方不明となり、沈没船は2014・2016年に海底で発見されていた。チームはキング・ウィリアム島で発見された遺骨の歯・骨試料と、探検隊員の子孫から採取したDNAを照合する手法を用い、エレバス号の給仕役ジョン・ブリジェンズを含む4人を特定した。170年以上にわたって個人単位での身元が不明だったフランクリン探検隊員を、現代のDNA技術・デジタル系譜データベース・国際的な子孫ネットワークを組み合わせることで初めて特定した事例となった。博物館や研究機関が収蔵する未同定の遺骨や史料に同様の手法を適用することで、記録に残らなかった歴史的個人の身元特定が今後も進む可能性がある。デジタル化された記録と分析技術の組み合わせが、従来は「永遠の謎」とされてきた歴史的空白を埋め続ける実践として注目できると考えられる。",
+    "source": "NPR",
+    "lang": "en",
+    "tags": [
+      "考古学",
+      "DNA鑑定",
+      "フランクリン探検隊",
+      "北極",
+      "歴史"
+    ],
+    "matched_keyword": "歴史・教養",
+    "published_at": "2026-05-24",
+    "fetched_at": "2026-05-26T21:18:13+09:00"
+  },
+  {
+    "id": "290fb3b0947a",
+    "title": "New and Improved Computer-Using Agents, a New Workflows Experience, and Real-Time Voice Experiences",
+    "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-computer-using-agents-a-new-workflows-experience-and-real-time-voice-experiences/",
+    "url_normalized": "microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-computer-using-agents-a-new-workflows-experience-and-real-time-voice-experiences",
+    "summary": "Microsoftは2026年5月26日、Copilot Studioの「コンピューター使用エージェント（Computer-Using Agent、CUA）」機能の一般提供（GA）開始を発表した。同機能はAIエージェントがウェブサイトやデスクトップアプリのUIを人間のように直接操作できる仕組みで、APIが存在しないレガシーシステムを対象にした業務もスクリプト作成なしで自動化できる。GAと同時に、CUAをマルチステップのワークフローに組み込める新しい統合キャンバス型のビジュアルデザイナーも展開が始まり、分類・コンテンツ生成・意思決定支援を担うAIノードを構造化ルールと混在させたフロー設計が可能になった。多くの企業の情報システムにはAPIを持たない基幹システムやERPが残存しており、これが「AIを業務に使いたいが既存システムに接続できない」ボトルネックになっていた背景がある。CUAの一般提供は「画面が見えてキーボード操作できればどんなシステムでも自動化できる」という原則を企業に開放するもので、大規模なシステム刷新コストをかけずに既存業務の反復作業を段階的にエージェントに委ねる現実的な経路が生まれたといえる。調達・承認・データ転記といった人手頼みの繰り返し業務を中心に、担当者が本質的な判断業務に集中しやすくなる環境の整備が加速すると考えられる。",
+    "source": "Microsoft Copilot Blog",
+    "lang": "en",
+    "tags": [
+      "Microsoft",
+      "Copilot Studio",
+      "業務自動化",
+      "レガシーシステム",
+      "AIエージェント"
+    ],
+    "matched_keyword": "業務改革",
+    "published_at": "2026-05-26",
+    "fetched_at": "2026-05-26T21:18:13+09:00"
+  },
+  {
+    "id": "d1b7e99ec282",
+    "title": "セキュア、顔認証累計導入件数、12,000件突破！",
+    "url": "https://prtimes.jp/main/html/rd/p/000000141.000052942.html",
+    "url_normalized": "prtimes.jp/main/html/rd/p/000000141.000052942.html",
+    "summary": "株式会社セキュアは2026年5月15日、同社が提供する顔認証ソリューションの累計導入件数が12,000件を突破したと発表した。2025年4月の10,000件達成から約1年で2,000件を積み上げたもので、導入ペースが加速傾向にあることが示された。背景として同社は、セキュリティ意識の向上に加え、労働安全衛生法やカスタマーハラスメント対策の法制化が企業の導入判断の後押しになっていると指摘する。導入環境はオフィス・データセンター・フィットネス施設・工場など幅広い業種に及んでおり、入退室管理から本人確認・記録管理まで活用場面が拡大している。2002年設立のセキュアは2010年頃から法人向けセキュリティ市場に本格参入しており、累計顧客数は14,000社を超える。カスタマーハラスメント対策という社会的な法制化の追い風により顔認証の「導入目的の正当性」説明コストが下がり、これまで費用対効果で迷っていた企業の意思決定が加速している構図といえる。入退室確認やハラスメント時の映像記録といった人手依存の反復業務が自動化される範囲が着実に広がるにつれ、現場スタッフが本質的な業務判断に集中できる環境が整いつつあると考えられる。",
+    "source": "PR TIMES",
+    "lang": "ja",
+    "tags": [
+      "顔認証",
+      "入退室管理",
+      "国内",
+      "カスハラ対策",
+      "導入件数"
+    ],
+    "matched_keyword": "顔認証",
+    "published_at": "2026-05-15",
+    "fetched_at": "2026-05-26T21:18:13+09:00"
+  },
+  {
     "id": "2ead34ec8bca",
     "title": "「AIで声模倣」人気声優がTikTok運営会社提訴 動画削除請求",
     "url": "https://www.nikkei.com/article/DGXZQOUD231K30T20C26A5000000/",
