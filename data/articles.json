@@ -1,5 +1,81 @@
 [
   {
+    "id": "3f26df17164c",
+    "title": "デジタル庁、約18万人対象のガバメントAI「源内」大規模実証を開始　既に10万人が利用可能に",
+    "url": "https://enterprisezine.jp/news/detail/24403",
+    "url_normalized": "enterprisezine.jp/news/detail/24403",
+    "summary": "デジタル庁は2026年5月28日、政府職員向け生成AIプラットフォーム「ガバメントAI（源内）」の大規模実証を開始したと発表し、5月29日時点で全府省庁の約10万人が利用可能な状態になったと明らかにした。3月に農林水産省・環境省で先行導入した後、5月中に財務省・外務省へ順次拡大しており、6月以降は防衛省・文部科学省を含む残り約8万人に展開して最終的に全府省庁18万人を対象とする見通し。機能は文章作成・要約・対話の汎用型AIアプリに加え、法制度調査・国会答弁検索・出張費管理など行政実務特化型アプリを含み、2026年度中に国会答弁草案作成AIの開発も予定する。機密性2情報まで入力が認められ、国産LLMの提供も予定されている。実証期間は2027年3月まで。少子高齢化で公務員の補充が難しくなる中、政府が自ら生成AIを業務インフラとして本格稼働させる段階に入ったことを示す転換点といえる。行政が先行してAIを実運用し業務フローを再設計する実績を積めば、「政府がやっている手法」として中小企業を含む民間組織への普及を加速させる参照点になりうると考えられる。国会答弁・法制度調査・書類作成という情報集約と文書作成を繰り返す業務が自動化されることで、職員が政策判断・市民対応・例外処理という本質的な公務に時間を振り向けられる環境が整いつつある。",
+    "source": "EnterpriseZine",
+    "lang": "ja",
+    "tags": [
+      "デジタル庁",
+      "ガバメントAI",
+      "源内",
+      "行政DX",
+      "国産LLM"
+    ],
+    "matched_keyword": "業務改革",
+    "published_at": "2026-05-29",
+    "fetched_at": "2026-05-29T10:00:00+09:00"
+  },
+  {
+    "id": "48813d2e5016",
+    "title": "富士通、OpenAIとの連携を開始　日本のエンタープライズ領域におけるAIトランスフォーメーションを加速",
+    "url": "https://prtimes.jp/main/html/rd/p/000000573.000093942.html",
+    "url_normalized": "prtimes.jp/main/html/rd/p/000000573.000093942.html",
+    "summary": "富士通は2026年5月27日、米OpenAIとの連携を正式に開始したと発表した。富士通グループの社員が「ChatGPT Enterprise」や「Codex」をはじめとするOpenAIのAI技術を業務全般に活用し、AIエージェントと人間が協働する新たな実践モデルを構築するとしている。展開の柱は三領域で、①製造業・ヘルスケア／製薬分野での業界特化ソリューション開発、②ChatGPT EnterpriseとCodexを活用したForward Deployed Engineer（FDE）モデルの強化による顧客向け短期AIユースケース実装、③人とAIが連携したサイバーセキュリティの次世代防衛モデルの構築——が軸となる。同日に発表されたAnthropicとの「戦略的パートナーシップ」（Claude全社展開）と合わせると、富士通は同一日付でOpenAIとAnthropicの両社との提携を揃えた格好になる。単一LLMへの依存を避け業務特性に応じて複数の最先端モデルを使い分けるマルチベンダー体制を大手ITサービス企業が先行して実装し始めた事例と考えられる。「Customer Zero」として社内変革を先行体験してから顧客に提供するアプローチは単なる再販を超えた実証済みのAI実装ノウハウの蓄積を目指すものであり、コーディング自動化・製造現場の技術支援・セキュリティ運用といった反復的な専門業務をAIが担う環境が日本企業に広がる経路の一つになると考えられる。",
+    "source": "PR TIMES",
+    "lang": "ja",
+    "tags": [
+      "富士通",
+      "OpenAI",
+      "ChatGPT Enterprise",
+      "サイバーセキュリティ",
+      "製造業"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-05-27",
+    "fetched_at": "2026-05-29T10:00:00+09:00"
+  },
+  {
+    "id": "9f531719ff2e",
+    "title": "OpenAI Foundation dedicates $250 million to research economic changes from AI",
+    "url": "https://www.npr.org/2026/05/27/g-s1-124501/openai-foundation-dedicates-250-million-to-research-economic-changes-from-ai",
+    "url_normalized": "npr.org/2026/05/27/g-s1-124501/openai-foundation-dedicates-250-million-to-research-economic-changes-from-ai",
+    "summary": "OpenAIの非営利部門「OpenAI Foundation」は2026年5月27日、AIが引き起こす経済変化に備えるため2億5,000万ドル（約380億円）を拠出すると発表した。支出の柱は三つで、①AI導入が労働市場と地域経済に与える影響の研究、②雇用喪失・賃金低下を経験する労働者・地域社会への支援（職業転換補助・再訓練・賃金低下保険など）、③AIによる経済的利益を広く分配する長期的な仕組みの開発——からなる。年内に最初のプログラム詳細を公表する予定で、財団は助成機関として機能するだけでなく一部プログラムを直接運営する体制を整えるという。AI企業が雇用代替の加害者と見なされる批判が高まる中でOpenAIが非営利部門を通じて先手を打った形だが、同社の年間収益（推計250億ドル超）に対して2.5億ドルは象徴的な規模にとどまるという指摘もある。9月IPOを控え株主・規制当局への説明責任を意識した布石とも解釈でき、表明内容の実行と効果測定が今後問われることになる。企業にとっては、AIによる業務自動化を推進する際に「削減した人件費の一部を社員の再訓練や職種転換支援に充てる」という社会的期待が高まりつつあるというシグナルとして捉えることができると考えられる。",
+    "source": "NPR",
+    "lang": "en",
+    "tags": [
+      "OpenAI",
+      "労働市場",
+      "雇用支援",
+      "AI格差",
+      "社会的責任"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-05-27",
+    "fetched_at": "2026-05-29T10:00:00+09:00"
+  },
+  {
+    "id": "772915cc34d7",
+    "title": "Toxic plant on Ming dynasty-era surgical tools may be world's oldest chemical evidence of topical anesthetic",
+    "url": "https://www.livescience.com/archaeology/ancient-china/toxic-plant-on-ming-dynasty-era-surgical-tools-may-be-worlds-oldest-chemical-evidence-of-topical-anesthetic",
+    "url_normalized": "livescience.com/archaeology/ancient-china/toxic-plant-on-ming-dynasty-era-surgical-tools-may-be-worlds-oldest-chemical-evidence-of-topical-anesthetic",
+    "summary": "中国・西北大学のCongcang Zhao氏らの研究チームは2026年5月26日、学術誌「Antiquity」に発表した論文で、江蘇省江陰市の明朝時代（1348〜1411年）の医師の墓から1974年に出土した手術用鋏と鑷子（せっし）に、トリカブト由来の「アコニチン」という局所麻酔成分の化学的痕跡を検出したと報告した。X線蛍光分析と刺激ラマン散乱顕微鏡（SRS）という非破壊光学技術を用い、器具に付着した微細な赤色粒子からアコニチンアルカロイドの化学指紋を特定した。手術における局所麻酔の化学的直接証拠として世界最古の例とされ、従来の最古記録を大幅に遡る発見となった。古代中国医学の書には酢・黒豆液・尿にトリカブトを漬けて毒性を低下させ局所麻酔として用いる技法が記されていたが、今回で初めてその実物証拠が化学的に裏付けられた。約600年前の医師が危険な植物毒を制御可能な薬剤に転換する精緻な知識を持っていたことが実証されたわけだ。器具が出土して50年余り、付着物の正体が解明されなかった背景には分析技術の限界があったが、SRS顕微鏡という非破壊手法の普及が博物館・研究機関に保管されてきた遺物の再評価を可能にしつつある。世界中の収蔵品にこうした未解析の物質証拠が眠っており、現代分析技術と既存コレクションの組み合わせが歴史の空白を塗り替え続けると考えられる。",
+    "source": "Live Science",
+    "lang": "en",
+    "tags": [
+      "中国医学",
+      "考古学",
+      "麻酔",
+      "明朝",
+      "Antiquity"
+    ],
+    "matched_keyword": "歴史・教養",
+    "published_at": "2026-05-26",
+    "fetched_at": "2026-05-29T10:00:00+09:00"
+  },
+  {
     "id": "70ff15d6a628",
     "title": "Anthropic releases Opus 4.8 with new 'dynamic workflow' tool",
     "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
