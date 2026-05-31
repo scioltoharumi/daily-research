@@ -1,5 +1,119 @@
 [
   {
+    "id": "63c83f32a0b4",
+    "title": "ICE to keep an eye on your eyes under $25M biometric scanner deal",
+    "url": "https://www.theregister.com/public-sector/2026/05/29/ice-awards-bi2-25m-contract-for-1570-biometric-scanners/5248733",
+    "url_normalized": "theregister.com/public-sector/2026/05/29/ice-awards-bi2-25m-contract-for-1570-biometric-scanners/5248733",
+    "summary": "米移民税関捜査局（ICE）は2026年5月29日、生体認証機器メーカーBi2 Technologiesに2,510万ドルを随意契約で発注し、指紋・虹彩・顔認証を組み合わせた携帯型生体認証端末1,570台を調達すると発表した。端末はBi2のIRISシステムに接続し、全米47州から収集した逮捕・収監記録500万件超および運転免許データとの照合を野外で即時実行できる。2025年の試験導入（200台・460万ドル）を踏まえた本格調達で、2027年5月までに最大1,770台が展開される見通しだ。競合不在を理由とした随意契約での発注には民主党上院議員らが精度・偏見・市民的自由への懸念から批判を続けており、入国管理での生体認証拡大における精度検証と法的ガバナンスの整備が国際的な共通課題として浮上しつつあると考えられる。",
+    "source": "The Register",
+    "lang": "en",
+    "tags": [
+      "ICE",
+      "生体認証",
+      "顔認証",
+      "米国",
+      "規制"
+    ],
+    "matched_keyword": "顔認証",
+    "published_at": "2026-05-29",
+    "fetched_at": "2026-05-31T10:15:00+09:00"
+  },
+  {
+    "id": "9729724f9127",
+    "title": "Anthropic、650億ドル調達──評価額は3カ月で2.5倍の9650億ドルとなりOpenAIを上回る",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/29/news080.html",
+    "url_normalized": "itmedia.co.jp/news/articles/2605/29/news080.html",
+    "summary": "AnthropicはIPO準備段階にある2026年5月28日、Altimeter Capital・Dragoneer・Greenoaks・Sequoia Capitalが主導するシリーズH資金調達で650億ドルを調達し、ポストマネー評価額9,650億ドルを達成したとITmediaが5月29日に報じた。2月のシリーズG（評価額3,800億ドル）から3カ月で2.5倍に拡大し、OpenAI（8,520億ドル）を初めて上回って世界最高評価額の非上場AI企業となった。調達額にはAmazonら超大手からの既存コミットメント150億ドルが含まれ、計算資源拡大・安全性研究・製品開発に充当される。CFOはrunrate収益が5月初旬に470億ドルを超えたと明らかにし、今回が上場前最後の私募調達となる見通しで秋のIPOに向けた最終段階に入ったと考えられる。安全性重視の開発路線が商業的にも成立することを示すシグナルであり、Claudeを業務基盤として採用する企業の「ベンダー持続可能性」への懸念を払拭する材料になると考えられる。",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "tags": [
+      "Anthropic",
+      "資金調達",
+      "シリーズH",
+      "評価額",
+      "IPO"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-05-29",
+    "fetched_at": "2026-05-31T10:15:00+09:00"
+  },
+  {
+    "id": "ddbdf275ec7e",
+    "title": "After Nvidia's $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+    "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+    "url_normalized": "techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m",
+    "summary": "AIチップスタートアップのGroqは2026年5月29日、NVIDIAによる200億ドルの技術ライセンス取得（2025年12月）と主要エンジニア引き抜きを経て、既存投資家対象の6億5,000万ドル新規調達を進めていることをTechCrunchが報じた。「疑似買収（not-acqui-hire）」と評されたこの取引でNVIDIAはGroq独自のLPU推論チップ技術を取得し、創業者ジョナサン・ロスを含む中核チームを自社に迎えた。残ったGroqは新CEOのもとでチップ設計から「推論専門クラウド（ネオクラウド）」へ転換し、高速・低コスト推論を武器に既存インフラで事業を継続する方針だ。調達はDisruptive・Infinitumが全額バックストップし事実上保証されている。NVIDIAが競合由来の技術を大規模ライセンスで吸収するモデルはAI推論市場での同社の影響力強化を示しており、推論コスト競争の構図に中長期的な変化をもたらす可能性があると考えられる。",
+    "source": "TechCrunch",
+    "lang": "en",
+    "tags": [
+      "Groq",
+      "NVIDIA",
+      "AIチップ",
+      "推論クラウド",
+      "資金調達"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-05-29",
+    "fetched_at": "2026-05-31T10:15:00+09:00"
+  },
+  {
+    "id": "21400888d11c",
+    "title": "This bizarre crocodile relative from the Triassic looked like an ostrich dinosaur",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260529043641.htm",
+    "url_normalized": "sciencedaily.com/releases/2026/05/260529043641.htm",
+    "summary": "アラン・ターナー博士（ストーニーブルック大学）らの研究チームは2026年5月29日、米ニューメキシコ州ゴーストランチの三畳紀後期地層から発見した新種の主竜類「Labrujasuchus expectatus」を古脊椎動物学誌に発表した。ワニ類の系統に属するこの生物は、二足歩行・小型の前肢・歯のないくちばしという体制を独自に進化させており、ダチョウ型恐竜（オルニトミモサウルス類）と驚くほど似た外見を持つ。ワニ類の先祖系統における二足歩行の独立進化事例としては4番目の記録であり、シュヴォサウリア科の系統樹上で「存在が予測されていた」形態の空白を埋める発見とされる。三畳紀は現代の脊椎動物系統が放散する以前に多彩な体制を試みた時期として知られており、本種はその実験的多様性を改めて示す証拠といえる。ゴーストランチの発掘記録を系統的に再解析したことが今回の発見につながっており、博物館収蔵の未解析化石を最新の比較解剖学で再評価することで今後も新発見が続く可能性があると考えられる。",
+    "source": "ScienceDaily",
+    "lang": "en",
+    "tags": [
+      "古生物学",
+      "三畳紀",
+      "収斂進化",
+      "ゴーストランチ",
+      "主竜類"
+    ],
+    "matched_keyword": "歴史・教養",
+    "published_at": "2026-05-29",
+    "fetched_at": "2026-05-31T10:15:00+09:00"
+  },
+  {
+    "id": "1f0e5eb7f193",
+    "title": "シェイクスピアがロンドンで買った高級住宅を特定、新たな謎とは",
+    "url": "https://natgeo.nikkeibp.co.jp/atcl/news/26/042300227/",
+    "url_normalized": "natgeo.nikkeibp.co.jp/atcl/news/26/042300227",
+    "summary": "ロンドン大学キングズ・カレッジのルーシー・マンロー教授は、シェイクスピアが死の3年前である1613年にロンドン・ブラックフライアーズ地区に購入した高級住宅の正確な場所を特定し、ナショナル ジオグラフィック日本版が2026年5月30日に報じた。マンロー教授はロンドン・アーカイブズの1668年大火後の間取り図と国立公文書館の史料を照合し、アイルランド・ヤード・バーゴン街・セント・アンドリューズ・ヒルが交わる一角の建物と特定した。この物件はシェイクスピア死去後に娘スザンナへ遺贈されたことが知られていたが、その後の所有権をめぐる争訴の記録も残り、17世紀英国における女性の財産権と相続実態を垣間見せると指摘される。公文書のデジタル化と横断検索が進むことで、作品中心だったシェイクスピア研究に晩年の生活・社会的文脈を裏付ける物証が加わりやすくなっており、一次史料から人物の行動軌跡を復元するアーカイブ活用の好例と考えられる。",
+    "source": "ナショナル ジオグラフィック日本版",
+    "lang": "ja",
+    "tags": [
+      "シェイクスピア",
+      "文学史",
+      "ロンドン",
+      "アーカイブ",
+      "17世紀"
+    ],
+    "matched_keyword": "歴史・教養",
+    "published_at": "2026-05-30",
+    "fetched_at": "2026-05-31T10:15:00+09:00"
+  },
+  {
+    "id": "17165864f51c",
+    "title": "Medieval Village Lost for Centuries Discovered Beneath German Farmland",
+    "url": "https://arkeonews.net/medieval-village-lost-for-centuries-discovered-beneath-german-farmland/",
+    "url_normalized": "arkeonews.net/medieval-village-lost-for-centuries-discovered-beneath-german-farmland",
+    "summary": "ノルトライン=ヴェストファーレン州の文化組合LWL（ランドシャフツフェアバンド・ヴェストファーレン=リッペ）の考古学チームは2026年5月31日、ドイツ西部ヘクスター郡ボルゲントライヒ近郊で中世集落「エヒェネ（Echene）」の遺構を発見したと発表した。944年に史料に記録され15世紀に消滅したとされるこの集落は、風力発電施設の送電線工事に先立つ事前調査で再発見された。発掘では10〜11世紀の土器・井戸2基・木造建築の柱穴群に加え、13世紀建設とみられる石造り地下室の基礎も確認されており、ボルゲントライヒが城塞都市化する以前の農村共同体の実態を示す遺構として注目される。インフラ工事前の文化財調査義務というドイツの法制度がこの偶発的発見を可能にした背景にある。再生可能エネルギー展開という現代インフラ整備と地中の歴史資料保護・記録が両立できることを示しており、建設前調査の標準化が文化遺産のデジタルアーカイブ蓄積に継続的に貢献すると考えられる。",
+    "source": "Arkeonews",
+    "lang": "en",
+    "tags": [
+      "考古学",
+      "中世",
+      "ドイツ",
+      "発掘",
+      "文化遺産"
+    ],
+    "matched_keyword": "歴史・教養",
+    "published_at": "2026-05-31",
+    "fetched_at": "2026-05-31T10:15:00+09:00"
+  },
+  {
     "id": "eb619bb117d0",
     "title": "米アンソロピック、「ミュトス級」のAIを数週間内に一般公開へ",
     "url": "https://www.nikkei.com/article/DGXZQOGN28D7M0Y6A520C2000000/",
