@@ -1,5 +1,62 @@
 [
   {
+    "id": "02ae443e4de0",
+    "title": "Anthropic が IPO を申請、時価総額 9650 億ドルで歴史的な市場デビューへ",
+    "url": "https://finance.biggo.jp/news/202606011922_Anthropic_files_for_IPO_at_965_billion_valuation",
+    "url_normalized": "finance.biggo.jp/news/202606011922_anthropic_files_for_ipo_at_965_billion_valuation",
+    "summary": "Anthropicは2026年6月1日、米証券取引委員会（SEC）にIPOのドラフト登録書（S-1）を機密ベースで提出し、株式公開への準備を正式に表面化させた。直前のシリーズH（650億ドル調達）によりポストマネー評価額は9,650億ドルとなり、2026年3月時点で8,520億ドルだったOpenAIを初めて上回った。年換算収益（ARR）は470億ドルで、Q2は前四半期比ほぼ倍の約109億ドルを見込む。SpaceXが6月12日のナスダック上場を目指す中、OpenAIも今月中に目論見書提出が予想されており、AI・テック系3社による歴史的IPO競争が同時進行している。AnthropicがOpenAIより先に手続きを動かした背景には、先行上場が将来の資本調達競争で優位に立てるという戦略的判断があると考えられる。上場後に財務情報が定期開示されることで、Claudeを業務基盤として採用する富士通・日立などの大手企業にとってベンダーの継続性を定量的に評価しやすくなり、AI活用への長期投資計画が立てやすい環境が整うと考えられる。",
+    "source": "BigGo ファイナンス",
+    "lang": "ja",
+    "tags": [
+      "Anthropic",
+      "IPO",
+      "上場申請",
+      "生成AI",
+      "SEC"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-06-01",
+    "fetched_at": "2026-06-01T10:00:00+09:00"
+  },
+  {
+    "id": "ad052a93b657",
+    "title": "Roman Bridge Discovered in Dutch Riverbed Rewrites Regional History",
+    "url": "https://www.ancient-origins.net/news-history-archaeology/roman-bridge-netherlands-00102826",
+    "url_normalized": "ancient-origins.net/news-history-archaeology/roman-bridge-netherlands-00102826",
+    "summary": "オランダのVos Archeo考古学チームは2026年6月1日、ゲルダーラント州ドレュメル近郊のムーズ川河床から、4世紀ローマ帝国後期に建造された橋の遺構を発見したと発表した。「Over de Maas」砂採掘事業（2010年開始）の調査中に保存長11.5メートルのオーク材杭4本を確認し、樹輪年代測定（デンドロクロノロジー）により363年の建造と特定した。ローマ皇帝ユリアヌス帝時代に建設されたこの橋は、洪水時の軍事・補給用迂回路として機能したとされる。従来「ローマ帝国のインフラ整備が及ばない辺境」と見なされてきた「リヴィーレンラント（川の国）」に、帝国の道路・橋梁網がより広く展開されていた証拠となる点が重要とされる。今回の発見は砂採掘という現代の産業活動が偶発的に過去の記録を引き出した事例でもあり、大規模土木工事前の文化財事前調査義務が歴史空白の継続的な解消に貢献するという構図が改めて示された。デジタルアーカイブと非破壊分析技術の普及が既存の採掘・建設記録を遡及解析する可能性を広げており、同様の発見が今後も相次ぐと考えられる。",
+    "source": "Ancient Origins",
+    "lang": "en",
+    "tags": [
+      "考古学",
+      "ローマ帝国",
+      "オランダ",
+      "インフラ",
+      "樹輪年代測定"
+    ],
+    "matched_keyword": "歴史・教養",
+    "published_at": "2026-06-01",
+    "fetched_at": "2026-06-01T10:00:00+09:00"
+  },
+  {
+    "id": "0657ed5ec0f6",
+    "title": "Colombian Emeralds Identified in Panama Burials",
+    "url": "https://archaeology.org/news/2026/05/29/colombian-emeralds-identified-in-panama-burials/",
+    "url_normalized": "archaeology.org/news/2026/05/29/colombian-emeralds-identified-in-panama-burials",
+    "summary": "ファンダシオン・エル・カニョのカルロス・マヨ・トルネ氏率いる研究チームは2026年5月29日、パナマ太平洋岸のエル・カニョとシティオ・コンテ両遺跡（紀元後800〜1000年頃）から出土した5つの緑色石がコロンビア産エメラルドであることを初めて化学的に確認したとしてLatin American Antiquity誌に発表した。X線蛍光・赤外分光・フォトルミネッセンス分析で、コロンビア西部のムソ鉱山周辺および東部のチボール付近を産地と同定。エメラルドはコロンビアからパナマまで700km超を沿岸・河川コミュニティを介した「ダウン・ザ・ライン交換」で運ばれたと結論づけた。遺物には修復・再加工の痕跡があり、石が社会的・儀式的に高い価値を持ち繰り返し利用された事実も示す。インカ帝国成立（15世紀）より500年以上前に中米を横断する交易ネットワークが存在した証拠は、プレコロンブス期アメリカ大陸の社会的複雑性を改めて裏付けるものとなった。X線蛍光など非破壊分析技術の普及が博物館収蔵品の再評価を可能にしており、既存の標本コレクションへの最新手法適用が歴史の空白を継続的に埋める好例と考えられる。",
+    "source": "Archaeology Magazine",
+    "lang": "en",
+    "tags": [
+      "考古学",
+      "パナマ",
+      "交易ネットワーク",
+      "プレコロンブス期",
+      "エメラルド"
+    ],
+    "matched_keyword": "歴史・教養",
+    "published_at": "2026-05-29",
+    "fetched_at": "2026-06-01T10:00:00+09:00"
+  },
+  {
     "id": "63c83f32a0b4",
     "title": "ICE to keep an eye on your eyes under $25M biometric scanner deal",
     "url": "https://www.theregister.com/public-sector/2026/05/29/ice-awards-bi2-25m-contract-for-1570-biometric-scanners/5248733",
