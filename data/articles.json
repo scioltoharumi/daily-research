@@ -1,5 +1,119 @@
 [
   {
+    "id": "677f4345b687",
+    "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+    "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+    "url_normalized": "techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more",
+    "summary": "Appleは2026年6月8日（米国時間）に年次開発者会議WWDC 2026を開催し、iOS 27の新フレームワーク「iOS 27 Extensions」を発表した。SiriおよびApple IntelligenceをサードパーティAIに開放するこの仕組みにより、ユーザーはApp Storeの専用マーケットプレイスを通じてClaude・ChatGPT・Google Gemini・GrokのいずれかをデフォルトAIとして設定できるようになる。Siri自体もGoogleのGeminiモデルを基盤に再構築された「Siri AI」へ刷新され、会話型チャットボットとしての機能や画面内容の把握、アプリ横断のマルチステップ操作にも対応する。ティム・クックCEOにとって最後のWWDC基調講演となった本発表は、Appleがこれまでの閉鎖的AI戦略を転換し、複数AIが競合するマーケットプレイス型へシフトした画期として位置づけられる。Anthropic・OpenAI・Googleが10億台超のAppleデバイスへの配信経路を得ることで、AIが電話・メール・カレンダーといった日常業務ツールにOS水準で溶け込む時代が本格化し、スマートフォンを通じた業務支援AIの日常利用が急速に広がっていくと考えられる。",
+    "source": "TechCrunch",
+    "lang": "en",
+    "tags": [
+      "WWDC 2026",
+      "Apple",
+      "iOS 27",
+      "Siri AI",
+      "AIマーケットプレイス"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-06-08",
+    "fetched_at": "2026-06-09T06:26:28+09:00"
+  },
+  {
+    "id": "f10efd466ef2",
+    "title": "「AIでAIを開発」加速へ　Sakana AI　「計算資源の量ではなく、アイデアで進歩」",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/08/2000000068/",
+    "url_normalized": "itmedia.co.jp/aiplus/article/2606/08/2000000068",
+    "summary": "Sakana AI（東京、2023年創業）は2026年6月6日、AIがAI自身の学習手法・コード・アーキテクチャを反復的に改善していく「再帰的自己改善（RSI）」を専門とする研究チーム「RSI Lab」の立ち上げを発表し、ITmedia AI+が6月8日に詳報した。同社はこれまでにLLMが自身の訓練方法を設計する「LLM-Squared」、自らのコードベースを書き換えてテストする「Darwin Gödel Machine」、査読を通過した論文を生成した「The AI Scientist」などのRSI研究実績を持つ。掲げるコンセプトは「計算資源の量ではなく、アイデアで進歩」で、OpenAI・Anthropicなど米大手が続ける大規模コンピュートの軍拡競争とは独立した技術路線を志向する。AnthropicがClaudeで自社コードの80%超を書いているという報告（6月5日）が示すように、AIが自身の開発プロセスに関与する傾向は既に現実となっており、Sakana AIはその前線を少ないリソースで追う試みと位置づけられる。RSIが成熟すれば大規模GPUインフラを持たない日本の企業や研究機関でも独自AIの能力開発が現実的な選択肢となる可能性があり、AI研究・開発の地理的多様性を広げる試みとして注目に値すると考えられる。",
+    "source": "ITmedia AI+",
+    "lang": "ja",
+    "tags": [
+      "Sakana AI",
+      "再帰的自己改善",
+      "RSI Lab",
+      "AIスタートアップ",
+      "日本AI"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-06-08",
+    "fetched_at": "2026-06-09T06:26:28+09:00"
+  },
+  {
+    "id": "2e1c14f62483",
+    "title": "Claude Now Works Inside Excel: Microsoft Drops Anthropic's AI Into The Spreadsheet 750 Million People Use",
+    "url": "https://www.techtimes.com/articles/317988/20260608/claude-now-works-inside-excel-microsoft-drops-anthropics-ai-spreadsheet-750-million-people-use.htm",
+    "url_normalized": "techtimes.com/articles/317988/20260608/claude-now-works-inside-excel-microsoft-drops-anthropics-ai-spreadsheet-750-million-people-use.htm",
+    "summary": "Microsoftは2026年6月8日、AnthropicのClaude（Opus 4.8・Sonnet 4.5・Haiku 4.5）をMicrosoft FoudryのAIモデルカタログ経由でExcelの「Agent Mode」に統合すると発表した。世界で推定7億5000万人が使うExcel上からClaude直接呼び出しが可能になり、数式の作成・説明、乱れたデータのクリーニング、集計結果の分析文生成、自動化ワークフローの構築をスプレッドシートを離れることなく実行できる。Microsoft FoudryのAIカタログは11,000モデル超を擁し、Azure認証・課金・SDK一本で複数プロバイダーに横断アクセスできる体制が整った。ExcelはWord・PowerPointと並ぶホワイトカラー業務の中核ツールであり、ここに最先端LLMが直接組み込まれる意味は大きい。VBAや関数への習熟が壁になっていた高度なデータ分析を自然言語で指示するだけで実行できるようになることで、非エンジニアの経理・マーケティング・経営企画担当者が繰り返しの数値処理から解放され、解釈・意思決定という付加価値の高い業務に集中できる環境が整いつつあると考えられる。",
+    "source": "TechTimes",
+    "lang": "en",
+    "tags": [
+      "Microsoft",
+      "Claude",
+      "Excel",
+      "業務自動化",
+      "Microsoft Foundry"
+    ],
+    "matched_keyword": "業務改革",
+    "published_at": "2026-06-08",
+    "fetched_at": "2026-06-09T06:26:28+09:00"
+  },
+  {
+    "id": "19b5091f5d93",
+    "title": "コンサル知見を凝縮した業務特化型AIエージェントソリューション群「INTLOOP Pocket」を2026年7月提供開始",
+    "url": "https://prtimes.jp/main/html/rd/p/000000188.000023636.html",
+    "url_normalized": "prtimes.jp/main/html/rd/p/000000188.000023636.html",
+    "summary": "INTLOOP株式会社は2026年6月8日、コンサルティング事業で蓄積した業務知識をAIエージェントに凝縮した「INTLOOP Pocket」を2026年7月に提供開始すると発表した。第一弾の「INTLOOP Sales Pocket」は営業支援AIエージェントで、複雑なプロンプト入力の代わりに一問一答形式で回答するだけで「コンサルティング品質の提案書」を自動生成する仕組みを提供し、導入から定着までを支援するAI BPOコンサルティングも併せて展開する。背景として、日本の労働人口減少が加速するなかで組織知の継承が困難になっており、同時にAIツールの習熟コストが企業の導入障壁になっているという二重の課題がある。専門家が培ったノウハウをAIエージェントに埋め込んで「誰でも使える形」に変換するアプローチは、暗黙知の流出という日本企業が直面する構造的課題への回答になりうる。提案書作成や顧客対応など属人性の高い知識業務をAIが担うことで、専門家が判断・関係構築・創造的問題解決に集中できる環境が整いつつあると考えられる。",
+    "source": "PR TIMES（INTLOOP）",
+    "lang": "ja",
+    "tags": [
+      "AIエージェント",
+      "業務自動化",
+      "提案書作成",
+      "コンサルティング",
+      "BPO"
+    ],
+    "matched_keyword": "業務改革",
+    "published_at": "2026-06-08",
+    "fetched_at": "2026-06-09T06:26:28+09:00"
+  },
+  {
+    "id": "5a1611e824a5",
+    "title": "Greco-Roman Cemetery Excavated in Northern Egypt",
+    "url": "https://archaeology.org/news/2026/06/08/greco-roman-cemetery-excavated-in-northern-egypt/",
+    "url_normalized": "archaeology.org/news/2026/06/08/greco-roman-cemetery-excavated-in-northern-egypt",
+    "summary": "エジプトのシェリフ・ファティ観光・文化財省大臣は2026年6月8日、エジプト北部ベヘイラ県テル・コム・アジーザで約4000年前の居住跡の上に造営されたギリシャ・ローマ時代の集合墓地を発見したとArchaeology Magazineが報じた。墓地は単純な土葬から日干し煉瓦内張り墓、プトレマイオス朝期の彩色漆喰棺や陶製樽型棺まで多様な埋葬形態が混在し、副葬品には陶器・石製容器・パン型・道具・炉・動物骨が含まれる。特筆されるのは、混沌の神セトとの関連が示唆される無傷のイノシシの埋葬が確認された点だ。プトレマイオス朝（紀元前305〜30年）はギリシャ系王朝が古代エジプトを支配した時代であり、この墓地はギリシャ式と在来エジプト式の葬送習慣が混在する文化接触の痕跡を物証として示す貴重な事例となっている。エジプトが近年デジタルGISや非破壊探査技術を活用して遺跡調査を加速させていることを踏まえれば、複数の文明が重なる遺跡の記録・分析が系統的に行われるようになり、文明の融合と変容を描き直す研究が今後も進展していくと考えられる。",
+    "source": "Archaeology Magazine",
+    "lang": "en",
+    "tags": [
+      "考古学",
+      "エジプト",
+      "ギリシャ・ローマ時代",
+      "プトレマイオス朝",
+      "墓地"
+    ],
+    "matched_keyword": "歴史・教養",
+    "published_at": "2026-06-08",
+    "fetched_at": "2026-06-09T06:26:28+09:00"
+  },
+  {
+    "id": "4f1465c447d4",
+    "title": "Archaeologists Explore Villa Beneath High School in Rome",
+    "url": "https://archaeology.org/news/2026/06/08/archaeologists-explore-villa-beneath-high-school-in-rome/",
+    "url_normalized": "archaeology.org/news/2026/06/08/archaeologists-explore-villa-beneath-high-school-in-rome",
+    "summary": "ローマのコロッセオ近くに建つカヴール科学高校の地下に2世紀のローマ別荘（ドムス）が眠っていることが、Archaeology Magazineが2026年6月8日に報じた調査で明らかになった。生徒たちが地下トンネルを探索中に構造物を発見して教師に報告したことが発端で、その後ペルージャ大学の考古学者フィリッポ・コアレッリ氏の指導のもと発掘が実施された。19世紀後半の銘文に基づきウンブリウス家の一員が所有者と推定されており、最近の発掘ではアーチ状天井に施された彩色フレスコ画と漆喰装飾、大型不規則タイルで構成されたモザイク床が確認された。19世紀後半に校舎建設時にドムスの基礎部分が一部露出していたとみられるが、その後ほぼ1世紀にわたって建物の地下に眠り続けてきた。現代ローマの地下には至る所に古代の構造物が広がっており、生徒の好奇心が火付け役となって歴史的発見に繋がったこの事例は、デジタル3D計測や非破壊調査技術の進歩が学校や一般施設でも発見機会を生み出し始めている現状を象徴するものとして、今後の発掘調査の行方が注目される。",
+    "source": "Archaeology Magazine",
+    "lang": "en",
+    "tags": [
+      "考古学",
+      "ローマ",
+      "ドムス",
+      "フレスコ画",
+      "イタリア"
+    ],
+    "matched_keyword": "歴史・教養",
+    "published_at": "2026-06-08",
+    "fetched_at": "2026-06-09T06:26:28+09:00"
+  },
+  {
     "id": "17fb2cc14b96",
     "title": "ChatGPT「ロックダウンモード」、プロンプトインジェクション攻撃に対応",
     "url": "https://www.itmedia.co.jp/news/articles/2606/07/news022.html",
