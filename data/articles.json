@@ -1,5 +1,138 @@
 [
   {
+    "id": "8c0101113467",
+    "title": "OpenAIが上場へ　SpaceX・Anthropicに続きIPO申請",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/09/2000000071/",
+    "url_normalized": "itmedia.co.jp/aiplus/article/2606/09/2000000071",
+    "summary": "OpenAIは2026年6月8日（米国時間）、米証券取引委員会（SEC）に対して上場申請のドラフト登録書（S-1）を機密扱いで提出したと発表した。評価額8520億ドルと報じられる同社が株式公開を検討するのは、AnthropicとSpaceXが相次いで5月下旬〜6月上旬にIPO申請を行ったことに続く動きで、主要AIスタートアップの上場ラッシュによりAI関連IPOパイプラインの合計は3.6兆ドル規模に達するとBloombergが報じた。OpenAIは「上場タイミングはまだ決めていない。非公開企業として行いたい取り組みがある」と述べており、上場は早くとも年内後半になるとみられる。生成AI市場が大規模な研究開発投資を続けるなか、主要プレーヤーが公開市場への資金調達に踏み切ることは、AI開発資金の供給源を機関投資家から個人投資家へと広げる転換点を意味する。企業にとっては有力AI企業の財務詳細が開示されることで製品ロードマップや価格戦略の透明性が高まり、AI調達・活用計画の立案において根拠のある意思決定がしやすくなると考えられる。",
+    "source": "ITmedia AI+",
+    "lang": "ja",
+    "tags": [
+      "OpenAI",
+      "IPO",
+      "株式公開",
+      "SEC",
+      "生成AI市場"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-06-09",
+    "fetched_at": "2026-06-10T06:17:00+09:00"
+  },
+  {
+    "id": "f79b94add5d6",
+    "title": "個人向け「Gemini」値下げ　「Google AI Plus」が月額1200円→725円に　ストレージも倍増",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/09/2000000070/",
+    "url_normalized": "itmedia.co.jp/aiplus/article/2606/09/2000000070",
+    "summary": "Googleは2026年6月9日、個人向けAIサブスクリプション「Google AI Plus」の料金を月額1200円から725円（約40%引き）に値下げし、付帯するGoogleドライブのストレージ容量を200GBから400GBに倍増させると発表した。新料金は次回のプラン更新時から適用される。Google AI PlusではGeminiアプリの利用上限が無料ユーザーの2倍になるほか、AIメモツール「NotebookLM」の拡張機能なども使える。生成AIサービスのコストは大規模モデルの推論費用低減とともに下落傾向にあり、OpenAI・Anthropicなど競合が相次ぎ値下げと高性能化を進めるなかで、Googleも日本市場を含む個人ユーザーの獲得加速に動いた形だ。月額725円という水準は主要ストリーミングサービスと同程度であり、個人のリサーチ補助・文章作成・タスク管理へのAI活用がさらに日常化する可能性があり、業務と個人の境界をまたいだ生成AIリテラシーの底上げにも寄与すると考えられる。",
+    "source": "ITmedia AI+",
+    "lang": "ja",
+    "tags": [
+      "Google",
+      "Gemini",
+      "AI Plus",
+      "値下げ",
+      "NotebookLM"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-06-09",
+    "fetched_at": "2026-06-10T06:17:00+09:00"
+  },
+  {
+    "id": "8cfd184b8f4d",
+    "title": "LINEのAIエージェントにメモリ機能　ツンデレや執事など“口調”も変更可能に",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/08/news100.html",
+    "url_normalized": "itmedia.co.jp/news/articles/2606/08/news100.html",
+    "summary": "LINEヤフーは2026年6月8日、AIエージェントサービス「Agent i」に「パーソナライズ機能」を追加した。「フレンドリー」「ツンデレ」「執事」など10種類から選べる口調設定と、ユーザーとの会話から趣味・嗜好・ライフスタイルを自動的に抽出して記憶し続ける「メモリ機能」が主な新機能で、記憶内容はパーソナライズ設定画面で確認・削除でき、機能自体のオフも可能だ。日本のスマートフォンで圧倒的な利用率を誇るLINEに、会話の積み重ねを自律的に記憶するAIエージェントが搭載されたことは、「何度説明しても覚えてくれない」という生成AIの課題を日常のなかで解消するインフラになりえることを示している。OpenAIのChatGPT「Dreaming V3」（6月4日）も同様に自動メモリを導入しており、AIが会話の積み重ねを学習するパーソナライゼーション競争が本格化している。業務でも個人でも同じAIを使い続けることで毎回のブリーフィングコストが下がり、繰り返し依頼するルーティン業務の自動化や意思決定の個人補助が現実的になってくると考えられる。",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "tags": [
+      "LINEヤフー",
+      "Agent i",
+      "AIエージェント",
+      "メモリ機能",
+      "パーソナライズ"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-06-08",
+    "fetched_at": "2026-06-10T06:17:00+09:00"
+  },
+  {
+    "id": "56a77e099859",
+    "title": "日立とIntelが戦略提携　半導体や量子コンピューティングなど5領域で",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/08/news133.html",
+    "url_normalized": "itmedia.co.jp/news/articles/2606/08/news133.html",
+    "summary": "日立製作所と米Intelは2026年6月8日、フィジカルAI活用と次世代デジタルインフラ実現に向けた戦略的協業を発表した。重点領域は①半導体製造でのAI品質管理（日立計測データとIntelの製造プロセス統合）、②量子コンピューティングの共同研究開発、③エネルギー効率化（日立「HMAX Energy」とIntel高耐圧半導体の相互活用）、④カスタム半導体・エッジAIアプリケーション、⑤ファクトリーオートメーションの5つで、日立は社会インフラ・産業システムへのAI実装を加速している。三菱重工とPreferred Networksの提携（6月4日）と同様の動きで、重厚長大産業における大手企業間のフィジカルAI協業が相次いでいる。製造・電力設備における故障予知・自動点検など「現場の人手に依存してきた業務」をAIが代替することで、工場作業員が判断・改善提案などの付加価値業務に集中できる環境が整いつつあると考えられる。",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "tags": [
+      "日立",
+      "Intel",
+      "フィジカルAI",
+      "量子コンピューティング",
+      "ファクトリーオートメーション"
+    ],
+    "matched_keyword": "業務改革",
+    "published_at": "2026-06-08",
+    "fetched_at": "2026-06-10T06:17:00+09:00"
+  },
+  {
+    "id": "6885eacaeb5b",
+    "title": "Planned Tool Production in Israel Dates Back Some 800,000 Years",
+    "url": "https://archaeology.org/news/2026/06/09/planned-tool-production-in-israel-dates-back-some-800000-years/",
+    "url_normalized": "archaeology.org/news/2026/06/09/planned-tool-production-in-israel-dates-back-some-800000-years",
+    "summary": "ヘブライ大学のナアマ・ゴレン＝インバー氏らは2026年6月9日、イスラエル北部ゲシェル・ベノット・ヤアコフ遺跡で出土した78万年前の玄武岩製石器（大型コア・斧など）の化学組成をボーリング調査結果と照合し、「特定の種類の道具製造に特定の産地の石材を意図的に選択していた」という証拠をArchaeology Magazineに報告した。複数の地層にわたって同じ石材選択の知識が「数万年にわたり世代間で継承された」ことが確認されており、中期更新世の古人類がすでに計画的な資源管理と知識伝達の能力を持っていたことを裏付けている。高度な計画的行動は現生人類の到来以降とされることが多かったが、本研究は78万年前の段階でその前身となる認知能力が存在したことを示す重要な証拠となる。ゲノム解析・地質化学分析・年代測定技術の組み合わせが先史時代研究の分解能を高めており、「知性の起源」や「文化的継承の始まり」をめぐる人類史の書き換えが今後も続いていくと考えられる。",
+    "source": "Archaeology Magazine",
+    "lang": "en",
+    "tags": [
+      "考古学",
+      "旧石器時代",
+      "イスラエル",
+      "石器製造",
+      "人類進化"
+    ],
+    "matched_keyword": "歴史・教養",
+    "published_at": "2026-06-09",
+    "fetched_at": "2026-06-10T06:17:00+09:00"
+  },
+  {
+    "id": "e5d416bb50c2",
+    "title": "Medieval Helmets Found Off Spanish Coast Identified",
+    "url": "https://archaeology.org/news/2026/06/09/medieval-helmets-found-off-spanish-coast-identified/",
+    "url_normalized": "archaeology.org/news/2026/06/09/medieval-helmets-found-off-spanish-coast-identified",
+    "summary": "アリカンテ大学のマヌエル・フラリッチャルディ氏らは2026年6月9日、スペイン北東沿岸の海底（水深約6メートル）で1990年に発見された43個のヘルメットのうち5個を放射性炭素年代測定で分析し、従来の「ローマ時代後期の中世模倣品」という評価を「14世紀後期〜15世紀初期の製造品」と修正したとArchaeology Magazineが報じた。ローマ風のデザインと中世技術が混在していたため年代特定が長年困難だったが、新たな年代測定の適用で再分類が実現した。研究チームは「当時の政治的混乱が軍事品生産を増加させ、小規模工房が輸出向けに大量生産した結果」と指摘し、中世ヨーロッパの軍事品貿易の直接的証拠となると評価する。中世地中海の商業活動と軍事産業の実態を一次資料から読み直す機会となっており、古い発掘資料に現代の年代測定技術を再適用することで歴史解釈が更新され続けるという研究パラダイムを示す事例と考えられる。",
+    "source": "Archaeology Magazine",
+    "lang": "en",
+    "tags": [
+      "考古学",
+      "中世",
+      "スペイン",
+      "軍事品",
+      "海洋考古学"
+    ],
+    "matched_keyword": "歴史・教養",
+    "published_at": "2026-06-09",
+    "fetched_at": "2026-06-10T06:17:00+09:00"
+  },
+  {
+    "id": "6be23034f710",
+    "title": "Did Early Humans Eat Bugs?",
+    "url": "https://archaeology.org/news/2026/06/09/did-early-humans-eat-bugs/",
+    "url_normalized": "archaeology.org/news/2026/06/09/did-early-humans-eat-bugs",
+    "summary": "スペイン進化生物学研究所のマヌエル・ピニェロ氏らは2026年6月9日、ネアンデルタール人18体・現代人745名・大型類人猿96体の歯石サンプルを比較し、昆虫摂取の痕跡に関する研究をArchaeology Magazineに報告した。DNA分析と1600以上の古代人ゲノム調査の結果、ネアンデルタール人が「腐敗した肉に付着したウジやハエを定期的に摂取していた」ことが示唆され、窒素同位体の高い値の説明に合致した。赤道付近の現代人は昆虫消化能（キチン分解遺伝子）を保持しているのに対し高緯度地域の集団では失われており、地理的な進化的適応パターンも確認された。農耕定住化以前のホモ・サピエンスとネアンデルタール人が異なる食性戦略を持っていたことは、種の生存戦略の差異を食文化面から捉え直す視点を提供する。歯石のゲノム分析技術の精緻化が古代の食生活を分子レベルで再構成できる段階に入ったことを示す事例であり、昆虫食の起源と人類の食の多様性をめぐる研究が今後さらに進展すると考えられる。",
+    "source": "Archaeology Magazine",
+    "lang": "en",
+    "tags": [
+      "考古学",
+      "ネアンデルタール人",
+      "昆虫食",
+      "人類進化",
+      "食性"
+    ],
+    "matched_keyword": "歴史・教養",
+    "published_at": "2026-06-09",
+    "fetched_at": "2026-06-10T06:17:00+09:00"
+  },
+  {
     "id": "677f4345b687",
     "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
     "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
