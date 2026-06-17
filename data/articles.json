@@ -1,5 +1,100 @@
 [
   {
+    "id": "7e7ea944b97e",
+    "title": "SpaceX、AIコーディング「Cursor」を9.6兆円で買収　「近く大幅な改善」へ",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/17/2000000096/",
+    "url_normalized": "itmedia.co.jp/aiplus/article/2606/17/2000000096",
+    "summary": "SpaceXは2026年6月17日、AIコーディングツール「Cursor」の開発企業Anysphereを600億ドル（約9.6兆円）で買収すると発表した。同社は4月にAnysphereとの協業発表時に取得した買収権を行使した形で、買収後はxAIのスーパーコンピュータ「Colossus」を活用してCursorのコーディングモデル「Composer」の次世代版を開発する予定とされ、「近く大幅な改善が行われる」とされる。GitHub CopilotやClaude Codeなど既存のAIコーディングツールと競合する市場において、SpaceXとxAIのインフラを統合した新たな大型プレーヤーが誕生することになる。生成AIがコーディング業務を代替する速度が加速している中、ハードウェア（Colossus）とAIモデルを垂直統合した形での参入は、開発ツール市場の競争環境を根本から変える可能性があると考えられる。AIコーディングツールの性能向上が続けば、エンジニアが反復的な実装作業から解放されて業務課題の構造化やアーキテクチャ設計といった創造性の高い作業に集中できる体制への移行が加速していくと考えられる。",
+    "source": "ITmedia AI+",
+    "lang": "ja",
+    "tags": [
+      "SpaceX",
+      "Cursor",
+      "AIコーディング",
+      "xAI",
+      "買収"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-06-17",
+    "fetched_at": "2026-06-17T21:09:27+09:00"
+  },
+  {
+    "id": "c3a4ba3009e1",
+    "title": "日立、OpenAIとの連携を本格化　「Codex」でレガシーシステム刷新、サイバー防衛も",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/17/2000000097/",
+    "url_normalized": "itmedia.co.jp/aiplus/article/2606/17/2000000097",
+    "summary": "日立製作所は2026年6月17日、OpenAIとの連携を本格化させ2つの重点領域での協業を発表した。1つ目は、OpenAIのCodexを活用した「モダナイゼーション powered by Lumada」で、既存コードから上流仕様を可視化し新システムへの移行テストまでを一貫してAI化するサービスを金融機関など幅広い顧客に展開する計画だ。2つ目は、OpenAIの「Trusted Access for Cyber」プログラムを通じたサイバー防衛AIへのアクセスで、脆弱性の特定・修復・検証を防御目的で活用する。日本企業が数十年来抱えるレガシーシステムの近代化は、専門エンジニアの確保と膨大なコスト・期間の問題から多くの組織で滞ってきたが、コード読解・書き換え・テスト自動化のAI活用が実用水準に近づきつつある。国内大手SIerがOpenAIとの統合サービスを整備することで、直接API連携の難しい企業にもAI活用の恩恵が届く経路が生まれてくる可能性がある。技術的負債の解消作業をAIが担えれば、IT部門が新機能の開発や業務改善の企画により多くの時間を向けられる体制が整っていくと考えられる。",
+    "source": "ITmedia AI+",
+    "lang": "ja",
+    "tags": [
+      "日立",
+      "OpenAI",
+      "Codex",
+      "レガシーシステム",
+      "サイバー防衛"
+    ],
+    "matched_keyword": "生成AI",
+    "published_at": "2026-06-17",
+    "fetched_at": "2026-06-17T21:09:27+09:00"
+  },
+  {
+    "id": "5854cc4ebec0",
+    "title": "約2000時間のムダを削減できた！大阪ガスがNotionとAI活用で「働き方改革」の実現に成功",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2606/16/news022.html",
+    "url_normalized": "kn.itmedia.co.jp/kn/articles/2606/16/news022.html",
+    "summary": "大阪ガスとNOT A HOTELは2026年6月16日、社内情報管理にNotionとAIを組み合わせて導入した結果、月約2,000時間の業務削減を達成したと発表した。削減の主な内訳は「情報がどこにあるかを探す時間」と「過去の議事録・契約内容を確認する作業」で、既存ドキュメントをAIが自動分類・要約することで必要な情報への即時アクセスを実現した。ノートテンプレートやAI自動要約機能の導入により、議事録作成などの定型記録業務も効率化されたとされる。社内情報の検索・参照は一見地味な作業だが、組織全体に積み上がると膨大な時間ロスを生む典型的な非効率領域であり、AIによる意味理解と自然言語検索が実用水準に達したことでその解消が現実的な選択肢になってきた。月2,000時間という具体的な数値は導入効果の説得力ある実績値であり、同様のアプローチを採用する組織が増えれば、繰り返し発生する情報探索コストから人を解放し、本来の判断・企画・対話に集中できる職場が広がっていくと考えられる。",
+    "source": "ITmedia ネットワーク",
+    "lang": "ja",
+    "tags": [
+      "大阪ガス",
+      "Notion",
+      "業務効率化",
+      "情報管理",
+      "働き方改革"
+    ],
+    "matched_keyword": "業務改革",
+    "published_at": "2026-06-16",
+    "fetched_at": "2026-06-17T21:09:27+09:00"
+  },
+  {
+    "id": "bad379164826",
+    "title": "Massive Roman Bathhouse Spanning Nearly 5,000 Square Meters Unearthed in Netherlands",
+    "url": "https://arkeonews.net/massive-roman-bathhouse-spanning-nearly-5000-square-meters-unearthed-in-netherlands/",
+    "url_normalized": "arkeonews.net/massive-roman-bathhouse-spanning-nearly-5000-square-meters-unearthed-in-netherlands",
+    "summary": "オランダ・ニイメーヘン市のワールフロント地区で進む考古学調査（RAAP・BAAC両機関）で、面積約4,900平方メートルに及ぶローマ時代の公共浴場遺跡がArkeonewsが2026年6月17日に報告された。床暖房システム（ハイポコースト）・大理石張りプール・白黒石灰岩タイル床・彩色プラスターなどの建築遺構が保存良好な状態で確認され、バッカスの青銅像・金製ネックレス・骨製の髪留め数百点など数万点の遺物が出土した。3世紀のポストゥムス帝コインの発見は、ウルピア・ノウィオマグス市が3世紀まで繁栄し続けていたことを示す一次資料だ。このサイズの公共浴場はローマ属州ゲルマニア・インフェリオルにおける都市規模と市民生活の豊かさを直接示すもので、従来の理解を上方修正する可能性がある。発掘は住宅開発予定地の事前調査として行われており、遺跡の一部は現地保存されて新市街地に「テルメンプレイン（浴場広場）」と命名される計画だ。都市開発に伴う義務的な事前文化財調査が重要な発見を生み続けるパターンは欧州各地で繰り返されており、非破壊探査技術やデジタル計測との組み合わせで都市部の地下遺産への理解が今後さらに深まっていくと考えられる。",
+    "source": "Arkeonews",
+    "lang": "en",
+    "tags": [
+      "考古学",
+      "ローマ時代",
+      "オランダ",
+      "浴場遺跡",
+      "公共施設"
+    ],
+    "matched_keyword": "歴史・教養",
+    "published_at": "2026-06-17",
+    "fetched_at": "2026-06-17T21:09:27+09:00"
+  },
+  {
+    "id": "0cc86294e322",
+    "title": "4,000-Year-Old Man Found Curled Inside a Kiln Pit in Germany Leaves Archaeologists With a Prehistoric Mystery",
+    "url": "https://arkeonews.net/4000-year-old-man-found-curled-inside-a-kiln-pit-in-germany-leaves-archaeologists-with-a-prehistoric-mystery/",
+    "url_normalized": "arkeonews.net/4000-year-old-man-found-curled-inside-a-kiln-pit-in-germany-leaves-archaeologists-with-a-prehistoric-mystery",
+    "summary": "SuedOstLink電力線建設に先立つ発掘調査（ザクセン・アンハルト州遺産管理・考古学局、電力事業者50Hertz協力）で、ドイツ・ゲルステヴィッツ近郊の窯跡地下室から約4,000年前（コード陶器文化期、紀元前2900〜2050年頃）の男性人骨が2026年6月16日に報告された。約25歳の男性で右側を下に体を丸めた胎児姿勢で横たわっており、頭蓋骨に外傷の痕跡が確認された。コード陶器文化では「男性は右側に、女性は左側に」という定型的な埋葬慣行があるため姿勢自体は規則に沿っているが、通常は空であるはずの窯跡の地下室への埋葬という状況は異例で、考古学者を困惑させている。暴力的な死による急ごしらえの埋葬か、既知の記録にない儀礼的慣行かという謎は現在も解明途上だ。インフラ建設の義務的事前調査が重要な一次資料を生む典型例だが、本件が特異なのは「空間の異常使用」という疑問を提起している点で、後期新石器時代の葬送観念や空間再利用の慣習に関する理解を深める手がかりになると考えられる。",
+    "source": "Arkeonews",
+    "lang": "en",
+    "tags": [
+      "考古学",
+      "ドイツ",
+      "新石器時代",
+      "埋葬",
+      "コード陶器文化"
+    ],
+    "matched_keyword": "歴史・教養",
+    "published_at": "2026-06-16",
+    "fetched_at": "2026-06-17T21:09:27+09:00"
+  },
+  {
     "id": "34d93df5aa9a",
     "title": "OpenAIの高度AIでソフトバンクの脆弱性を1万件発見　孫正義氏「大変な危機」　日本の重要インフラ企業へ診断サービス提供",
     "url": "https://www.itmedia.co.jp/aiplus/article/2606/16/2000000095/",
