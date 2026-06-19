@@ -1,5 +1,138 @@
 [
   {
+    "id": "bb2d47300b53",
+    "title": "「ChatGPT広告」日本上陸　無料版と「Go」で表示、電通・博報堂など支援",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000107/",
+    "url_normalized": "itmedia.co.jp/aiplus/article/2606/19/2000000107",
+    "source": "ITmedia AI+",
+    "lang": "ja",
+    "tags": [
+      "ChatGPT",
+      "広告",
+      "OpenAI",
+      "電通",
+      "日本展開"
+    ],
+    "summary": "OpenAIは2026年6月19日、日本でのChatGPT広告配信を開始した。広告は無料プランとChatGPT Goプランのユーザーに表示され、AIの回答とは区別して提示される設計だ。電通デジタル・Hakuhodo DY ONE・サイバーエージェントが国内ローンチパートナーとして参加し、広告主の戦略策定から配信設計・アセット生成まで一貫して支援する体制を整えた。OpenAIは「広告は回答の内容に影響せず、会話内容や個人情報が広告主に共有されることはない」と説明しており、2月の米国テスト開始から5月に日本を含む5カ国への拡大が予告されていた流れを受けた正式展開だ。生成AI基盤の急速な拡大に向けた膨大な投資を賄う観点から、無料ユーザー基盤を活かした広告収入はOpenAIにとって重要な収益多様化の柱になると考えられる。広告代理店を介したAI媒体への本格参入は、テレビや検索エンジンに並ぶ新しいメディア環境の台頭を示すとともに、企業が生成AIをマーケティングに組み込む際の接点の設計として注目される。",
+    "matched_keyword": "生成AI",
+    "published_at": "2026-06-19",
+    "fetched_at": "2026-06-20T06:11:13+09:00"
+  },
+  {
+    "id": "4faa08a41106",
+    "title": "Google bets on Gemini to reinvent the smart home speaker",
+    "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
+    "url_normalized": "techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker",
+    "source": "TechCrunch",
+    "lang": "en",
+    "tags": [
+      "Google",
+      "Gemini",
+      "スマートスピーカー",
+      "スマートホーム",
+      "IoT"
+    ],
+    "summary": "Googleは2026年6月17日、Gemini AIを全面搭載した新型スマートスピーカー「Google Home Speaker」を99.99ドルで発表し、6月25日からの販売を予告した。スタンドアロンのスマートスピーカーとしては2020年のNest Audio以来6年ぶりの新製品で、今回は従来のGoogle Assistantを「Gemini for Home」に置き換えた設計となっている。「照明を全部消して、ベッドサイドランプだけ残して」といった複合指示の理解や会話の文脈を保持した追加質問への対応が可能になり、10種類の音声オプションと4色のカラーバリエーションを用意する。月額10ドルのGoogle Home Premiumでは、Gemini Live、カメラ履歴検索、Home Briefs機能なども使えるサブスクリプション構造を採用した。生成AIがスマートフォンやPCにとどまらず家庭の物理デバイスへと浸透していく流れの中で、Googleは音声UIとGeminiを組み合わせた次世代スマートホーム基盤の再定義を図っている。音声だけで家電制御・情報取得・タスク実行が完結する環境が整えば、手が離せない状況での作業効率が上がり、家事と仕事の切り替えコストを下げる可能性があると考えられる。",
+    "matched_keyword": "生成AI",
+    "published_at": "2026-06-17",
+    "fetched_at": "2026-06-20T06:11:13+09:00"
+  },
+  {
+    "id": "7758abb94045",
+    "title": "画面操作を\"録画\"→AIが作業代行　CodexにI新機能「Record & Replay」",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/19/news102.html",
+    "url_normalized": "itmedia.co.jp/news/articles/2606/19/news102.html",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "tags": [
+      "Codex",
+      "OpenAI",
+      "タスク自動化",
+      "画面録画",
+      "macOS"
+    ],
+    "summary": "OpenAIは2026年6月18日（米国時間）、AIコーディングツール「Codex」に新機能「Record & Replay」を追加した。「Record a skill」で画面操作を録画するとCodexがその一連の動作を学習し、後から呼び出すと自動的に同じ操作を再現する仕組みで、初期提供はmacOS限定とされる。YouTubeの動画編集作業などへの活用例が示されており、パスワードなど機密情報は自動的にマスクして保護される設計だ。画面操作の「マクロ記録」に相当する機能をAIが担う試みは以前からあったが、Codexが対話型インターフェイスに統合したことで、定型業務の自動化手順を自然言語で指示・確認できる柔軟さが加わっている。日本ではCodexのRecord & Replayに相当する機能が普及するまで、反復的なUI操作を人が毎回こなすケースが多く残っている。複雑なソフトウェアの定型操作を一度録画すれば、エンジニア不在でも非エンジニアが設定・実行できる可能性があり、ルーティン業務の自動化をより身近なものにするきっかけになると考えられる。",
+    "matched_keyword": "業務改革",
+    "published_at": "2026-06-19",
+    "fetched_at": "2026-06-20T06:11:13+09:00"
+  },
+  {
+    "id": "2f4302be3086",
+    "title": "米大企業の7割が導入する「Databricks」とは何者か？　評価額20兆円の「AI向けデータ基盤」",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000106/",
+    "url_normalized": "itmedia.co.jp/aiplus/article/2606/19/2000000106",
+    "source": "ITmedia AI+",
+    "lang": "ja",
+    "tags": [
+      "Databricks",
+      "データ基盤",
+      "AIインフラ",
+      "レイクハウス",
+      "エンタープライズ"
+    ],
+    "summary": "Databricksは2026年6月、サンフランシスコで開催した「Data + AI Summit 2026」で最新製品群を発表した。2013年創業の同社は「データレイクとデータウェアハウスの利点を統合するレイクハウスアーキテクチャ」を核とし、Fortune 500企業の約7割が採用するAI向けデータ基盤プラットフォームに成長した。評価額は1340億ドル（約20兆円）、年間換算売上高は54億ドルに上る。CEOアリ・ゴディシ氏は「AIは十分に賢くなった。今企業が直面しているのはコンテキストの問題だ」と指摘し、社内に散在するデータを一元的にAIへ供給するインフラとしての役割を強調した。生成AIエージェントや大量APIを前提としたシステムが普及する中で、「どのデータをどうAIに渡すか」が業務AI活用の成否を分けるとの考え方が浸透しつつある。組織内のデータを一元管理してAIが適切な文脈で回答・実行できる環境を整えることは、業務の属人化を減らし意思決定の速度と質を高めることにつながると考えられる。",
+    "matched_keyword": "業務改革",
+    "published_at": "2026-06-19",
+    "fetched_at": "2026-06-20T06:11:13+09:00"
+  },
+  {
+    "id": "347c5dcfd1cc",
+    "title": "Homo erectus May Have Used Fire in South African Cave More Than 1.7 Million Years Ago",
+    "url": "https://arkeonews.net/homo-erectus-may-have-used-fire-in-south-african-cave-more-than-1-7-million-years-ago/",
+    "url_normalized": "arkeonews.net/homo-erectus-may-have-used-fire-in-south-african-cave-more-than-1-7-million-years-ago",
+    "source": "Arkeonews",
+    "lang": "en",
+    "tags": [
+      "考古学",
+      "ホモ・エレクトス",
+      "火の使用",
+      "南アフリカ",
+      "人類進化"
+    ],
+    "summary": "南アフリカのワンダーワーク洞窟（北ケープ州）で実施された最新分析により、ホモ・エレクトスが170万年以上前に火を使用していた可能性が示された。2026年6月18日にArkeonewsが伝えた内容によると、洞窟入り口から30m以上奥まった地点で焼けた小型哺乳類の骨が発見された。自然火災では到達不可能な奥部での発見であり、骨の発光分析（青色光で焼骨が赤く光る性質を利用）とFTIR分光法の2手法で焼痕が確認された。これまで人類の火の管理利用は約40〜80万年前が定説だったが、今回の証拠はその起源を100万年以上遡らせる可能性を持つ。研究チームは「早期人類が保護された洞窟空間で火を実験していた段階がある」と指摘しており、炉床が定着する以前から火の運搬・保持が始まっていた可能性が浮上した。発光分析技術の精緻化が年代推定の精度を高めており、火・道具・言語という人類史の三大転換点の一つ「火の制御」の起源解明が新たな局面を迎えていると考えられる。",
+    "matched_keyword": "歴史・教養",
+    "published_at": "2026-06-18",
+    "fetched_at": "2026-06-20T06:11:13+09:00"
+  },
+  {
+    "id": "c7cf0a149280",
+    "title": "Rare 1,800-Year-Old River God Mosaic Discovered in Ancient Aspendos",
+    "url": "https://arkeonews.net/rare-1800-year-old-river-god-mosaic-discovered-in-ancient-aspendos/",
+    "url_normalized": "arkeonews.net/rare-1800-year-old-river-god-mosaic-discovered-in-ancient-aspendos",
+    "source": "Arkeonews",
+    "lang": "en",
+    "tags": [
+      "考古学",
+      "モザイク",
+      "ローマ時代",
+      "トルコ",
+      "アスペンドス"
+    ],
+    "summary": "トルコ文化観光省の考古学チームは2026年6月、古代都市アスペンドス（現トルコ南部アンタリャ県）の劇場通り東広場の発掘で、3世紀AD頃の「若きエウリュメドン」を描いたローマ期モザイク床を発見した。約6×7.5メートルの面積に小型テッセラ（タイル）を用いた精緻な製作技術が確認され、「ローマ期アナトリア地域でこれほど稀有な河神の描写は他にない」とされる。エウリュメドンは現在のケプリュチャイ川に由来する地元の河神で、都市と水源の結びつきを視覚的に記念した意匠とみられる。出土地点の建築変化は紀元262年の地震後の都市復興期と一致しており、アスペンドスが自然災害後も政治・文化の中心として機能し続けていたことを示す一次資料ともなっている。ローマ時代の神話世界では地域固有の自然（河川・山）が神格化されており、こうした神話図像の地域バリエーションを記録することは、地域コミュニティのアイデンティティ形成の史的解明につながると考えられる。",
+    "matched_keyword": "歴史・教養",
+    "published_at": "2026-06-18",
+    "fetched_at": "2026-06-20T06:11:13+09:00"
+  },
+  {
+    "id": "40d4f834bc09",
+    "title": "Police use facial recognition to identify immigrants in the field",
+    "url": "https://www.npr.org/2026/06/19/nx-s1-5863058/homeland-security-local-police-facial-recognition-identify-immigrants",
+    "url_normalized": "npr.org/2026/06/19/nx-s1-5863058/homeland-security-local-police-facial-recognition-identify-immigrants",
+    "source": "NPR",
+    "lang": "en",
+    "tags": [
+      "顔認証",
+      "ICE",
+      "DHS",
+      "移民",
+      "プライバシー"
+    ],
+    "summary": "米国土安全保障省（DHS）とICEが287(g)プログラムに参加する地方警察約1,300機関に、顔認証アプリ「ICE Task Force Module」を提供していることがNPRの報道（2026年6月19日）で明らかになった。アプリは警察官が市民の顔をスマートフォンで撮影すると、国務省のビザ記録やTSA旅行者認証データを含む2億5,000万件以上の政府記録と照合する仕組みで、撮影画像は15年間DHSシステムに保存される。アプリは昨年9月に起動済みでミネソタ州やメイン州などの地方警察がすでに運用中という。プライバシー専門家は「日常的な職務停止時に市民一般も対象になりうる」「表現の自由への冷却効果をもたらす」と懸念を示す。連邦機関が担ってきた移民識別業務を地方警察に拡張することで、顔認証技術の使用規模と裾野が一気に広がった形だ。国内では生体データ活用に関する個人情報保護法改正議論が続く中、米国での急速な公権力への浸透が示す「インフラとしての顔認証」の行方は日本の政策論議にも示唆的な事例となると考えられる。",
+    "matched_keyword": "顔認証",
+    "published_at": "2026-06-19",
+    "fetched_at": "2026-06-20T06:11:13+09:00"
+  },
+  {
     "id": "084b0cbde067",
     "title": "Anthropic、デザインツール「Claude Design」を強化　Codeとの双方向連携やCanvaなどへの出力をサポート",
     "url": "https://www.itmedia.co.jp/aiplus/article/2606/18/2000000102/",
