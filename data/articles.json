@@ -1,5 +1,99 @@
 [
   {
+    "id": "fcf2f057db0a",
+    "title": "OpenAI、Google「Gemini」共同リードのノーム・シャジーア氏を獲得 トランプ政権でAI政策を担ったディーン・ボール氏も",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/19/news072.html",
+    "url_normalized": "itmedia.co.jp/news/articles/2606/19/news072.html",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "tags": [
+      "Noam Shazeer",
+      "OpenAI",
+      "Google",
+      "Gemini",
+      "人材競争"
+    ],
+    "summary": "OpenAIは2026年6月18日（米国時間）、Google DeepMindでGeminiモデルの開発を共同で率いてきたノーム・シャジーア（Noam Shazeer）氏が「アーキテクチャ研究」責任者として参加すると発表したとITmedia NEWSが報じた。シャジーア氏は2017年のTransformer提唱論文「Attention Is All You Need」の共著者であり、現代のあらゆる主要LLMの基礎を築いた人物だ。Googleは2024年にCharacter.AIとの技術ライセンス取引で約27億ドルを投じて同氏をGemini開発に迎え入れたが、復帰からわずか2年未満での競合移籍となる。同日、トランプ政権の「AI行動計画」に関与した政策専門家ディーン・ボール氏もOpenAIの「Strategic Futures」責任者に就任することが明らかになった。フロンティアAIの開発競争が激化するなか、次世代LLMのアーキテクチャ設計を担うトップ研究者や政策人材の争奪戦がビッグテック間で本格化していることを象徴する動きだ。シャジーア氏のようなアーキテクチャの第一人者がどのラボで次世代モデル設計に携わるかは、AIアシスタントやエージェントの性能競争の行方に直結し、業務AIの能力水準を左右する可能性があると考えられる。",
+    "matched_keyword": "生成AI",
+    "published_at": "2026-06-19",
+    "fetched_at": "2026-06-22T06:12:15+09:00"
+  },
+  {
+    "id": "fc08b6671276",
+    "title": "Claudeの利用に身分証明が必須に？ Anthropicが規約改定で進めるAIの厳格な本人確認",
+    "url": "https://xenospectrum.com/anthropic-claude-identity-verification-privacy-policy/",
+    "url_normalized": "xenospectrum.com/anthropic-claude-identity-verification-privacy-policy",
+    "source": "XenoSpectrum",
+    "lang": "ja",
+    "tags": [
+      "Anthropic",
+      "Claude",
+      "本人確認",
+      "生体認証",
+      "プライバシー"
+    ],
+    "summary": "Anthropicは2026年6月8日にプライバシーポリシーを改定し、7月8日の発効をもって個人向けClaude利用者（Free・Pro・Maxプラン）に対して政府発行の身分証明書と顔の生体データ（フェイシャル・ジオメトリー）の提供を求めることができると明記した。XenoSpectrumが報じた内容によると、収集対象は政府ID・記載情報（氏名・生年月日・ID番号）・顔写真または動画・顔の幾何学的特徴テンプレートで、第三者検証業者「Persona」を介して処理され、Anthropic社内システムには複製されないとされる。ビジネス向けプラン（Team・Enterprise・API）は対象外で、確認は不正利用が疑われるケースを中心に実施するとしているものの、どの条件でトリガーされるか・データ保持期間・拒否時の対応などが明示されておらず、ユーザーコミュニティから「信頼の裏切り」と強い批判が上がっている。背景には米国政府による輸出管理措置（Fable 5提供停止）や競合他社によるモデル「蒸留」への対策がある可能性がある。消費者向け生成AIサービスが顔認証水準の本人確認を個人ユーザーに求める先例を作ることになり、AIサービスへのアクセス管理のあり方や個人情報保護上の課題をめぐる議論が今後一層深まると考えられる。",
+    "matched_keyword": "生成AI",
+    "fetched_at": "2026-06-22T06:12:15+09:00"
+  },
+  {
+    "id": "7536de1e3ed8",
+    "title": "Metal Detectorist Finds Rare 2,700-Year-Old Bronze Sword Buried Upright in a Polish Forest",
+    "url": "https://arkeonews.net/metal-detectorist-finds-rare-2700-year-old-bronze-sword-buried-upright-in-a-polish-forest/",
+    "url_normalized": "arkeonews.net/metal-detectorist-finds-rare-2700-year-old-bronze-sword-buried-upright-in-a-polish-forest",
+    "source": "Arkeonews",
+    "lang": "en",
+    "tags": [
+      "考古学",
+      "ポーランド",
+      "青銅器時代",
+      "青銅剣",
+      "金属探知機"
+    ],
+    "summary": "ポーランドの金属探知機愛好家マルチン・ウィシニエフスキは2026年6月、グダニスク周辺の森林地区で合法的な探知活動中に、地中に直立した状態で埋まった青銅製の剣を発見したとArkeonewsが2026年6月20日に報じた。ポメラニア州文化財保存官の鑑定では紀元前900〜700年の青銅器時代第5期に属するとされ、発見者は感動で涙が出るほどだったと述べ、遺物を枝で覆い当局の到着を待って安全に引き渡した。1920年代に同地域で類似の青銅剣2本が出土したが第二次世界大戦中に失われており、今回の発見はその空白を部分的に埋める可能性を持つ。剣が直立で埋納された理由は未解明で、意図的な隠蔵品か儀礼的埋葬かあるいは別の目的があったのかを考古学者が調査中だ。この種の発見においては遺物の損傷なく当局への報告が成功の鍵であり、アマチュアが専門機関と連携して文化遺産を保全するシビックな仕組みの好例といえる。非破壊デジタル計測・金属組成分析・放射性炭素年代測定などの組み合わせで出土品の製作地・流通経路・埋納動機の解明が進み、青銅器時代ヨーロッパの社会構造理解が深まっていくと考えられる。",
+    "matched_keyword": "歴史・教養",
+    "published_at": "2026-06-20",
+    "fetched_at": "2026-06-22T06:12:15+09:00"
+  },
+  {
+    "id": "40657d72b24a",
+    "title": "Second Heracles Kynagidas Inscription Found at Heraclea Sintica in Bulgaria",
+    "url": "https://arkeonews.net/second-heracles-kynagidas-inscription-found-at-heraclea-sintica-in-bulgaria/",
+    "url_normalized": "arkeonews.net/second-heracles-kynagidas-inscription-found-at-heraclea-sintica-in-bulgaria",
+    "source": "Arkeonews",
+    "lang": "en",
+    "tags": [
+      "考古学",
+      "ブルガリア",
+      "ヘラクレア・シンティカ",
+      "ヘラクレス",
+      "碑文"
+    ],
+    "summary": "ブルガリア科学アカデミー国立考古学研究所のルドミル・ヴァガランスキー教授率いる調査チームは2026年6月の発掘で、ブルガリア南西部の古代都市ヘラクレア・シンティカにおいて「ヘラクレス・キュナギダス（狩猟のヘラクレス）」への奉献を示す2番目の石製碑文を発見したとArkeonewsが2026年6月19日に報じた。碑文は先日出土した祭壇近くの石製の杯の表面に刻まれており、マケドニア様式の盾の浮き彫りと、馬または猪の頭部とみられる図像が組み合わされている。ヘラクレア・シンティカはマケドニア王フィリッポス2世が紀元前4世紀に建設した都市で、今回は複数の碑文・祭壇・儀礼道具が同一文脈で出土したことで、組織的な狩猟神崇拝の儀礼複合体の存在が浮かび上がった。マケドニア式盾との図像的結びつきは、狩猟儀礼が政治・軍事秩序と密接に関連していた可能性を示唆し、古代マケドニア文化圏の宗教・社会構造の理解に新たな一次資料を提供する。デジタル3D記録と文脈的な出土品分析の組み合わせにより碑文単体では見えなかった宗教的景観が明らかになりつつあり、フィリッポス2世以降のマケドニア文化圏の広がりを再評価する研究が今後さらに進展すると考えられる。",
+    "matched_keyword": "歴史・教養",
+    "published_at": "2026-06-19",
+    "fetched_at": "2026-06-22T06:12:15+09:00"
+  },
+  {
+    "id": "27a78e5d32f2",
+    "title": "大阪メトロは「月1000件の社内問い合わせを効率化」にAIをどう使った？",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2606/19/news113.html",
+    "url_normalized": "kn.itmedia.co.jp/kn/articles/2606/19/news113.html",
+    "source": "キーマンズネット",
+    "lang": "ja",
+    "tags": [
+      "大阪メトロ",
+      "PKSHA",
+      "AIヘルプデスク",
+      "社内問い合わせ",
+      "Microsoft Teams"
+    ],
+    "summary": "大阪市高速電気軌道（Osaka Metro）は2025年12月から経理部・デジタル推進部で「PKSHA AIヘルプデスク」の先行導入を開始し、2026年5月から人事部・調達部への展開を拡大したとキーマンズネットが2026年6月19日に報じた。従来は問い合わせが個人依存の電話対応に集中し（月約1,000件のうち90%以上が電話）、担当者への負荷集中と情報の属人化が課題だった。AIシステムはMicrosoft Teams上で動作し、SharePointと連携して過去のFAQや対応履歴から即座に回答を生成し、対応が難しい問い合わせは適切なスタッフへ自動振り分けする仕組みだ。2026年5月以降は経理部の「オペレーター回答支援エージェント」として過去対応履歴から回答案を自動提案するなど、単純な自動回答を超えた活用が進んでいる。全社員約5,000人へのTeams一元化完了後はナレッジの継続的な蓄積・精度向上を見込んでおり、問い合わせログ自体がFAQ拡充の訓練データとして機能する設計だ。鉄道・インフラ企業では現場部門の問い合わせが多く属人化しやすいが、AIヘルプデスクが知識を組織全体に公開・均一化することで、ベテラン社員への依存が薄れ新入社員でも迅速に動ける環境が整い、本来注力すべき業務への時間配分が改善すると考えられる。",
+    "matched_keyword": "業務改革",
+    "published_at": "2026-06-19",
+    "fetched_at": "2026-06-22T06:12:15+09:00"
+  },
+  {
     "id": "754dffcc995b",
     "title": "理研、AI for Science向けスパコンの名前を「理究」（りきゅう）に決定　由来は？",
     "url": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000110/",
