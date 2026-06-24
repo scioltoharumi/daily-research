@@ -1,5 +1,138 @@
 [
   {
+    "id": "585ebc186264",
+    "title": "「Transformerの最大475倍」 富士通、GPUを効率的に使うLLMアーキテクチャ「PHOTON」開発",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/24/2000000125/",
+    "url_normalized": "itmedia.co.jp/aiplus/article/2606/24/2000000125",
+    "source": "ITmedia AI+",
+    "lang": "ja",
+    "published_at": "2026-06-24",
+    "fetched_at": "2026-06-24T09:00:00+09:00",
+    "keyword": "生成AI",
+    "tags": [
+      "富士通",
+      "PHOTON",
+      "LLMアーキテクチャ",
+      "GPU効率化",
+      "研究発表"
+    ],
+    "summary": "富士通は2026年6月24日、Transformerの最大475倍の計算効率を誇る独自LLMアーキテクチャ「PHOTON」を発表した。同社の研究チームが開発したPHOTONは、Transformerのself-attentionメカニズムを再設計し、GPU使用率を抑えながら大規模言語モデルの推論速度を飛躍的に向上させる。既存インフラへの投資を維持しつつ高性能なAIを運用したい企業にとって、LLM導入の経済的障壁を下げる可能性がある。エンタープライズ向けAI基盤を刷新する上での技術選定や、クラウドサービスのコスト最適化戦略に直結する成果として注目される。"
+  },
+  {
+    "id": "a50e673177a1",
+    "title": "Anthropic、Slackで「＠Claude」を呼べる「Claude Tag」提供──チームの一員として非同期でタスク遂行",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/24/2000000120/",
+    "url_normalized": "itmedia.co.jp/aiplus/article/2606/24/2000000120",
+    "source": "ITmedia AI+",
+    "lang": "ja",
+    "published_at": "2026-06-24",
+    "fetched_at": "2026-06-24T09:00:00+09:00",
+    "keyword": "生成AI",
+    "tags": [
+      "Anthropic",
+      "Claude Tag",
+      "Slack",
+      "AIエージェント",
+      "チーム協働"
+    ],
+    "summary": "AnthropicはSlackとの統合機能「Claude Tag」を提供開始した。ユーザーはSlackのチャンネルやDMで「＠Claude」とメンションするだけでClaude AIを呼び出し、要約・調査・コード生成などのタスクを非同期で依頼できる。Claudeはスレッドの文脈を理解した上で回答を生成し、会話の流れを維持する。AIエージェントがSaaS業務ツールに深く統合されていく動きが加速しており、既存のコミュニケーション基盤を変えずにAI活用を推進したい企業に即戦力となるソリューションとして評価される。"
+  },
+  {
+    "id": "09f021c24a86",
+    "title": "「Backlog」のAI業務自動化ツールを提供開始 一部ユーザーには無償提供",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2606/22/news034.html",
+    "url_normalized": "kn.itmedia.co.jp/kn/articles/2606/22/news034.html",
+    "source": "キーマンズネット",
+    "lang": "ja",
+    "published_at": "2026-06-22",
+    "fetched_at": "2026-06-24T09:00:00+09:00",
+    "keyword": "業務改革",
+    "tags": [
+      "Backlog",
+      "Nulab Flowbase",
+      "ワークフロー自動化",
+      "プロジェクト管理",
+      "中小企業"
+    ],
+    "summary": "NulabはプロジェクトトラッキングツールBacklogに連携するAI業務自動化ツール「Nulab Flowbase」の提供を開始した。タスクのステータス更新や担当者アサイン、通知送信などのワークフローをノーコードで自動化でき、一部プランのユーザーには無償で提供される。開発・制作現場での反復的なプロジェクト管理工数を削減し、チームが本来の創造的業務に集中できる環境を整える。SaaSに内包されたAI自動化がエントリー層のDXを底上げする例として、中小企業の業務改革推進担当者にとって参考になる事例だ。"
+  },
+  {
+    "id": "e72c559cf087",
+    "title": "「運用負荷は減った、だが心理負担は増えた」 結局は人が面倒を見る\"AI運用の矛盾\"",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/22/news046.html",
+    "url_normalized": "atmarkit.itmedia.co.jp/ait/articles/2606/22/news046.html",
+    "source": "@IT",
+    "lang": "ja",
+    "published_at": "2026-06-22",
+    "fetched_at": "2026-06-24T09:00:00+09:00",
+    "keyword": "業務改革",
+    "tags": [
+      "AIOps",
+      "AI運用",
+      "心理的負担",
+      "IT運用",
+      "説明可能AI"
+    ],
+    "summary": "AIによるIT運用自動化（AIOps）を導入した現場から「アラート対応件数は減ったが、AIの判断を信頼していいか確認する心理的負荷が増えた」という声が相次いでいる。本記事はその実態を複数企業の事例から掘り起こし、「自動化≠負荷ゼロ」という運用現場の矛盾を明らかにする。AIの判断根拠の不透明さがオペレーターの不安を生み、結果として人間が二重チェックする習慣が定着しているという。説明可能AIや段階的な自律化設計の重要性が改めて浮き彫りになっており、AI導入後の組織・プロセス設計を検討する担当者に示唆が大きい。"
+  },
+  {
+    "id": "e7ac1310f3a5",
+    "title": "2,500-Year-Old Bronze Ritual Cart Unearthed at a Tartessian Site: Archaeologists Say Nothing Like It Has Ever Been Found",
+    "url": "https://arkeonews.net/2500-year-old-bronze-ritual-cart-unearthed-at-a-tartessian-site-archaeologists-say-nothing-like-it-has-ever-been-found/",
+    "url_normalized": "arkeonews.net/2500-year-old-bronze-ritual-cart-unearthed-at-a-tartessian-site-archaeologists-say-nothing-like-it-has-ever-been-found",
+    "source": "Arkeonews",
+    "lang": "en",
+    "published_at": "2026-06-24",
+    "fetched_at": "2026-06-24T09:00:00+09:00",
+    "keyword": "歴史・教養",
+    "tags": [
+      "考古学",
+      "タルテッソス",
+      "スペイン",
+      "青銅器",
+      "儀式用品"
+    ],
+    "summary": "スペイン南西部のタルテッソス文明遺跡で、約2500年前の青銅製儀式用カートが発掘された。同種の発見は世界初とされ、考古学者たちは前例のない造形と保存状態の良さに注目している。タルテッソスはフェニキア人との交易で栄えたイベリア半島の古代文明で、その宗教儀礼の実態はこれまで謎が多かった。今回の発見は儀式用具の具体的形態を初めて示すもので、古代地中海世界における文化交流と宗教実践の研究に新たな視点をもたらす。歴史・考古学に関心を持つ読者にとって、既知の古代文明像を更新する興味深い成果だ。"
+  },
+  {
+    "id": "51048dfcc8a1",
+    "title": "12,000-Year-Old Clay Containers in Türkiye Reveal Pottery Began as an Experiment in Southwest Asia",
+    "url": "https://arkeonews.net/12000-year-old-clay-containers-in-turkiye-reveal-pottery-began-as-an-experiment-in-southwest-asia/",
+    "url_normalized": "arkeonews.net/12000-year-old-clay-containers-in-turkiye-reveal-pottery-began-as-an-experiment-in-southwest-asia",
+    "source": "Arkeonews",
+    "lang": "en",
+    "published_at": "2026-06-24",
+    "fetched_at": "2026-06-24T09:00:00+09:00",
+    "keyword": "歴史・教養",
+    "tags": [
+      "考古学",
+      "土器起源",
+      "トルコ",
+      "先史時代",
+      "新石器時代"
+    ],
+    "summary": "トルコで発見された約1万2000年前の粘土容器の分析から、土器の発明が西南アジアで独自に起きた「実験的プロセス」であったことが示された。これまで土器の起源は東アジアとの比較で論じられることが多かったが、今回の研究は中東・アナトリア地域における独立した技術発展を裏付ける。食料貯蔵や調理への転用が文明の定住化を加速させた可能性が再検討されており、農耕と土器技術の共進化に関する定説を揺るがす発見として評価される。人類史の黎明期における技術革新に興味を持つ読者に特に推奨される。"
+  },
+  {
+    "id": "98cf1e6d4c0a",
+    "title": "Two Newly Discovered Sermons by St Augustine Tackle a Dangerous Biblical Mystery",
+    "url": "https://arkeonews.net/two-newly-discovered-sermons-by-st-augustine-tackle-a-dangerous-biblical-mystery/",
+    "url_normalized": "arkeonews.net/two-newly-discovered-sermons-by-st-augustine-tackle-a-dangerous-biblical-mystery",
+    "source": "Arkeonews",
+    "lang": "en",
+    "published_at": "2026-06-24",
+    "fetched_at": "2026-06-24T09:00:00+09:00",
+    "keyword": "歴史・教養",
+    "tags": [
+      "古文書",
+      "アウグスティヌス",
+      "写本",
+      "キリスト教神学",
+      "中世"
+    ],
+    "summary": "中世神学の巨人アウグスティヌス（354–430年）の未発表説教2篇が新たに発見された。これらの写本は聖書中の「危険な謎」とされる箇所──神の本性と人間の自由意志の矛盾──を正面から論じており、アウグスティヌス神学の形成過程を知る上で貴重な一次資料となる。欧州の修道院文書庫のデジタル化プロジェクトが進む中で発掘された今回の発見は、古文書研究とデジタル人文学の連携がいかに新知識を生み出すかを示す好例でもある。宗教思想史・中世哲学を学ぶ読者だけでなく、歴史的文書のデジタル保存に関心を持つ実務者にも示唆がある。"
+  },
+  {
     "id": "b0edd4bb2cbd",
     "title": "AIに頼ると技術が落ちる？　医師・エンジニアたちの懸念、検証結果は……Natureも警鐘",
     "url": "https://www.itmedia.co.jp/news/articles/2606/22/news041.html",
