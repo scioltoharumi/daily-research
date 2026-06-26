@@ -1,5 +1,157 @@
 [
   {
+    "id": "27dd1cb5a8dd",
+    "title": "Congress Opens $69.5 Billion Pipeline for Border Tech and Biometric Expansion",
+    "url": "https://www.biometricupdate.com/202606/congress-opens-69-5-billion-pipeline-for-border-tech-biometric-expansion",
+    "url_normalized": "biometricupdate.com/202606/congress-opens-69-5-billion-pipeline-for-border-tech-biometric-expansion",
+    "source": "Biometric Update",
+    "lang": "en",
+    "published_at": "2026-06-26",
+    "fetched_at": "2026-06-26T09:00:00+09:00",
+    "matched_keyword": "顔認証",
+    "tags": [
+      "米国",
+      "生体認証",
+      "国境管理",
+      "規制",
+      "移民政策"
+    ],
+    "summary": "米国議会が2026年6月10日に署名発効した「Secure America Act」によって、DHS（国土安全保障省）向けの695億ドル規模の資金配分が確定した。このうちCBP（税関・国境警備局）の国境技術・スクリーニング部門に34.5億ドルが割り当てられ、法文上は顔認証を含む生体認証出入国管理システムへの充当が明示的に認められている。ただし顔認証・指紋・虹彩認証への個別配分額はCBPの裁量に委ねられており、実際の展開規模は今後の執行方針次第だ。背景には2010年代から整備が進む米国の生体認証出入国管理システムと、トランプ政権下での移民取締強化方針がある。CBPはすでに主要空港での顔認証照合を順次標準化しており、今回の大規模資金投入でその展開がさらに加速する見通しだ。国家主導で生体認証インフラが大規模に拡充されることで、行政・法執行分野での顔認証活用が一層深化し、国際的にも類似の政策が追随する可能性があると考えられる。"
+  },
+  {
+    "id": "b1f61cf9b250",
+    "title": "Tasmania Removes Driver Photos from National Face Biometrics Database",
+    "url": "https://www.biometricupdate.com/202606/tasmania-removes-driver-photos-from-national-face-biometrics-database",
+    "url_normalized": "biometricupdate.com/202606/tasmania-removes-driver-photos-from-national-face-biometrics-database",
+    "source": "Biometric Update",
+    "lang": "en",
+    "published_at": "2026-06-26",
+    "fetched_at": "2026-06-26T09:00:00+09:00",
+    "matched_keyword": "顔認証",
+    "tags": [
+      "オーストラリア",
+      "プライバシー",
+      "生体認証データベース",
+      "運転免許",
+      "同意"
+    ],
+    "summary": "オーストラリアのタスマニア州政府は2026年6月、国家運転免許証顔認証データベース「FaceVerify」から、2018年12月〜2020年12月にアップロードされた州内の運転免許証写真46万8,000件を削除したとBiometric Updateが報じた。これらの写真は免許保有者本人の同意なしにアップロードされており、かつシステムを規制する連邦法が整備される前のことであった。タスマニア州は「当初から正式な参加契約を締結していなかった」と説明している。州政府はデータセキュリティへの懸念と、同意のない生体データ収集の問題を理由に削除を決定した。州議会では現在、カジノ等のギャンブル施設への顔認証義務導入提案も審議中であり、「国家データベースで安全が保証できないのにカジノでどう保証するのか」という矛盾が問題となっている。政府データベースに一度収録された顔認証データが事後的に削除された例として、生体データの収集・管理ガバナンスのあり方をめぐる各国の規制論議に影響を与える可能性があると考えられる。"
+  },
+  {
+    "id": "9151d10c6353",
+    "title": "4,000-Year-Old Sealed Cuneiform Letters from Anatolia Read Without Breaking Their Clay Envelopes",
+    "url": "https://arkeonews.net/4000-year-old-sealed-cuneiform-letters-from-anatolia-read-without-breaking-their-clay-envelopes/",
+    "url_normalized": "arkeonews.net/4000-year-old-sealed-cuneiform-letters-from-anatolia-read-without-breaking-their-clay-envelopes",
+    "source": "Arkeonews",
+    "lang": "en",
+    "published_at": "2026-06-26",
+    "fetched_at": "2026-06-26T09:00:00+09:00",
+    "matched_keyword": "歴史・教養",
+    "tags": [
+      "考古学",
+      "アナトリア",
+      "楔形文字",
+      "非破壊検査",
+      "古代商業"
+    ],
+    "summary": "研究チームが、トルコ中央アナトリアの古代商業都市カネシュ（現キュルテペ遺跡）で出土した紀元前19〜18世紀のアッシリア商人の密封粘土板文書を、外側の封筒を割らずに内部の楔形文字を解読することに初めて成功したとArkeonewsが2026年6月26日に報じた。使用されたのはENCI（Extracting Non-destructively Cuneiform Inscriptions）と命名された重量約420キロ・8ユニット構成の可搬型X線CTスキャナーで、アンカラのアナトリア文明博物館所蔵の遺物に適用された。従来は密封文書の内容確認に外側を物理的に割る必要があり、多くの遺物が開封済みになってきた。解読された文書からは、商人家計を取り仕切る女性アンナ=アンナら、これまでの記録で見落とされてきた人物たちの経済活動が明らかになった。非破壊技術の進化により博物館に眠る未開封の密封粘土板への再アクセスが可能になれば、古代近東の経済・社会史の研究が根本から刷新される可能性があると考えられる。"
+  },
+  {
+    "id": "b6c0018c6ee4",
+    "title": "3,000-Year-Old Western Zhou Fiefdom Unearthed in Shaanxi Reveals a Hidden Network of Royal Power",
+    "url": "https://arkeonews.net/3000-year-old-western-zhou-fiefdom-unearthed-in-shaanxi-reveals-a-hidden-network-of-royal-power/",
+    "url_normalized": "arkeonews.net/3000-year-old-western-zhou-fiefdom-unearthed-in-shaanxi-reveals-a-hidden-network-of-royal-power",
+    "source": "Arkeonews",
+    "lang": "en",
+    "published_at": "2026-06-26",
+    "fetched_at": "2026-06-26T09:00:00+09:00",
+    "matched_keyword": "歴史・教養",
+    "tags": [
+      "考古学",
+      "中国",
+      "西周",
+      "陝西省",
+      "封建制"
+    ],
+    "summary": "中国・陝西省富平県の長春遺跡（約220万平方メートル）で、西周時代中期から後期（紀元前11世紀〜771年頃）の大規模な諸侯領が確認されたとArkeonewsが2026年6月26日に報じた。3,150基以上の墓と戦車坑から成る墓地群に加え、居住区跡も含まれており、研究チームは「この規模と組織化の水準は東関中地区では前例がない」と評価する。副葬品として青銅器・陶器・玉製品が大量に出土し、精緻な階層的埋葬制度と経済的中枢としての機能が裏付けられた。西周は天子が諸侯に土地と民を封建する制度を整備した時代で、今回の発見は王権の地方統治ネットワークの実態を物質資料で示す一次証拠となる。陝西省は西周の中心的な領土であり、今後の発掘進展によって周王朝の権力構造や文化圏の広がりについての理解がさらに精緻化されると考えられる。"
+  },
+  {
+    "id": "ae07423091fa",
+    "title": "OpenAI、「GPT-5.6」のリリースは特定のパートナーに限定か 上場は来年への延期を検討",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/26/news104.html",
+    "url_normalized": "itmedia.co.jp/news/articles/2606/26/news104",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "published_at": "2026-06-26",
+    "fetched_at": "2026-06-26T09:00:00+09:00",
+    "matched_keyword": "生成AI",
+    "tags": [
+      "OpenAI",
+      "GPT-5.6",
+      "IPO",
+      "規制対応",
+      "段階的展開"
+    ],
+    "summary": "米ニューヨーク・タイムズ等の報道をもとにITmedia NEWSが2026年6月26日に報じたところによると、OpenAIは新モデル「GPT-5.6」を特定のパートナー企業向けプレビュー版に限定して提供し、一般向けリリースは段階的に管理している。IPO（新規株式公開）については早期実施か、1兆ドル超の企業価値を達成した上で2027年以降に上場するかという選択肢を顧問団が提示しており、検討が続いているとされる。OpenAIは国家科学技術諮問委員会（ONCD）や科学技術政策局（OSTP）からの要件への対応も並行して進めており、先端AIモデルの展開を規制面での審査プロセスと連動させる姿勢が伺える。独自チップ「Jalapeno」の社内運用開始やIPOに向けた体制整備と並行して、新モデルの段階的展開により安全評価・ビジネス交渉・規制対応を並走させる戦略をとっていると考えられる。モデルの一般公開前に特定パートナーとの実証を経る慣行が定着すれば、早期アクセスを得られる企業とそうでない企業との間で、AI実装速度に格差が生まれる可能性があると考えられる。"
+  },
+  {
+    "id": "b9c97355a777",
+    "title": "Amazon Bedrockのトークン処理量、26年1Qだけで過去累計超え　AWSが目指す、AIのための「信頼できるインフラ」",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/26/2000000131/",
+    "url_normalized": "itmedia.co.jp/aiplus/article/2606/26/2000000131",
+    "source": "ITmedia AI+",
+    "lang": "ja",
+    "published_at": "2026-06-26",
+    "fetched_at": "2026-06-26T09:00:00+09:00",
+    "matched_keyword": "生成AI",
+    "tags": [
+      "AWS",
+      "Amazon Bedrock",
+      "AIインフラ",
+      "クラウド",
+      "エンタープライズAI"
+    ],
+    "summary": "AWSジャパンが2026年6月26日に都内で開催した「AWS Summit Japan 2026」の基調講演で、Amazon Bedrockの2026年第1四半期のトークン処理量が「それ以前のすべての期間の合計を上回った」と発表したとITmedia AI+が同日報じた。生成AIの推論処理の急増を背景に「AI推論は地球上で最大のワークロードになりつつある」との表現も使われた。AWSジャパンは2027年末までに約3.8兆円を国内インフラへ投資する方針を明らかにし、OpenAIとのパートナーシップによりAmazon BedrockでGPT-5.5が利用可能になったことも発表した。エンタープライズが単一クラウド上で複数の先端モデルを比較・切り替えできる体制が整いつつある。AIエージェントが計画・検証・生成と複数の推論サイクルを重ねる使われ方が拡大するにつれて推論コストと処理量が急増しており、クラウド各社がAIインフラへの大型投資を競争的に進める構図が明確になっている。複数ベンダーのモデルを同一基盤で切り替えられる環境が整うことで、企業はワークロードの性質に応じたモデル選択とコスト最適化が現実的に行えるようになると考えられる。"
+  },
+  {
+    "id": "33f3e1082692",
+    "title": "世界のAI支出は2026年に47%増と予想、2027年には3兆4933億ドルまで拡大 ― Gartner調査",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/26/news055.html",
+    "url_normalized": "atmarkit.itmedia.co.jp/ait/articles/2606/26/news055",
+    "source": "@IT",
+    "lang": "ja",
+    "published_at": "2026-06-26",
+    "fetched_at": "2026-06-26T09:00:00+09:00",
+    "matched_keyword": "業務改革",
+    "tags": [
+      "Gartner",
+      "AI投資",
+      "AI支出",
+      "エンタープライズAI",
+      "ROI"
+    ],
+    "summary": "調査会社Gartnerが2026年6月26日に発表した予測によると、2026年の世界AI支出は前年比47%増の約2兆5,956億ドルに達し、2027年にはさらに約3兆4,933億ドルまで拡大する見通しだと@ITが報じた。同社のアナリストは「ここ数年の投資の焦点はAI基盤モデルに集中していたが、今は実装段階へと移行している」と指摘し、統合AI・エンタープライズAIソフトウェアへの移行が支出増の主な原動力になっているとした。CIOに求められるのはAI導入がビジネスにどの程度貢献しているかを定量的に示すことで、具体的な目標設定と投資対効果の計測が急務になっているという。生成AIが「実験フェーズ」から「収益化フェーズ」に移行しつつある2026年において、技術投資がコスト削減や売上成長にどう結びついているかを組織として可視化する仕組み作りが競争力を左右するようになると考えられる。明確なROI指標を持つ業務領域にAI活用が絞り込まれていく流れは、効果の高い業務改善への投資集中をもたらし、無駄な作業の削減が加速する可能性があると考えられる。"
+  },
+  {
+    "id": "8413256050fe",
+    "title": "リコーが多能工ヒューマノイドを披露、工場ではPoCから導入に向けた実証段階へ",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/26/news056.html",
+    "url_normalized": "monoist.itmedia.co.jp/mn/articles/2606/26/news056",
+    "source": "MONOist",
+    "lang": "ja",
+    "published_at": "2026-06-26",
+    "fetched_at": "2026-06-26T09:00:00+09:00",
+    "matched_keyword": "業務改革",
+    "tags": [
+      "リコー",
+      "ヒューマノイドロボット",
+      "AWS Summit",
+      "工場自動化",
+      "生成AI"
+    ],
+    "summary": "リコーは2026年6月26日に東京で開催された「AWS Summit Japan 2026」で、生成AIを搭載したヒューマノイドロボット「Unitree G1」のデモを公開したとMONOistが同日報じた。同社は2025年から工場でのPoC（概念実証）を開始しており、現在4種類のロボットスキルを開発中だ。スキルの学習はAWSのクラウド上で行われ、VRヘッドセットを装着した人間が作業する様子の3D映像を生成AIが解析し、ロボットの訓練データとして活用する仕組みを採用している。「実際の工場での実用化を見据えて技術を磨き上げていく」という方針のもと、デモから本格導入に向けた実証段階へ移行しているという。製造業の人手不足解消策としてヒューマノイドロボットへの期待は高まっているが、工場環境での実用化には多様な作業への対応力が必要だ。VRと生成AIを組み合わせた人間の動作データ収集・訓練パイプラインが確立されれば、特定の作業スキルを人間からロボットへ効率的に「移転」する手法として応用が広がり、製造現場の重筋作業から人を解放する変化が加速すると考えられる。"
+  },
+  {
     "id": "a526f0183ca3",
     "title": "OpenAI、初の独自AIチップ「Jalapeno」発表──Broadcomと共同開発の推論用アクセラレータ",
     "url": "https://www.itmedia.co.jp/aiplus/article/2606/25/2000000126/",
