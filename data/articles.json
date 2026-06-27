@@ -1,5 +1,100 @@
 [
   {
+    "id": "7def851ccbdd",
+    "title": "OpenAI、次世代「GPT-5.6」シリーズを限定プレビュー 米政府と調整、命名は「Sol／Terra／Luna」に刷新",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/27/2000000134/",
+    "url_normalized": "itmedia.co.jp/aiplus/article/2606/27/2000000134",
+    "source": "ITmedia AI+",
+    "lang": "ja",
+    "published_at": "2026-06-27",
+    "fetched_at": "2026-06-28T06:09:40+09:00",
+    "matched_keyword": "生成AI",
+    "tags": [
+      "OpenAI",
+      "GPT-5.6",
+      "Sol",
+      "限定プレビュー",
+      "政府調整"
+    ],
+    "summary": "OpenAIは2026年6月26日（日本時間27日）、次世代AIモデル「GPT-5.6」シリーズをITmedia AI+が報じた。Sol（最上位）・Terra（日常業務向けバランス型）・Luna（高速低コスト）の3モデル構成で、Solは現時点のOpenAI最高性能とされ、コーディング・生物学・サイバーセキュリティにおけるエージェント能力を強化したほか、深い推論のための「max」モードと複数サブエージェントを並走させる「ultra」モードを新設した。API価格はSolが入力$5・出力$30、Terraが$2.5/$15、Lunaが$1/$6（100万トークン）と、用途に応じた段階設計だ。当初は米政府の要請により、政府が承認した約20社のパートナーへの限定プレビューから開始し、数週間以内の一般提供を目指す。安全対策には70万A100換算GPU時間超の自動レッドチームを含む多層防御を組み込んだ。先端モデルの展開を政府と事前調整するという前例のないアプローチは、AIが社会インフラとして扱われ始めた時代を象徴する。Lunaで定型タスクを低コスト自動化し、Solで複雑な判断を深く推論するという用途別のモデル選択が現実的になれば、業務AIの費用対効果を最大化する設計の余地が広がると考えられる。"
+  },
+  {
+    "id": "e7f5222ebe09",
+    "title": "GoogleからAIの大物の流出が相次ぐ　ノーベル賞研究者がAnthropic、Gemini共同リードはOpenAIへ",
+    "url": "https://ledge.ai/articles/google_deepmind_openai_anthropic_ai_talent_move",
+    "url_normalized": "ledge.ai/articles/google_deepmind_openai_anthropic_ai_talent_move",
+    "source": "Ledge.ai",
+    "lang": "ja",
+    "published_at": "2026-06-23",
+    "fetched_at": "2026-06-28T06:09:40+09:00",
+    "matched_keyword": "生成AI",
+    "tags": [
+      "Google DeepMind",
+      "Anthropic",
+      "人材流出",
+      "AlphaFold",
+      "OpenAI"
+    ],
+    "summary": "AlphaFold開発の中心人物でありノーベル化学賞（2024年）を受賞したジョン・ジャンパー氏が2026年6月19日、Google DeepMindを離れAnthropicへ移籍することが明らかになったとLedge.aiが6月23日に報じた。同じく同月18日にはTransformerアーキテクチャの共著者でGeminiの共同リードを担ってきたノーム・シャジーア氏がOpenAIへの移籍を発表し、3日以内に2人の主要研究者を失ったGoogleは6月22日に株価が約7%下落、時価総額で約2,100億ドルが消失した。さらにBloombergは6月24日、GeminiチームからさらにJonas AdlerとAlexander Pritzelの2名もAnthropicに移る見通しと報じた。背景には社内の官僚的な意思決定プロセス・計算資源の配分方針をめぐる摩擦・スタートアップ的な集中力の欠如が指摘されており、OpenAIとAnthropicがIPOに向けたエクイティ報酬を武器に積極的な人材獲得を展開していることも一因とされる。最前線の研究者の移籍先が今後の先端AIモデルの設計方針や能力水準を左右する可能性があり、どのサービスが業務AIとして最も役立つツールになるかという競争軸に影響すると考えられる。"
+  },
+  {
+    "id": "8f3cd5cb4bf5",
+    "title": "NECのJR東向け顔認証改札機が「レッドドット・デザイン賞」最高賞",
+    "url": "https://www.dempa-times.co.jp/telecommunications/51324/",
+    "url_normalized": "dempa-times.co.jp/telecommunications/51324",
+    "source": "電波タイムズ",
+    "lang": "ja",
+    "published_at": "2026-06-12",
+    "fetched_at": "2026-06-28T06:09:40+09:00",
+    "matched_keyword": "顔認証",
+    "tags": [
+      "NEC",
+      "JR東日本",
+      "顔認証改札",
+      "レッドドット",
+      "新幹線"
+    ],
+    "summary": "NECが開発したJR東日本向け顔認証改札機が、2026年6月12日に「レッドドット・デザイン賞2026」の最高賞「Best of the Best」を受賞したと電波タイムズが報じた。1955年創設のドイツの権威あるプロダクトデザイン賞で、応募総数約2万件のうち最高賞は全体の1%未満に与えられる。受賞した改札機は、NECの世界最高精度の顔認証技術を核に、ICカードや切符を取り出さず顔をかざすだけで改札を通過できる設計だ。既設の改札機の上から被せる方式のため設備改修コストを抑えつつ、フラットで低い筐体が視認性と安全性に配慮している。JR東日本は2025年秋から上越新幹線の新潟・長岡駅で実証実験を実施し、「Suica Renaissance」構想の一環として顔認証の本格展開を見据えている。AI生体認証の社会インフラ化が各国で進むなか、デザイン賞受賞は顔認証機器が「機能性と利用体験の両立」を求められる段階に入ったことを示す。手荷物を持つ通勤者や子連れ利用者が改札でカードを出す手間が省けることは、日々の移動体験の小さな摩擦を取り除く積み重ねになると考えられる。"
+  },
+  {
+    "id": "bab22eab510f",
+    "title": "Christianity May Have Brought an End to a 1,700-Year-Old Mithras Temple in Türkiye",
+    "url": "https://arkeonews.net/christianity-may-have-brought-an-end-to-a-1700-year-old-mithras-temple-in-turkiye/",
+    "url_normalized": "arkeonews.net/christianity-may-have-brought-an-end-to-a-1700-year-old-mithras-temple-in-turkiye",
+    "source": "Arkeonews",
+    "lang": "en",
+    "published_at": "2026-06-27",
+    "fetched_at": "2026-06-28T06:09:40+09:00",
+    "matched_keyword": "歴史・教養",
+    "tags": [
+      "考古学",
+      "トルコ",
+      "ミトラス教",
+      "キリスト教",
+      "ローマ帝国"
+    ],
+    "summary": "トルコ南東部ディヤルバクル県ゼルゼヴァン城で、キリスト教が約1,700年前のミトラス神殿を封鎖した考古学的痕跡が新たに解読されたとArkeonewsが2026年6月27日に報じた。発掘責任者のアイタチュ・コシュクン教授（ディチェ大学）が調査するゼルゼヴァン城には地下約7×5×2.5メートルの神殿空間が保存されており、マルディン・アルトゥクル大学のメフメト・サイト・トプラク教授がアラム語・シリア語碑文学の手法で入口の碑文を解析した結果、「聖十字」への言及が確認された。これにより神殿の封鎖・廃棄がキリスト教化の過程として意図的に行われた可能性が浮上した。ゼルゼヴァン城は東方属州における主要なローマ軍事拠点であり、3〜4世紀に隆盛したミトラス教（主にローマ将校に信仰された秘儀宗教）の神殿がここで終焉を迎えた具体的な記録は極めて希少だ。宗教転換が「廃棄・封印」という物理的行為で痕跡を残しているという発見は、古代末期における信仰の移行が組織的・意図的に進められたことを物質資料で示す貴重な事例となる。デジタル碑文解析と現場発掘の連携により、文書記録の乏しい宗教史の空白が埋まりつつあると考えられる。"
+  },
+  {
+    "id": "8ed4cde8d677",
+    "title": "New Kangju Inscriptions in Kazakhstan Reveal Written Evidence from a 2,000-Year-Old Central Asian State",
+    "url": "https://arkeonews.net/new-kangju-inscriptions-in-kazakhstan-reveal-written-evidence-from-a-2000-year-old-central-asian-state/",
+    "url_normalized": "arkeonews.net/new-kangju-inscriptions-in-kazakhstan-reveal-written-evidence-from-a-2000-year-old-central-asian-state",
+    "source": "Arkeonews",
+    "lang": "en",
+    "published_at": "2026-06-26",
+    "fetched_at": "2026-06-28T06:09:40+09:00",
+    "matched_keyword": "歴史・教養",
+    "tags": [
+      "考古学",
+      "カザフスタン",
+      "カンジュ王国",
+      "碑文",
+      "中央アジア"
+    ],
+    "summary": "カザフスタン南部のクルトベ遺跡で、紀元前3世紀〜紀元後4世紀頃に中央アジアを支配したカンジュ（康居）王国の文字記録とみられる14点の碑文断片が新たに発掘され、計300〜400字が新記録されたとArkeonewsが2026年6月26日に報じた。南カザフスタン教育大学考古学センターの調査隊が主導したもので、文字群のなかに「テントの民」という民族表記が初めて確認されたほか、文字を複製するための型（マトリックス）とみられる印象物も出土し、一定の行政機能と識字層の存在が示唆された。別の発掘地キリシュザール埋葬地では4つの墓構造が見つかり、18〜20歳の若い女性の遺骸と副葬品が確認された。カンジュ王国はシルクロード時代の中央アジアに大きな影響を持ちながら、これまで中国史書（漢書など）の側からしか語られてこなかった謎の多い政体だ。内部の文字資料が発掘されたことで、王国が独自の文字・行政システムを持っていた可能性が高まり、中央アジア史の書き直しにつながる第一次資料として研究者の注目を集めている。"
+  },
+  {
     "id": "27dd1cb5a8dd",
     "title": "Congress Opens $69.5 Billion Pipeline for Border Tech and Biometric Expansion",
     "url": "https://www.biometricupdate.com/202606/congress-opens-69-5-billion-pipeline-for-border-tech-biometric-expansion",
