@@ -1,5 +1,100 @@
 [
   {
+    "id": "13a135d8cc40",
+    "title": "アクセンチュア・アバナード・マイクロソフト、製造業向けAIエージェントシステム「Agentic Factory」を発表",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/29/news055.html",
+    "url_normalized": "atmarkit.itmedia.co.jp/ait/articles/2606/29/news055.html",
+    "source": "@IT",
+    "lang": "ja",
+    "published_at": "2026-06-29",
+    "fetched_at": "2026-06-30T06:18:03+09:00",
+    "matched_keyword": "業務改革",
+    "tags": [
+      "AIエージェント",
+      "製造業",
+      "Microsoft Azure",
+      "DX",
+      "スマートファクトリー"
+    ],
+    "summary": "アクセンチュア・アバナード・マイクロソフトの3社は2026年5月18日、製造業向けAIエージェントシステム「Agentic Factory」を共同発表した。Azure・Microsoft Fabric・Azure AI Foundry・Copilotで構成する「Factory Agents and Analytics」プラットフォームが生産ラインの過去データをリアルタイムで解析し、障害発生を事前検知・可視化する。異常時は「セキュリティ・パケット」を自動実行して対応を支援する機能も持つ。パイロット企業としてKrugerとNissha Metallizing Solutions（NMS）が採択され、2026年下半期に実装を開始する予定だ。計画外の生産停止は製造業のコスト損失で最大の要因の一つであり、AIエージェントによる予兆検知はDX投資の最優先課題として位置づけられている。現場データの自律分析と担当者への通知・対応支援を組み合わせたアーキテクチャは、スマートマニュファクチャリングの標準パターンとなり、Azure AIエコシステムを核とした工場知能化の普及を加速させるだろう。"
+  },
+  {
+    "id": "29f186109f08",
+    "title": "ファナック、ロボット模倣学習をAWS EC2 P5で処理し学習時間を60時間から4.8時間に短縮",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/29/2000000136/",
+    "url_normalized": "itmedia.co.jp/aiplus/article/2606/29/2000000136",
+    "source": "ITmedia AI+",
+    "lang": "ja",
+    "published_at": "2026-06-29",
+    "fetched_at": "2026-06-30T06:18:03+09:00",
+    "matched_keyword": "業務改革",
+    "tags": [
+      "ロボット",
+      "模倣学習",
+      "AWS",
+      "フィジカルAI",
+      "製造業"
+    ],
+    "summary": "ファナックはAWS Summit Japan 2026で、ロボットの模倣学習処理時間をオンプレミスGPU環境からAmazon EC2 P5 GPUインスタンスへ移行することで従来の60時間から4.8時間（約12分の1）に短縮したと発表した。衣類などの柔軟物のハンドリング動作をVLA（視覚言語行動）モデルに学習させる際、実機学習とクラウド上の並列シミュレーション学習を組み合わせ効果を最大化した。AWSジャパンは2026年1月から国内企業向けに最大600万ドル規模の「フィジカルAI開発支援プログラム」を開始しており、オムロンサイニックエックスなど複数社が採択されている。産業用ロボットへのAI知能化は深刻な人手不足に応える国内製造業の喫緊課題であり、クラウドGPUによる学習コスト低減がその実用化を強く後押しする。物理AIの開発サイクルを12分の1に短縮できれば多品種少量生産への柔軟な対応力が飛躍的に高まり、日本の製造現場への普及が一段と加速する可能性がある。"
+  },
+  {
+    "id": "95bd5f8cbd45",
+    "title": "LINEヤフー、Yahoo!ニュースにOpenAI活用の「コメント要約」機能を提供開始",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/29/news114.html",
+    "url_normalized": "itmedia.co.jp/news/articles/2606/29/news114.html",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "published_at": "2026-06-29",
+    "fetched_at": "2026-06-30T06:18:03+09:00",
+    "matched_keyword": "生成AI",
+    "tags": [
+      "LLM",
+      "OpenAI",
+      "Yahoo Japan",
+      "コメント要約",
+      "Agent i"
+    ],
+    "summary": "LINEヤフーは2026年6月29日、Yahoo!ニュースのコメント欄にOpenAI APIを活用した「コメント要約」機能を追加した。多数投稿されたコメントをAIが自動的に要約してグラフで可視化し、「詳しい内容を読む」をタップするとAIエージェント「Agent i」が複数の意見を統合してニュースに関連するコメントへのリンクを提示する。スマートフォン版Yahoo! JAPANとPC版Yahoo!ニュースに順次展開される予定だ。Yahoo!ニュースは国内最大規模のニュースコメントプラットフォームであり、OpenAI技術との連携によって膨大な意見を短時間で俯瞰できる環境が整う。一方、AIが要約することでバイアスや情報の偏りが生じるリスクもあり、アルゴリズムの透明性確保と利用者リテラシーの向上が今後の重要課題となる。"
+  },
+  {
+    "id": "6c3f8da4a12a",
+    "title": "Ancient Teeth Reveal New Clues About Mysterious Homo Naledi Cave Burials",
+    "url": "https://www.heritagedaily.com/2026/06/ancient-teeth-reveal-new-clues-about-mysterious-homo-naledi-cave-burials/158447",
+    "url_normalized": "heritagedaily.com/2026/06/ancient-teeth-reveal-new-clues-about-mysterious-homo-naledi-cave-burials/158447",
+    "source": "Heritage Daily",
+    "lang": "en",
+    "published_at": "2026-06-26",
+    "fetched_at": "2026-06-30T06:18:03+09:00",
+    "matched_keyword": "歴史・教養",
+    "tags": [
+      "古人類学",
+      "南アフリカ",
+      "考古学",
+      "タンパク質分析",
+      "ホモ・ナレディ"
+    ],
+    "summary": "南アフリカ・ライジングスター洞窟ディナレディ・チャンバーで発見されたホモ・ナレディ（約24〜34万年前の人類近縁種）の化石群について、歯エナメル質の古代タンパク質を分析した研究が2026年6月24日付のCell誌に掲載された。少なくとも20体の個体の歯23本を対象に酸エッチングによる最小侵襲的手法でタンパク質を抽出した結果、男性Y染色体由来のアメロゲニン-Yがすべての個体から検出されなかった。成体骨格に性差がほとんど見られないという10年来の謎に、全員が女性だった可能性という新たな答えが浮上した。もし確認されれば、ホモ・サピエンス以外の種による初の性別特異的埋葬地となる。現代人以前の段階で高度な儀礼行動と性差への社会的認識が存在した可能性を示唆し、人類の象徴的思考の起源をさらにさかのぼらせる発見として、人類進化研究に大きなインパクトを与える。"
+  },
+  {
+    "id": "fde312cd0013",
+    "title": "Deep in the Mexican Jungle, Archaeologists Discovered a Lost Maya City That May Yield Clues About the Civilization Just Before It Collapsed",
+    "url": "https://www.smithsonianmag.com/smart-news/deep-in-the-mexican-jungle-archaeologists-discovered-a-lost-maya-city-that-may-yield-clues-about-the-civilization-just-before-it-collapsed-180989030/",
+    "url_normalized": "smithsonianmag.com/smart-news/deep-in-the-mexican-jungle-archaeologists-discovered-a-lost-maya-city-that-may-yield-clues-about-the-civilization-just-before-it-collapsed-180989030",
+    "source": "Smithsonian Magazine",
+    "lang": "en",
+    "published_at": "2026-06-22",
+    "fetched_at": "2026-06-30T06:18:03+09:00",
+    "matched_keyword": "歴史・教養",
+    "tags": [
+      "マヤ文明",
+      "考古学",
+      "メキシコ",
+      "LiDAR",
+      "失われた都市"
+    ],
+    "summary": "メキシコ・カンペチェ州カラクムル生物圏保護区の密林で、イヴァン・シュプライツ率いる国際チームがINAHの支援のもとマヤの失われた都市「ミナンベー」を発見した。ユカテク・マヤ語で「道なき土地」を意味するこの都市は約15ヘクタールに及び、リオ・ベック様式で高さ13メートルを超えるピラミッド神殿と14基の石碑・祭壇を擁する。最古の石碑（ステラ1）は849年CEの年代が刻まれ、首長の斬首場面を描いたもので、マヤ低地文明の崩壊直前に彫られたと判明した。LiDAR空中探査による発見後にジャングルを踏破して確認した未略奪のインタクトな都市は、チームが3年ぶりに発見した事例だ。600〜900年CEの後古典期に独立都市国家として栄えたマヤ低地の文明崩壊メカニズムを解明する上で、未略奪遺跡が提供するデータは極めて貴重であり、今後の発掘に大きな期待が寄せられる。"
+  },
+  {
     "id": "2f8b2e7e2dfa",
     "title": "米政府、Anthropicの「Mythos」（ミュトス）再開を一部容認──「Fable 5」は停止継続",
     "url": "https://www.itmedia.co.jp/news/articles/2606/28/news019.html",
